@@ -1,1 +1,17 @@
 /out/
+/issues/forthcoming/*/contents.tex
+/issues/forthcoming/*/*.a.tex
+
+/issues/forthcoming/*/*.dvi
+/issues/forthcoming/*/*.pdf
+/issues/forthcoming/*/*.ps
+
+/issues/*/*/*.aux
+/issues/*/*/*.bbl
+/issues/*/*/*.blg
+/issues/*/*/*.idx
+/issues/*/*/*.ilg
+/issues/*/*/*.ind
+/issues/*/*/*.log
+/issues/*/*/*.out
+/issues/*/*/*.toc
