@@ -8,11 +8,12 @@
 #
 # Targets:
 # - issues/overview		list all issues
-# - issues/ISSUE/clean		publish issue ISSUE
-# - issues/ISSUE/update		update issue ISSUE contents
-# - issues/ISSUE/build		render issue ISSUE
 # - issues/forthcoming		list all forthcoming issues
 # - issues/published		list all published issues
+# - issues/ISSUE			generate a summary of ISSUE
+# - issues/ISSUE/clean		clean up issue ISSUE (or 'forthcoming' or 'published')
+# - issues/ISSUE/update		update issue ISSUE (or 'forthcoming' or 'published') contents
+# - issues/ISSUE/build		render issue ISSUE (or 'forthcoming' or 'published')
 # - issues/ISSUE/publish		publish issue ISSUE
 #
 # </help>
@@ -134,16 +135,31 @@ issues/$(1)/$(2):: $(3)
 endef
 
 define beta_issue
-.PHONY: issues/$(1)/clean issues/$(1)/build issues/$(1)/update
-issues/$(1)/clean:
-	-$(Q)(cd issues/*/$(1) && rm -f $(1).aux $(1).log $(1).out $(1).toc)
+.PHONY: issues/$(1) issues/$(1)/clean issues/$(1)/build issues/$(1)/update
 
-issues/$(1)/update: $(patsubst %.markdown,%.a.tex,$(wildcard issues/*/$(1)/*.markdown))
-	$(call E, βeta: updating issue $(1))
+issues/$(1):
+	$(Q)(cd $(wildcard issues/*/$(1)) && \
+		echo -n Issue $(1) ''; grep '^\\date' $(1).tex | sed -Ee 's/.*\{(.*)\}/(\1)/';\
+		for f in $(notdir $(sort $(wildcard issues/*/$(1)/*.markdown))); do \
+			echo -n $$$${f%.markdown}: '' ; \
+			echo `grep "^title: " $$$${f} | cut -d' ' -f2-`; \
+		done)
+
+issues/$(1)/clean:
 	$(call E, cleaning issue $(1))
+	-$(Q)(cd issues/*/$(1) && \
+		rm -f $(1).{aux,log,out,toc} \
+			$(patsubst %.markdown,%.a.tex,$(sort $(notdir $(wildcard issues/*/$(1)/*.markdown)))))
+
+issues/$(1)/tidy:
+	$(call E, tidying issue $(1))
+	-$(Q)(cd issues/*/$(1) && \
+		rm -f $(1).{pdf,ps,dvi})
+
+issues/$(1)/update: $(patsubst %.markdown,%.a.tex,$(sort $(wildcard issues/*/$(1)/*.markdown)))
 	$(call E, updating issue $(1))
 	$(Q)(cd $(wildcard issues/*/$(1)) && \
-		echo $(patsubst %.markdown,%.a.tex,$(notdir $(wildcard issues/*/$(1)/*.markdown))) | \
+		echo $(patsubst %.markdown,%.a.tex,$(sort $(notdir $(wildcard issues/*/$(1)/*.markdown)))) | \
 		tr ' ' '\n' | \
 		sed -e 's/^/\\input{/; s/$$$$/}/g' > contents.tex)
 
@@ -159,8 +175,6 @@ issues/$(1)/build: issues/$(1)/update
 issues/$(1)/publish: issues/forthcoming/$(1)
 	$(call E, publishing issue $(1))
 	$(Q)mv -v issues/forthcoming/$(1) issues/published/$(1)
-endef
-
 
 $(foreach t,${ISSUE_TARGETS}, \
   $(eval $(call issue_join,$(notdir $(patsubst %/,%,$(dir $(wildcard issues/*/$(1))))),$(t),issues/$(1)/$(t))))
