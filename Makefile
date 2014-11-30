@@ -8,11 +8,11 @@
 #
 # Targets:
 # - issues/overview		list all issues
-# - issues/overview/forthcoming	list all forthcoming issues
-# - issues/overview/published	list all published issues
 # - issues/ISSUE/clean		publish issue ISSUE
 # - issues/ISSUE/update		update issue ISSUE contents
 # - issues/ISSUE/build		render issue ISSUE
+# - issues/forthcoming		list all forthcoming issues
+# - issues/published		list all published issues
 # - issues/ISSUE/publish		publish issue ISSUE
 #
 # </help>
@@ -106,9 +106,32 @@ endif
 ###
 ### Issues
 ###
+ISSUE_STATES		= forthcoming published
+ISSUE_TARGETS		= clean update build
 ISSUES_FORTHCOMING	:= $(notdir $(wildcard issues/forthcoming/*))
 ISSUES_PUBLISHED	:= $(notdir $(wildcard issues/published/*))
 ISSUES			:= ${ISSUES_FORTHCOMING} ${ISSUES_PUBLISHED}
+
+
+.PHONY: issues/forthcoming issues/published issues/overview
+issues/forthcoming: 
+	$(Q)echo "βeta: Forthcoming issues:"
+	$(foreach i,$(ISSUES_FORTHCOMING),$(Q)echo "   " $(i))
+
+issues/published: 
+	$(Q)echo "βeta: Published issues:"
+	$(foreach i,$(ISSUES_PUBLISHED),$(Q)echo "   " $(i))
+
+issues/overview: issues/forthcoming issues/published
+
+define issue_stub
+issues/$(1)/$(2)::
+	@true
+endef
+
+define issue_join
+issues/$(1)/$(2):: $(3)
+endef
 
 define beta_issue
 .PHONY: issues/$(1)/clean issues/$(1)/build issues/$(1)/update
@@ -134,16 +157,14 @@ issues/$(1)/publish: issues/forthcoming/$(1)
 	$(Q)mv -v issues/forthcoming/$(1) issues/published/$(1)
 endef
 
-.PHONY: issues/overview/forthcoming issues/overview/published issues/overview
-issues/overview/forthcoming: 
-	$(Q)echo "βeta: Forthcoming issues:"
-	$(foreach i,$(ISSUES_FORTHCOMING),$(Q)echo "   " $(i))
 
-issues/overview/published: 
-	$(Q)echo "βeta: Published issues:"
-	$(foreach i,$(ISSUES_PUBLISHED),$(Q)echo "   " $(i))
+$(foreach t,${ISSUE_TARGETS}, \
+  $(eval $(call issue_join,$(notdir $(patsubst %/,%,$(dir $(wildcard issues/*/$(1))))),$(t),issues/$(1)/$(t))))
+endef
 
-issues/overview: issues/overview/forthcoming issues/overview/published
+$(foreach s,$(ISSUE_STATES), \
+  $(eval $(foreach t,$(ISSUE_TARGETS), \
+    $(eval $(call issue_stub,$(s),$(t))))))
 
 $(foreach issue,${ISSUES},$(eval $(call beta_issue,$(issue))))
 
