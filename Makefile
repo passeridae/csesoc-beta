@@ -21,11 +21,11 @@ include config.mk
 
 ifdef VERBOSE
     Q :=
-    E =
 else
     Q := @
-    E = @echo $(1)
 endif
+
+E = @echo βeta[$(MAKELEVEL)]: $(1)
 
 S := $(CFG_SRC_DIR)
 
@@ -44,11 +44,11 @@ ${MAKEFILE_DOCS}:
 ###
 
 %.a.tex: %.markdown
-	$(call E, βeta: generating $@)
+	$(call E, converting $(notdir $<))
 	$(Q)pandoc --from markdown $< --to latex --output $@
 
 %.pdf %.dvi: %.tex
-	$(call E, βeta: building $@)
+	$(call E, building $@)
 	$(Q)(cd $(dir $@) && \
 		${LATEX} $(notdir $<) && \
 		${LATEX} $(notdir $<) && \
@@ -136,24 +136,25 @@ endef
 define beta_issue
 .PHONY: issues/$(1)/clean issues/$(1)/build issues/$(1)/update
 issues/$(1)/clean:
-	$(call E, βeta: cleaning issue $(1))
 	-$(Q)(cd issues/*/$(1) && rm -f $(1).aux $(1).log $(1).out $(1).toc)
 
 issues/$(1)/update: $(patsubst %.markdown,%.a.tex,$(wildcard issues/*/$(1)/*.markdown))
 	$(call E, βeta: updating issue $(1))
+	$(call E, cleaning issue $(1))
+	$(call E, updating issue $(1))
 	$(Q)(cd $(wildcard issues/*/$(1)) && \
 		echo $(patsubst %.markdown,%.a.tex,$(notdir $(wildcard issues/*/$(1)/*.markdown))) | \
 		tr ' ' '\n' | \
 		sed -e 's/^/\\input{/; s/$$$$/}/g' > contents.tex)
 
 issues/$(1)/build: issues/$(1)/update
-	$(call E, βeta: building issue $(1))
+	$(call E, building issue $(1))
 	$(Q)mkdir -p out
 	$(Q)make $(wildcard issues/*/$(1))/$(1).$(FORMAT)
 	$(Q)cp $(wildcard issues/*/$(1))/$(1).$(FORMAT) out/$(1).$(FORMAT)
 
 issues/$(1)/publish: issues/forthcoming/$(1)
-	$(call E, βeta: publishing issue $(1))
+	$(call E, publishing issue $(1))
 	$(Q)mv -v issues/forthcoming/$(1) issues/published/$(1)
 endef
 
