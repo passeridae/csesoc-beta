@@ -147,6 +147,9 @@ issues/$(1)/update: $(patsubst %.markdown,%.a.tex,$(wildcard issues/*/$(1)/*.mar
 		tr ' ' '\n' | \
 		sed -e 's/^/\\input{/; s/$$$$/}/g' > contents.tex)
 
+$(wildcard issues/*/$(1))/$(1).$(FORMAT):: $(wildcard issues/*/$(1))/contents.tex
+$(wildcard issues/*/$(1))/$(1).$(FORMAT):: $(patsubst %.markdown,%.a.tex,$(sort $(wildcard issues/*/$(1)/*.markdown)))
+
 issues/$(1)/build: issues/$(1)/update
 	$(call E, building issue $(1))
 	$(Q)mkdir -p out
