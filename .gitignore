@@ -1,6 +1,7 @@
 /out/
 /issues/forthcoming/*/contents.tex
 /issues/forthcoming/*/*.a.tex
+/issues/forthcoming/*/*.markdown
 
 /issues/forthcoming/*/*.dvi
 /issues/forthcoming/*/*.pdf
