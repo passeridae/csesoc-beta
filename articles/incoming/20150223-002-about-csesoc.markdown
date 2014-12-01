@@ -2,7 +2,8 @@
 title: About CSESoc
 ---
 
-\section{CSESoc: The Cool Nerd Hangout}
+\section{About CSESoc}
+\begin{center}{\Large The Cool Nerd Hangout}\end{center}
 
 CSESoc is the principal representative body for computing students on
 campus---all CSE Students are automatically members.  We're here to
@@ -12,16 +13,9 @@ To this end, we run weekly social and technical events throughout the
 year (and nearly all are free to attend!)
 
 Our social events are an opportunity for you to meet other CSE
-students, and take a break from studying.  In the past we've run:
-
- - our famous free weekly BBQ,
- - Trivia Nights,
- - Poker Nights,
- - Movie Nights,
- - LAN Parties,
- - Cocktail Parties,
-
-and more!
+students, and take a break from studying.  In the past we've run our
+famous free weekly BBQ Trivia Nights, Poker Nights, Movie Nights, LAN
+Parties, Cocktail Parties, and more!
 
 We announce these events by email, so make sure you sign up to the
 `soc-announce` mailing list during Lab 0 to receive them!  Our events
@@ -34,28 +28,28 @@ There are plenty of opportunities to get involved with running events
 and activities: we're always looking for volunteers, and it's a great
 way to develop your leadership and teamwork skills.
 
-CSESoc's teams, all of which you can volunteer for, are:
+You can volunteer for any of CSESoc's teams:
 
 Beta
-: produces the publication you're reading now,
+:    produces the publication you're reading now,
 
 Publicity
-: promotes our events by creating posters and running our social
-  media,
+:    promotes our events by creating posters and running our social
+     media,
 
 Dev
-: runs projects and code jams and maintains CSESoc's website and
-  servers,
+:    runs projects and code jams and maintains CSESoc's website and
+     servers,
 
 Social
-: organises and runs all of our social events
+:    organises and runs all of our social events
 
 Tech
-: organises and runs the society’s technical talks and workshops
+:    organises and runs the society’s technical talks and workshops
 
 Comp Club
-: provides a head start for high school students to explore computing
-  and eat pizza.
+:    provides a head start for high school students to explore
+     computing and eat pizza.
 
 Keep an eye out for our First Year Camp at the end of Week 3---we
 encourage all new students (postgraduate coursework/research and
@@ -67,7 +61,6 @@ Most of all, we're here to help you settle in and have a great time at
 UNSW!  We look forward to meeting all of you and helping you get the
 most out of this year!
 
-\byline{Evelyn Chensen}
-\byline{Pierre Estephan}
-\byline{Vincent Wong}
-\byline{Angelo Tamayo}
+\byline{Evelyn~Chensen\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Pierre~Estephan}
+\byline{Vincent~Wong\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Angelo~Tamayo}
+\vfill\columnbreak

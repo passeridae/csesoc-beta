@@ -1,6 +1,7 @@
 ---
 title: 'bumpf'
-date: 2015-02-23
+author: Jashank Jeremy
+date: 2014-11-28
 ---
 
 \section*{About CSE{}Soc~βeta}
@@ -14,13 +15,11 @@ Got some good content? Email us!\\
 \vspace{1em}\par
 {\Large\bf\makeatletter \the@year\ issue \the@issue}
 \par{\bf\sffamily βeta Head}\\ Jashank~Jeremy
+\par{\bf\sffamily Editorial}\\ Angelo~Tamayo
 \par{\bf\sffamily Contributors}\\
-  Evelyn~Chensen\hsp{}
-  Pierre~Estephan\hsp{}
-  Brad~Hall\hsp{}
-  Angelo~Tamayo\hsp{}
-  Vincent~Wong\hsp{}
-  Timothy~Wiley
+  Sarah~Bennett\hsp{}
+  Timothy~Humphries\hsp{}
+  Fraser~Metcalf
 \end{center}
 
 \tableofcontents
