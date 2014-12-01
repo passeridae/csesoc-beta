@@ -26,10 +26,10 @@ Installfest where experienced students can help you out.  Postgraduates and
 undergraduates are all welcome!
 
 Not only that, CSESoc also has activities and events to get you started in
-UNSW CSE.  Be sure to check out Lab 0; it shows you how to access to, and set
-up, your own CSE account, as well as teach you some basic commands for
-navigating the CSE lab computers, and teach you some cool tricks like how to
-play games on the CSE network.  If you're a postgrad, you can do Lab 0 on
+UNSW \CSE.  Be sure to check out Lab 0; it shows you how to access to, and set
+up, your own \CSE\ account, as well as teach you some basic commands for
+navigating the \CSE\ lab computers, and teach you some cool tricks like how to
+play games on the \CSE\ network.  If you're a postgrad, you can do Lab 0 on
 Wednesday 4--6pm during O-Week---just check out the venue on the O-Week events
 calendar---which runs with the Postgraduate Welcome at the K17 Seminar Room.
 Undergraduates don't need to worry---you'll be partaking in Lab 0 in your
@@ -39,3 +39,4 @@ For more information, come by our O-Week stall, the Socs office---Room 306,
 Level 3, K17---or visit the CSESoc website, __[csesoc.unsw.edu.au][csesoc]__.
 
 [csesoc]: https://www.csesoc.unsw.edu.au/
+\vfill

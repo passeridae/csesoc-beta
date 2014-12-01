@@ -4,17 +4,17 @@ title: Welcome to CSE!
 
 \section{Welcome to CSE!}
 
-On behalf of the CSE Society, welcome to CSE! What you're holding is a
-copy of our society's fortnightly publication, \csesocbeta{}.
+On behalf of the \CSE\ Society, welcome to \CSE! What you're holding
+is a copy of our society's fortnightly publication, \csesocbeta{}.
 
-$\beta$eta is a student newsletter produced by students in CSE for
-students in CSE. This means that $\beta$eta:
+$\beta$eta is a student newsletter produced by students in \CSE\ for
+students in \CSE. This means that $\beta$eta:
 
- - Bridges the gap between the staff and students of CSE;
+ - Bridges the gap between the staff and students of \CSE;
  - Keeps you up to date with some of the cutting-edge research done by
    our staff, postgrad and undergrad students;
- - Lets you know about the cool things CSE students get up to in their
-   spare time;
+ - Lets you know about the cool things \CSE\ students get up to in
+   their spare time;
  - Allows students to express and debate their opinions; and
  - Keeps you entertained with fun segments, puzzles, crosswords and
    much more.
@@ -33,3 +33,4 @@ The entire Beta Team looks forward to keeping you informed and
 entertained this year!
 
 \byline{The Beta Team}
+\vfill

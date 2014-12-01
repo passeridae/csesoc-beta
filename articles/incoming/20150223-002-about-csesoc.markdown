@@ -6,21 +6,21 @@ title: About CSESoc
 \begin{center}{\Large The Cool Nerd Hangout}\end{center}
 
 CSESoc is the principal representative body for computing students on
-campus---all CSE Students are automatically members.  We're here to
+campus---all \CSE\ students are automatically members.  We're here to
 grow the school community and provide opportunities for all computing
 students to have fun and meet other students outside of your studies.
 To this end, we run weekly social and technical events throughout the
 year (and nearly all are free to attend!)
 
-Our social events are an opportunity for you to meet other CSE
+Our social events are an opportunity for you to meet other \CSE\ 
 students, and take a break from studying.  In the past we've run our
 famous free weekly BBQ Trivia Nights, Poker Nights, Movie Nights, LAN
 Parties, Cocktail Parties, and more!
 
 We announce these events by email, so make sure you sign up to the
 `soc-announce` mailing list during Lab 0 to receive them!  Our events
-are open to all students; although, if you're not a CSE student---if
-you're not enrolled in a CSE degree or course---but want the full
+are open to all students; although, if you're not a \CSE\ student---if
+you're not enrolled in a \CSE\ degree or course---but want the full
 benefits of membership, ask the executives about becoming an associate
 member.
 
@@ -55,7 +55,7 @@ Keep an eye out for our First Year Camp at the end of Week 3---we
 encourage all new students (postgraduate coursework/research and
 undergraduate alike) to attend.  First Year Camp is the best way to
 meet people in your courses (great for groupwork!) and the rest of
-CSE.
+\CSE.
 
 Most of all, we're here to help you settle in and have a great time at
 UNSW!  We look forward to meeting all of you and helping you get the
@@ -63,4 +63,4 @@ most out of this year!
 
 \byline{Evelyn~Chensen\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Pierre~Estephan}
 \byline{Vincent~Wong\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Angelo~Tamayo}
-\vfill\columnbreak
+\vfill
