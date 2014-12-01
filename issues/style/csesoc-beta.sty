@@ -1,0 +1,88 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{csesoc-beta}[2014/11/28 0.01 CSESoc Beta magazine styles]
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{fontspec}
+\usepackage[a4paper]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{hyphenat}
+\usepackage{ifluatex}
+\usepackage{ifxetex}
+\usepackage{mathpazo}
+\usepackage[protrusion=true,expansion]{microtype}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage{tocloft}
+
+%\newcommand{\csesocbeta}{CSE{}Soc~βeta}
+\newcommand{\csesocbeta}{CSE{}Soc~$\beta$eta}
+
+\defaultfontfeatures{Ligatures=TeX}
+\setmainfont[BoldFont={Klinic Slab Medium},
+             ItalicFont={Klinic Slab Book Italic}]{Klinic Slab Book}
+\setsansfont[Scale=MatchLowercase,
+             BoldFont={Roboto Bold},ItalicFont={Roboto Italic}]{Roboto Regular}
+\setmonofont[Scale=MatchLowercase]{Andale Mono}
+
+%% hyperref
+\hypersetup{unicode=true,
+  bookmarks=true,
+  bookmarksnumbered=false,
+  bookmarksopen=false,
+  breaklinks=false,
+  pdfborder={0.7 0.2 0},
+  backref=false,
+  colorlinks=false,
+  pdftitle={CSESoc Beta},
+  pdfauthor={UNSW CSESoc}}
+
+%% geometry
+\geometry{tmargin=2.54cm,bmargin=2.54cm,
+          lmargin=2.54cm,rmargin=2.54cm,
+          headheight=14pt,headsep=1cm,footskip=1cm}
+
+%% Fancy headers
+\fancypagestyle{mag}{\fancyhf{}%
+  \fancyfoot[RO]{\the@year~i~\the@issue\hspace*{1ex}\rule[2pt]{2pt}{2pt}\hspace*{1ex}\thepage}%
+  \fancyfoot[LE]{\thepage\hspace*{1ex}\rule[1pt]{4pt}{4pt}\hspace*{1ex}\the@year~i~\the@issue}}
+\renewcommand{\headrulewidth}{0pt}
+\pagestyle{mag}
+
+%% Chapter headings
+\newcommand{\hsp}{\hspace{1em}}
+
+\newcommand{\byline}[1]{%
+  {\raggedleft\rule[1pt]{4pt}{4pt}%
+    \hspace{0.5em}\it\sffamily #1\\ }}
+
+% Section
+\titleformat{\section}[hang]%
+            {\filcenter\sffamily\huge}%
+            {\thesection\hsp}%
+            {0pt}%
+            {\huge}
+\titleformat{\subsection}[hang]%
+            {\filright\sffamily\Large}%
+            {\thesection\hsp}%
+            {0pt}%
+            {\Large}
+
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{1}
+\setlength{\parskip}{\smallskipamount}
+\setlength{\parindent}{0pt}
+\raggedcolumns
+
+\renewcommand{\contentsname}{In This Issue}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+\def\maketitle{%
+\begingroup%
+\vspace*{-3cm}\centering\hspace*{-2.8cm}%
+\includegraphics[width=22cm]{../../style/beta-logo.pdf}%
+\vspace{1em}\thispagestyle{empty}
+\endgroup}
