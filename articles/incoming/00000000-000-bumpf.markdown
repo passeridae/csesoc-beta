@@ -22,5 +22,5 @@ Got some good content? Email us!\\
   Fraser~Metcalf
 \end{center}
 
-\tableofcontents
+\malcontents\thispagestyle{mag}
 \vfill\columnbreak\flushcolumns

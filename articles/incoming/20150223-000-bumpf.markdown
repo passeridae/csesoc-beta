@@ -23,5 +23,5 @@ Got some good content? Email us!\\
   Timothy~Wiley
 \end{center}
 
-\tableofcontents
+\malcontents\thispagestyle{mag}
 \vfill\columnbreak\flushcolumns
