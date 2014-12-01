@@ -1,0 +1,55 @@
+---
+title: CSESoc Heads 2015
+date: 2014-11-28
+---
+
+\section{CSESoc Team, 2015}
+\subsection{Executive}
+
+Co-Presidents
+:    \hfill\ Davina Adisusila
+:    \hfill\ Oliver Tan
+
+Secretary
+:    \hfill\ Octavia Soegyono
+
+Arc Delegate
+:    \hfill\ Karl Krauth
+
+Treasurer
+:    \hfill\ Lucas Pickup
+
+\subsection{Team Heads}
+
+Social
+:    \hfill\ Jake Bloom
+:    \hfill\ Steven Strijakov
+
+Publicity
+:    \hfill\ Lavender Chan
+
+Beta
+:    \hfill\ Jashank Jeremy
+
+Dev
+:    \hfill\ George Caley
+
+High School
+:    \hfill\ Jason Lim
+
+DevSpace
+:    \hfill\ Matthew McEwen
+
+Talks and Workshops
+:    \hfill\ John Wiseheart
+:    \hfill\ David Sison
+
+Student Network
+:    \hfill\ Christopher Manouvrier
+
+Congratulations to the new executive team and team heads for 2015!
+
+\begin{center}
+\rule[2pt]{.75\linewidth}{.1pt}
+\end{center}
+
