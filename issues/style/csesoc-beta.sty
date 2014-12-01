@@ -82,6 +82,14 @@
 
 \renewcommand{\contentsname}{In This Issue}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\def\malcontents{%
+  {\centering\LARGE\sffamily \contentsname}%
+  \@starttoc{toc}}
+\makeatletter
+\renewcommand*\l@section{\@dottedtocline{1}{0pt}{1em}}
+
+%\let\@thispagestyle\thispagestyle
+%\renewcommand{\thispagestyle}[1]{\message{thispagestyle #1}\makeatletter\@thispagestyle{#1}}
 
 \newcommand{\comp}{\textsc{comp}}
 
