@@ -2,8 +2,17 @@
 title: About CSESoc
 ---
 
-\section{About CSESoc}
-\begin{center}{\Large The Cool Nerd Hangout}\end{center}
+\endmulticols
+\LRmulticolcolumns
+
+About CSESoc
+============
+
+\begin{center}
+{\large\it The hangout for cool nerds}
+\end{center}
+
+\multicols{2}
 
 CSESoc is the principal representative body for computing students on
 campus---all \CSE\ students are automatically members.  We're here to
@@ -63,4 +72,4 @@ most out of this year!
 
 \byline{Evelyn~Chensen\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Pierre~Estephan}
 \byline{Vincent~Wong\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Angelo~Tamayo}
-\vfill
+

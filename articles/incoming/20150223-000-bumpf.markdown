@@ -25,4 +25,4 @@ Got some good content? Email us!\\
 \end{center}
 
 \malcontents\thispagestyle{mag}
-\vfill\columnbreak\flushcolumns
+\vfill\raggedcolumns\columnbreak

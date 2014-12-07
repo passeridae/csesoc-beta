@@ -33,4 +33,5 @@ The entire Beta Team looks forward to keeping you informed and
 entertained this year!
 
 \byline{The Beta Team}
-\vfill
+
+\pagebreak
