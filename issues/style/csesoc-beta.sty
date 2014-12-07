@@ -1,9 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{csesoc-beta}[2014/11/28 0.01 CSESoc Beta magazine styles]
 
-% Enable double-sidedness.
-\makeatletter\@twosidetrue\@mparswitchtrue
-
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{color}
@@ -17,7 +14,7 @@
 \usepackage{ifxetex}
 \usepackage{mathpazo}
 \usepackage[protrusion=true,expansion]{microtype}
-\usepackage{multicol}
+\usepackage[colaction]{multicol}
 \usepackage{titlesec}
 \usepackage{tocloft}
 
@@ -44,7 +41,7 @@
   pdfauthor={UNSW CSESoc}}
 
 %% geometry
-\geometry{tmargin=2.54cm,bmargin=2.54cm,
+\geometry{tmargin=2cm,bmargin=2cm,
           lmargin=2.54cm,rmargin=2.54cm,
           headheight=14pt,headsep=1cm,footskip=1cm}
 
@@ -63,12 +60,13 @@
     \hspace{0.5em}\it\sffamily #1\\ }}
 
 % Section
-\titleformat{\section}[hang]%
+\titleformat{\section}[block]%
             {\filcenter\sffamily\huge}%
             {\thesection\hsp}%
             {0pt}%
             {\huge}
-\titleformat{\subsection}[hang]%
+\titlespacing*{\section}{0pt}{0pt}{.25ex}
+\titleformat{\subsection}[block]%
             {\filright\sffamily\Large}%
             {\thesection\hsp}%
             {0pt}%
@@ -79,7 +77,7 @@
 \setcounter{tocdepth}{1}
 \setlength{\parskip}{\smallskipamount}
 \setlength{\parindent}{0pt}
-\raggedcolumns
+%\raggedcolumns
 
 \renewcommand{\contentsname}{In This Issue}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
@@ -92,13 +90,14 @@
 %\let\@thispagestyle\thispagestyle
 %\renewcommand{\thispagestyle}[1]{\message{thispagestyle #1}\makeatletter\@thispagestyle{#1}}
 
+\newcommand{\unsw}{\textsc{unsw}}\let\UNSW\unsw
 \newcommand{\cse}{\textsc{cse}}\let\CSE\cse
 \newcommand{\comp}{\textsc{comp}}\let\COMP\comp
 \newcommand{\seng}{\textsc{seng}}\let\SENG\seng
 
 \def\maketitle{%
 \begingroup%
-\vspace*{-3cm}\centering\hspace*{-2.8cm}%
+\vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
 \includegraphics[width=22cm]{../../style/beta-logo.pdf}%
-\vspace{1em}\thispagestyle{empty}
+\vspace{1em}
 \endgroup}
