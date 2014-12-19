@@ -21,7 +21,7 @@ students in \CSE. This means that $\beta$eta:
 
 You can grab your copy of \csesocbeta{} at CSESoc's free weekly BBQ
 (Mondays 12:30--1.30p on the Physics lawn) or at the student office on
-the ground floor of K17.
+the ground floor of \KK17.
 
 This edition of \csesocbeta{} is an introduction that'll help you get
 through that confusing first week where you're seeing new faces and

@@ -27,6 +27,7 @@ else
 endif
 
 E = @echo βeta[$(MAKELEVEL)]: $(1)
+Ee = @echo "   " $(1)
 
 S := $(CFG_SRC_DIR)
 
@@ -116,12 +117,10 @@ ISSUES			:= ${ISSUES_FORTHCOMING} ${ISSUES_PUBLISHED}
 
 .PHONY: issues/forthcoming issues/published issues/overview
 issues/forthcoming: 
-	$(Q)echo "βeta: Forthcoming issues:"
-	$(foreach i,$(ISSUES_FORTHCOMING),$(Q)echo "   " $(i))
+	$(Q)echo "βeta: Forthcoming issues:" $(ISSUES_FORTHCOMING)
 
 issues/published: 
-	$(Q)echo "βeta: Published issues:"
-	$(foreach i,$(ISSUES_PUBLISHED),$(Q)echo "   " $(i))
+	$(Q)echo "βeta: Published issues:" $(ISSUES_PUBLISHED)
 
 issues/overview: issues/forthcoming issues/published
 

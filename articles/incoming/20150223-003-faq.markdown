@@ -109,7 +109,7 @@ regurgitating content.
 
 The Student Office is the place to go for any concerns about anything
 related to your program, such as enrolment, timetabling, or electives.
-You can find them in the K17 foyer, just inside the front door, beside
+You can find them in the \KK17 foyer, just inside the front door, beside
 the lifts.  They are usually open weekdays from 9:30a--12:30p and then
 2--4:30p.
 
@@ -117,9 +117,9 @@ the lifts.  They are usually open weekdays from 9:30a--12:30p and then
 
 It's a room the School of \CSE\ provides for the \CSE\ student
 societies---CSESoc, \CSE\ Revue and the StuReps---to use, and is also
-usually open during the day.  Like the K17 basement, it's a great
+usually open during the day.  Like the \KK17 basement, it's a great
 place to meet and hang out with people from \CSE, and is on Level 3 of
-K17 in Room 306.  You can check if the Socs Office is open online at
+\KK17 in Room 306.  You can check if the Socs Office is open online at
 [issocsopen.com][issocsopen].
 
 [issocsopen]: http://issocsopen.com/
