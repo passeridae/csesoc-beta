@@ -1,0 +1,27 @@
+---
+title: Join the CSE Student Network
+---
+
+\endmulticols
+
+The CSE Student Network
+=======================
+
+\multicols{2}
+
+New to \CSE?  A Student Network mentor can help you find your feet.
+
+The School of Computer Science and Engineering (\CSE) runs the
+\CSE\ Student Network to assist you with your transition into life at
+\CSE\ and \UNSW.  \CSE\ will assign a mentor to you personally, and
+run group events.  The mentor will be a student in second year or
+above.
+
+This program is not academic---the mentors will not help you with
+assignments, etc.  But they _will_ help you find your way around
+\UNSW, give advice on opportunities, and help you form a social
+network.  It's aimed at new undergraduate and postgraduate coursework
+students.
+
+You must register to participate:  
+[www.cse.unsw.edu.au/db/do/mentee](http://www.cse.unsw.edu.au/db/do/mentee/)
