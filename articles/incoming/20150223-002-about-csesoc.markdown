@@ -22,9 +22,9 @@ To this end, we run weekly social and technical events throughout the
 year (and nearly all are free to attend!)
 
 Our social events are an opportunity for you to meet other
-\CSE\ students, and take a break from studying.  In the past we've run
-our famous free weekly BBQ Trivia Nights, Poker Nights, Movie Nights,
-LAN Parties, Cocktail Parties, and more!
+\CSE\ students, and take a break from studying.  In addition to our
+famous free weekly BBQ, we've run Trivia Nights, Poker Nights, Movie
+Nights, Cocktail Parties, LAN Parties, and more!
 
 We announce these events by email, so make sure you sign up to the
 `soc-announce` mailing list during Lab 0 to receive them!  Our events
