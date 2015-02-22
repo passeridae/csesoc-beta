@@ -2,7 +2,10 @@
 title: Welcome to CSE!
 ---
 
-\section{Welcome to CSE!}
+Welcome to CSE!
+===============
+
+\multicols{2}
 
 On behalf of the \CSE\ Society, welcome to \CSE! What you're holding
 is a copy of our society's fortnightly publication, \csesocbeta{}.
@@ -20,7 +23,7 @@ students in \CSE. This means that $\beta$eta:
    much more.
 
 You can grab your copy of \csesocbeta{} at CSESoc's free weekly BBQ
-(Mondays 12:30--1.30p on the Physics lawn) or at the student office on
+(Mondays 12:30--2:00p on the Physics lawn) or at the student office on
 the ground floor of \KK17.
 
 This edition of \csesocbeta{} is an introduction that'll help you get
@@ -34,4 +37,9 @@ entertained this year!
 
 \byline{The Beta Team}
 
+\begin{center}
+\includegraphics[width=0.75\linewidth]{images/beta101-logo.png}
+\end{center}
+
+\LRmulticolcolumns\vfill
 \pagebreak

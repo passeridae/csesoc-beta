@@ -19,7 +19,7 @@ with using Linux, working with files, launching programs, using the
 terminal, and more.  You should do the lab before your first \comp1917
 or \comp1911 class, but if you can't, don't worry; it's covered in
 week 1.  To get started just walk into a \CSE\ lab!  
-http://wiki.csesoc.unsw.edu.au/Tech/Lab0/Worksheet
+[wiki.csesoc.unsw.edu.au/Lab0](https://wiki.csesoc.unsw.edu.au/Lab0)
 
 #### What is Linux? ####
 
@@ -142,3 +142,7 @@ finally, wandering around the campus can be a fun way to explore (if
 you aren't in a hurry).
 
 \byline{William~Korteland}
+
+\begin{center}
+\includegraphics[width=0.8\linewidth]{images/beta101-socsign2.png}
+\end{center}

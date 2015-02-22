@@ -17,7 +17,7 @@ The CSESoc signature social event is our _weekly free BBQ_.  These run
 throughout the semester, rain or shine.  We have a range of different food
 options, so if you are a meatasaurus or a vegetarian, you can still have a
 great time!  When do you start getting our free food?  The first BBQ will be
-on Friday of O-Week from 12--1.30pm on the Physics Lawn---make sure you're
+on Monday of O-Week from 12:30--2:00pm on the Physics Lawn---make sure you're
 there!
 
 On top of this plethora of social events, CSESoc also holds tech-based events
@@ -26,17 +26,17 @@ classroom.  These events range from workshops and seminars, to coding
 competitions that are always fun to be a part of.
 
 One of the first tech events of the year is the Linux Installfest, which will
-be early in the semester.  If you would like to install Linux on your computer
-and have questions, worries or reservations about the process, bring it to the
-Installfest where experienced students can help you out.  Postgraduates and
-undergraduates are all welcome!
+be on Thursday, 12 March from 3--7p.  If you would like to install Linux on
+your computer and have questions, worries or reservations about the process,
+bring it to the Installfest where experienced students can help you out.
+Postgraduates and undergraduates are all welcome!
 
 Not only that, CSESoc also has activities and events to get you started in
 \UNSW\ \CSE.  Be sure to check out Lab 0; it shows you how to access to, and
 set up, your own \CSE\ account, as well as teach you some basic commands for
 navigating the \CSE\ lab computers, and teach you some cool tricks like how to
 play games on the \CSE\ network.  If you're a postgrad, you can do Lab 0 on
-Wednesday 4--6pm during O-Week---just check out the venue on the O-Week events
+Thursday 1--3pm during O-Week---just check out the venue on the O-Week events
 calendar---which runs with the Postgraduate Welcome at the \KK17 Seminar Room.
 Undergraduates don't need to worry---you'll be partaking in Lab 0 in your
 first \comp1917 tutorial.

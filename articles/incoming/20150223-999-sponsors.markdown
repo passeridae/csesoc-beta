@@ -1,0 +1,25 @@
+---
+title: Sponsors
+---
+
+\endmulticols\LRmulticolcolumns\vfill
+
+\section*{This Edition of βeta Sponsored By...}
+
+\begin{center}
+\includegraphics[width=0.3\linewidth]{../../sponsors/accenture.png}\hspace{2ex}
+\includegraphics[width=0.25\linewidth]{../../sponsors/google.png}\hspace{2ex}
+\includegraphics[width=0.3\linewidth]{../../sponsors/freelancer.png}
+
+\includegraphics[width=0.3\linewidth]{../../sponsors/janestreet.png}\hspace{2ex}
+\includegraphics[width=0.3\linewidth]{../../sponsors/microsoft.png}
+
+\includegraphics[width=0.3\linewidth]{../../sponsors/atlassian.png}\hspace{2ex}
+\includegraphics[width=0.2\linewidth]{../../sponsors/pwc.png}\hspace{2ex}
+\includegraphics[width=0.3\linewidth]{../../sponsors/palantir.png}
+
+\includegraphics[width=0.2\linewidth]{../../sponsors/facebook.png}\hspace{2ex}
+\includegraphics[width=0.2\linewidth]{../../sponsors/optiver.png}\hspace{2ex}
+\includegraphics[width=0.2\linewidth]{../../sponsors/printzone.png}
+\end{center}
+\multicols{2}

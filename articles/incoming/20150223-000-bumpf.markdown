@@ -8,21 +8,25 @@ date: 2015-02-23
 \csesocbeta{} is published fortnightly\\
 by UNSW CSESoc, Beta team.
 \par Find us online at\\
-\textbf{beta.csesoc.unsw.edu.au}\\
+\textbf{www.csesoc.unsw.edu.au}\\
 Got some good content? Email us!\\
 \textbf{csesoc.beta@cse.unsw.edu.au}\\
 \vspace{1em}\par
 {\Large\bf\makeatletter \the@year\ issue \the@issue}
 \par{\bf\sffamily βeta Head}\\ Jashank~Jeremy
 \par{\bf\sffamily Contributors}\\
+  Jake~Bloom\hsp{}
   Evelyn~Chensen\hsp{}
   Pierre~Estephan\hsp{}
   Brad~Hall\hsp{}
+  Steven~Strijakov\hsp{}
   William~Korteland\hsp{}
   Angelo~Tamayo\hsp{}
   Vincent~Wong\hsp{}
   Timothy~Wiley
 \end{center}
-
+\columnbreak
 \malcontents\thispagestyle{mag}
-\vfill\raggedcolumns\columnbreak
+\vfill\raggedcolumns
+\endmulticols
+\LRmulticolcolumns

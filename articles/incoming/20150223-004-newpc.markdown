@@ -2,18 +2,22 @@
 title: Do I Need To Buy A New Computer?
 ---
 
-\endmulticols
+\endmulticols\vfill\pagebreak
 
 Do I Need To Buy A New Computer?
 ================================
 
 \begin{center}\vspace{-1ex}
-{\large\it Tim answers the age-old question of whether or not you need
-	to buy a new computer for university.}
+{\large\it Tim answers the age-old question of whether or not\\
+	you need to buy a new computer for university.}
 \end{center}
 \multicols{2}
 
 One question regularly asked by new first year students is, "Do I need to buy a computer?".  While the answer often depends upon the individual's circumstances, there are five common situations.
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{images/beta101-computers.png}
+\end{center}
 
 #### I do not own a computer; do I need one? ####
 
@@ -50,3 +54,9 @@ Almost all new laptops are capable of meeting your study needs, so the choice of
 And don't forget that this is general advice, and your circumstances may differ.
 
 \byline{Timothy~Wiley}
+
+\endmulticols\LRmulticolcolumns\vfill
+\begin{center}
+\includegraphics[width=\linewidth]{images/exploits_of_a_mom.png}
+\end{center}
+\multicols{2}
