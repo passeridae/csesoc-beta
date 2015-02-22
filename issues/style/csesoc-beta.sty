@@ -15,6 +15,7 @@
 \usepackage{mathpazo}
 \usepackage[protrusion=true,expansion]{microtype}
 \usepackage[colaction]{multicol}
+\usepackage{pdfpages}
 \usepackage{titlesec}
 \usepackage{tocloft}
 
@@ -41,14 +42,14 @@
   pdfauthor={UNSW CSESoc}}
 
 %% geometry
-\geometry{tmargin=2cm,bmargin=2cm,
-          lmargin=2.54cm,rmargin=2.54cm,
+\geometry{tmargin=1.75cm,bmargin=1.75cm,
+          lmargin=.75in,rmargin=.75in,
           headheight=14pt,headsep=1cm,footskip=1cm}
 
 %% Fancy headers
 \fancypagestyle{mag}{\fancyhf{}%
-  \fancyfoot[RO]{\csesocbeta{}\hspace*{1ex}\the@year~i~\the@issue\hspace*{1ex}\rule[2pt]{2pt}{2pt}\hspace*{1ex}\thepage}%
-  \fancyfoot[LE]{\thepage\hspace*{1ex}\rule[1pt]{4pt}{4pt}\hspace*{1ex}\csesocbeta{}\hspace*{1ex}\the@year~i~\the@issue}}
+  \fancyfoot[RO]{CSE{}Soc\texttt{.unsw.edu.au}~$\beta$eta\hspace*{1ex}\the@year/\textit{issue}\the@issue\hspace*{1ex}\rule[2pt]{2pt}{2pt}\hspace*{1ex}\thepage}%
+  \fancyfoot[LE]{\thepage\hspace*{1ex}\rule[1pt]{4pt}{4pt}\hspace*{1ex}CSE{}Soc\texttt{.unsw.edu.au}~$\beta$eta\hspace*{1ex}\the@year/\textit{issue}\the@issue}}
 \renewcommand{\headrulewidth}{0pt}
 \pagestyle{mag}
 
