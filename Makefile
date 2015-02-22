@@ -133,6 +133,10 @@ define issue_join
 issues/$(1)/$(2):: $(3)
 endef
 
+define format_minify_cmd
+	gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=$(basename $(1)).min$(suffix $(1)) $(1)
+endef
+
 define beta_issue
 .PHONY: issues/$(1) issues/$(1)/clean issues/$(1)/build issues/$(1)/update
 
@@ -170,6 +174,7 @@ issues/$(1)/build: issues/$(1)/update
 	$(Q)mkdir -p out
 	$(Q)make $(wildcard issues/*/$(1))/$(1).$(FORMAT)
 	$(Q)cp $(wildcard issues/*/$(1))/$(1).$(FORMAT) out/$(1).$(FORMAT)
+	$(Q)$(call format_minify_cmd,out/$(1).$(FORMAT))
 
 issues/$(1)/publish: issues/forthcoming/$(1)
 	$(call E, publishing issue $(1))
