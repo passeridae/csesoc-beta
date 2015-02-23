@@ -3,9 +3,17 @@
 /issues/forthcoming/*/*.a.tex
 /issues/forthcoming/*/*.markdown
 
-/issues/forthcoming/*/*.dvi
-/issues/forthcoming/*/*.pdf
-/issues/forthcoming/*/*.ps
+/issues/published/*/contents.tex
+/issues/published/*/*.a.tex
+/issues/published/*/*.markdown
+
+/issues/forthcoming/*/issue*.dvi
+/issues/forthcoming/*/issue*.pdf
+/issues/forthcoming/*/issue*.ps
+
+/issues/published/*/issue*.dvi
+/issues/published/*/issue*.pdf
+/issues/published/*/issue*.ps
 
 /issues/*/*/*.aux
 /issues/*/*/*.bbl
