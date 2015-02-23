@@ -1,7 +1,6 @@
 ---
 title: 'bumpf'
-author: Jashank Jeremy
-date: 2014-11-28
+date: 2015-03-02
 ---
 
 \section*{About CSE{}Soc~βeta}
@@ -9,17 +8,17 @@ date: 2014-11-28
 \csesocbeta{} is published fortnightly\\
 by UNSW CSESoc, Beta team.
 \par Find us online at\\
-\textbf{beta.csesoc.unsw.edu.au}\\
+\textbf{www.csesoc.unsw.edu.au}\\
 Got some good content? Email us!\\
 \textbf{csesoc.beta@cse.unsw.edu.au}\\
 \vspace{1em}\par
 {\Large\bf\makeatletter \the@year\ issue \the@issue}
 \par{\bf\sffamily βeta Head}\\ Jashank~Jeremy
 \par{\bf\sffamily Contributors}\\
-  Sarah~Bennett\hsp{}
-  Timothy~Humphries\hsp{}
-  Fraser~Metcalf
+  Timothy~Humphries
 \end{center}
-
+\columnbreak
 \malcontents\thispagestyle{mag}
-\vfill\columnbreak\flushcolumns
+\vfill\raggedcolumns
+\endmulticols
+\LRmulticolcolumns
