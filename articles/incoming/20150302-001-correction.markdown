@@ -1,0 +1,13 @@
+---
+title: Correction
+---
+
+Correction
+----------
+
+In issue 101 (the First Year Survival Guide), we specified that the
+\CSE\ Student Office's opening hours were _"weekdays from
+9:30a--12:30p and then 2--4:30p"_.  This is, in fact, incorrect; the
+CSE Student Office is open weekdays, 9:30a--4:30p.  We apologise for
+any confusion this may have caused.
+

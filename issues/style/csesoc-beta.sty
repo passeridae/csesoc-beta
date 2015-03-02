@@ -80,6 +80,38 @@
 \setlength{\parindent}{0pt}
 %\raggedcolumns
 
+% cwpuzzle patches
+\usepackage[small]{cwpuzzle}
+\renewcommand{\PuzzleClueFont}{\normalsize}
+\renewcommand{\PuzzleCluePre}{\null}
+\renewcommand{\PuzzleCluePost}{\null}
+\renewcommand\Puzzle@Clue@@normal[3]{\textsf{\textbf{#1}}~#3 }
+\renewcommand\PuzzleBlackBox{\textcolor{gray}{\rule{\PuzzleUnitlength}{\PuzzleUnitlength}}}
+
+% sometimes this code tikz me off
+\usepackage{tikz}
+\usepackage[skins]{tcolorbox}
+
+\definecolor{socialcolor}{rgb}{0.302,0.565,0.941} % #4d90f0
+\newcommand{\bcalSocial}{\raisebox{-3pt}{\tikzpicture%
+    \fill[color=socialcolor, rounded corners=3pt] (-1pt,-1pt) rectangle (3.5em,11pt);%
+    \draw[white] (1.75em,5pt) node {\textsf{social}}; \endtikzpicture}}
+
+\definecolor{newscolor}{rgb}{1.0,0.643,0.0} % #ffa400
+\newcommand{\bcalNews}{\raisebox{-3pt}{\tikzpicture%
+    \fill[color=newscolor, rounded corners=3pt] (-1pt,-1pt) rectangle (3em,11pt);%
+    \draw[white] (1.5em,5pt) node {\textsf{news}}; \endtikzpicture}}
+
+\definecolor{careerscolor}{rgb}{0.0,0.741,0.224} % #00bd39
+\newcommand{\bcalCareers}{\raisebox{-3pt}{\tikzpicture%
+    \fill[color=careerscolor, rounded corners=3pt] (-1pt,-1pt) rectangle (3.5em,11pt);%
+    \draw[white] (1.75em,5pt) node {\textsf{careers}}; \endtikzpicture}}
+
+\definecolor{techcolor}{rgb}{0.941,0.302,0.302} % #f04d4d
+\newcommand{\bcalTech}{\raisebox{-3pt}{\tikzpicture%
+    \fill[color=techcolor, rounded corners=3pt] (-1pt,-1pt) rectangle (3em,11pt);%
+    \draw[white] (1.5em,5pt) node {\textsf{tech}}; \endtikzpicture}}
+
 \renewcommand{\contentsname}{In This Issue}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 \def\malcontents{%

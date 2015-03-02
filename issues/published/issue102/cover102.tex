@@ -1,0 +1,46 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\date{2 March 2015}
+\makeatletter
+\gdef\the@year{2015}
+\gdef\the@issue{102}
+\setsansfont[Scale=MatchLowercase,
+             BoldFont={RobotoCondensed Regular},ItalicFont={RobotoCondensed LightItalic}]{RobotoCondensed Light}
+
+\begin{document}\thispagestyle{empty}
+\begingroup%
+\vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
+\includegraphics[width=22cm]{../../style/beta-logo.pdf}%
+\vspace{1em}
+{\sffamily\fontsize{32pt}{32pt}\selectfont --- news from computer science and engineering ---}
+\endgroup
+
+\begin{center}
+\includegraphics[trim=10mm 55mm 15mm 65mm, clip, width=\linewidth]{images/beta101-campers.png}
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont Are you ready for \bfseries FIRST YEAR CAMP?}
+\hfill{\rmfamily\fontsize{14pt}{14pt}\selectfont page 5}
+
+\end{center}
+
+\begin{multicols}{2}\center
+\tikz\node[circle,inner sep=.3\linewidth,fill overzoom image=images/heads-prez.png] (A) {};
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont meet your new \bfseries CSESoc Team}
+
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 3--4}
+\endcenter
+
+\vfill\columnbreak\center
+\tikz\node[circle,inner sep=.3\linewidth,fill overzoom image=images/beta101-logo.png] (A) {};
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont find out \bfseries what's on}
+
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 6}
+\end{multicols}
+
+\begin{center}
+\fontsize{14pt}{14pt} issue 102 --- 3 March 2015 --- 15s1 week 1
+\end{center}
+
+\end{document}

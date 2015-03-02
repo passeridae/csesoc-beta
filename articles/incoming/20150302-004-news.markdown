@@ -1,0 +1,52 @@
+---
+title: The News in Brief
+---
+
+\endmulticols\vfill\pagebreak
+
+The News in Brief
+=================
+
+\multicols{2}
+
+Beam Him Up
+:    "A life is like a garden. Perfect moments can be had, but not
+     preserved, except in memory."  
+     ---Leonard Nimoy, 1931--2015.  Live long and prosper.
+
+Net Neutrality Preserved
+:    The United States FCC ruled last week that the Internet should
+     rely on common carriers, meaning the ongoing war on net
+     neutrality has ended with a resounding victory.
+
+Terabit Wireless
+:    Researchers at the University of Surrey in England have achieved
+     speeds of 1 Tbps over 100 metres under lab conditions, as part of
+     research into the fifth generation of ITU mobile communications
+     suites.
+
+Pebble Time
+:    Another gorgeous smartwatch to be released by Pebble, going on
+     Kickstarter for $159 and looking to ship in May.  Huge overhauls,
+     but will it be enough to compete against the new players in the
+     smartwatch arena: Google and Apple?
+
+HTTP/2 Adoption In Browsers
+:    After HTTP/2 was finalised just a few weeks ago, Mozilla have
+     jumped right on the bandwagon, with version 36 of the Gecko web
+     framework, which powers Firefox, officially supporting the
+     standard.  Google are on it too, with the next versions of Chrome
+     to migrate from the SPDY draft to HTTP/2.
+
+On-The-Fly Flash to HTML5
+:    In other Google news, all Flash advertising content is being
+     converted to HTML5, to make it more accessible for mobile consumers.
+
+Motorola Refreshes Budget Handset
+:    The second generation Moto E was released last week, a
+     no-nonsense, tidy little smartphone, running a clean Android, at
+     a practical price-point---$150.  It's not a flagship phone by any
+     means, but it's responsive and rugged, and leaves last year's
+     model out to dry.
+
+\endmulticols\LRmulticolcolumns\multicols{2}

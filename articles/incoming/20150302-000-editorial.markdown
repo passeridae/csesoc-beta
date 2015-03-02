@@ -4,30 +4,31 @@ author: Jashank Jeremy
 date: 2014-11-28
 ---
 
-\section{Editorial}
+\multicols{2}
+
+Editorial
+=========
 
 Hello, and welcome back to \csesocbeta{} for 2015!
 
 My name's Jashank, and I'm the new head of CSESoc's Beta team.  I'm
-looking forward to working with CSE students and staff, as well as
-the rest of the CSESoc team, to produce a magazine that's as
-interesting and relevant as we can make it.
+looking forward to working with CSE students and staff, as well as the
+rest of the CSESoc team, to produce a magazine that's as interesting
+and relevant as we can make it.
 
-This issue has two main purposes: the first is as an experiment to see
-what content people enjoy in this magazine, and for that reason, our
-structure is very much in flux.  Rest assured, there will be a big
-emphasis on technology, as well as computer science, logic, and
-mathematics; but we also aim to have some variety, including music,
-movies, and books.  And, of course, you'll have comprehensive listings
-of upcoming events brought to you by CSESoc, Arc, and UNSW as a whole.
+You've probably noticed a rather dramatic change in the appearance of
+our little publication.  I should also note that it is entirely done
+using \LaTeX\ (Lua\LaTeX, in fact).
 
-The second is to show off CSE (and CSESoc) during O-Week, during which
-time, we hope to pick up a number of new students to be made more
-awesome than before.
+Appearance-wise _and_ content-wise, there are changes: our structure
+is in flux, but rest assured, there will be a big emphasis on
+technology, as well as computer science, logic, and mathematics; but
+we also aim to have some variety, including music, movies, and books.
+And, of course, you'll have comprehensive listings of upcoming events
+brought to you by CSESoc (as well as some Arc and UNSW events).
 
 So, if this is the first time you've ever picked up a copy of
 \csesocbeta{}, or if you've seen this magazine before, pick up a copy
 and find out what's new inside!
 
 \byline{Jashank Jeremy}
-\vfill\columnbreak

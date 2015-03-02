@@ -1,0 +1,100 @@
+---
+title: First Year Camp
+author: Jake Bloom
+---
+
+\endmulticols\LRmulticolcolumns\vfill\pagebreak
+\begin{center}
+\includegraphics[trim=0mm 130mm 0mm 60mm, clip, width=\linewidth]{images/fyc-hype-01.jpg}
+\end{center}\vspace{-1em}
+
+First Year Camp
+===============
+
+\begin{center}
+{\large\it You should go.  Seriously.}
+\end{center}
+\multicols{2}
+
+On the 21st of March 2014, I walked into K17 wearing a Waratahs
+singlet and cap.  I never missed a game, but on that Friday night, I
+made an exception for the first time in years.  Class went slowly
+throughout the day, and after I had finished up, I meandered down to
+the Physics Lawn, where there were a group of First Year CSE students,
+waiting and mingling.
+
+It was the beginning of First Year Camp, a weekend that turned
+University from a place where you could see friendly people into a
+place where you could see your friends.  While we waited for the bus
+to arrive, someone broke out a frisbee, and a game started.  A throw
+came my way, just falling short of me.  I decided to do a dramatic
+dive to pick it up, but it went to ground anyway.  Suddenly, a voice
+behind me calls, "Use two hands Clarkey!" (in reference to Australian
+Cricket Captain, Michael Clarke).  Standing above me, laughing, was
+Pratoolya Kashyap.  Suddenly I made a friend.
+
+During the next two hours spent waiting for the bus (we are using
+better bus companies this year, I promise) Kirsten taught me about
+Marshall Arts, Bernice taught me some words in Africaans, and Josh
+spoke to me about his research in Artificial Intelligence.  I spoke to
+them about rugby, the beach, and anything else that came into my head.
+Suddenly, I had more friends.
+
+Eventually we got to the campsite, in time for dinner and trivia night
+(with an open bar).  Sitting to my left was Pierre, and to my right
+was Jade.  Two more friends: last month, Pierre took me on a tour of
+the Facebook campus in Palo Alto, while I was on my way to meet Jade
+to go snowboarding in Whistler.  Very good friends.  Our trivia team
+name was "The Abusement Park".
+
+Over the next day, there was a mix of activities and group bonding.
+There were games and scavenger hunts, but nobody really kept score.  I
+can't remember if my teams won anything, because success over the
+weekend was measured by how many names you learned (and immediately
+forgot).  On Saturday night, there was the long-awaited dance party.
+Good vibes and good music filled the room (our DJs have wonderful
+taste), as people in costumes threw back free drinks (did I mention
+there was an open bar?)
+
+The night only got better as it went on, there were impromptu dance
+battles, banter and plenty of laughter.  People stayed up through the
+night until the sun rose the next morning, still chatting and laughing
+well into Sunday.  More friends.
+
+After a quiet breakfast and some downtime, award nomination sheets
+were distributed.  The awards included "Most Bogan" (won, proudly, by
+yours truly), "One shot wonder", "Best Costume", "Biggest Win" and
+"Biggest Fail".  The awards were fair, fun and everyone had a good
+laugh.
+
+Getting back onto the bus to go home, people were helping with each
+other's bags, shotgunning seats and falling asleep on each other's
+shoulders.  Once we arrived back at UNSW on Sunday afternoon, people
+were hugging their new friends and saying "I'll see you tomorrow at
+the COMP1917 lecture.  I can't wait."
+
+I went home to watch a replay of the first Waratahs game I had missed
+in years.
+
+The camp was well worth it.
+
+\byline{Jake Bloom}
+
+\begin{center}
+{\it Sign up online at}~csesoc.unsw.edu.au~{\it to secure your place!}
+\end{center}
+\endmulticols\LRmulticolcolumns\vfill
+
+\multicols{3}
+\begin{center}
+\includegraphics[trim=0mm 40mm 0mm 0mm, clip, width=0.8\linewidth]{images/fyc-hype-03.jpg}
+\end{center}
+
+\begin{center}
+\includegraphics[trim=0mm 20mm 0mm 20mm, clip, width=0.8\linewidth]{images/fyc-hype-02.jpg}
+\end{center}
+
+\begin{center}
+\includegraphics[trim=0mm 20mm 0mm 20mm, clip, width=0.8\linewidth]{images/fyc-hype-04.jpg}
+\end{center}
+\endmulticols\LRmulticolcolumns\multicols{2}

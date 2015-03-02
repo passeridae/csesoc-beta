@@ -15,7 +15,12 @@ Got some good content? Email us!\\
 {\Large\bf\makeatletter \the@year\ issue \the@issue}
 \par{\bf\sffamily βeta Head}\\ Jashank~Jeremy
 \par{\bf\sffamily Contributors}\\
-  Timothy~Humphries
+  Jake~Bloom\hsp{}
+  David~Sison\hsp{}
+  Steven~Strijakov\hsp{}
+  John~Wiseheart\hsp{}
+  Octavia~Soegyono
+\par{\bf\sffamily Puzzle Wrangler}\\ Emily~Saunders~Walmsley
 \end{center}
 \columnbreak
 \malcontents\thispagestyle{mag}

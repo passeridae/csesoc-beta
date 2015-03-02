@@ -1,0 +1,116 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-03-02
+---
+
+\endmulticols
+
+Puzzles
+=======
+
+\multicols{2}\raggedcolumns
+
+Crossword
+---------
+
+\vspace*{-4em}
+\begin{Puzzle}{20}{20} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]M |O    |N    |A    |[2]D |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |[3]C |O    |B    |[4]O |L    |*    |*    |*    |*    |O    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |*    |*    |[5]R |U    |B    |Y    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |J    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|*    |*    |*    |[6]C |A    |M    |E    |L    |C    |A    |S    |E    |*    |*    |*    |*    |*    |L    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[7]C |O    |M    |P    |I    |L    |E    |R    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[8]L |O    |O    |P    |S    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |[9]V |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[10]S|P    |A    |G    |H    |E    |T    |T    |I    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[11]P|*    |*    |*    |*    |[12]L|I    |F    |o    |*    |*    |D    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|Y    |*    |[13]R|*    |*    |*    |A    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|T    |*    |U    |*    |*    |*    |B    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[14]H|A    |S    |K    |E    |L    |L    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|O    |*    |T    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|N    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}} %
+\Clue{1}{MONAD}{Pythagorean divinity} %
+\Clue{3}{COBOL}{Primarily used in finance systems} %
+\Clue{5}{RUBY}{An object oriented shiny rock} %
+\Clue{6}{CAMELCASE}{{capitalise}{And}{Remove}{All}{Spaces}} %
+\Clue{7}{COMPILER}{Developed by Grace Hopper} %
+\Clue{8}{LOOPS}{While, for, etc} %
+\Clue{10}{SPAGHETTI}{Bad code can be compared to this food} %
+\Clue{12}{LIFO}{Pez-like stack} %
+\Clue{14}{HASKELL}{No side effects} %
+\end{PuzzleClues}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{2}{DOUBLE}{Holds real numbers} %
+\Clue{4}{OBJECTORIENTED}{e.g. Java} %
+\Clue{9}{VARIABLE}{x} %
+\Clue{11}{PYTHON}{Non venomous and kind to newcomers} %
+\Clue{13}{RUST}{Mozilla Research design} %
+\end{PuzzleClues}
+
+Brain Teasers
+-------------
+
+A.
+:    In the hexadecimal number system, numbers are represented using
+     16 different digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E,
+     F.  The hexadecimal number AF, when written in the decimal number
+     system, equals $10\times 16+15=175$.  How would you write 1917 as
+     a hexadecimal number?
+
+B.
+:    What does the obfuscated program below write to stdout?
+
+        main() {
+            long long P = 1, E = 2, T = 5,
+                A = 61, L = 251, N = 3659,
+                R = 271173410,
+                G = 1479296389,
+                x[] = { G * R * E * E * T ,
+                    P * L * A * N * E * T };
+            puts((char*)x);
+         }
+
+\vfill\columnbreak
+
+Takuzu
+------
+
+The goal of this problem is to fill the grid with 1 and 0.  The rules
+of the game are:
+
+1. each line has the same number of 1s and 0s;
+2. no more than two consecutive cells may contain the same digit; and
+3. each row and each column have to be unique.
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |.
+|[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]1|[][f]0 |.
+|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][f]1 |.
+|[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][Sf]1|.
+|[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |.
+|[][Sf]0|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|.
+|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |.
+\end{Puzzle}
+
+\vfill\begin{center}
+{\it Solutions in issue 103!}
+\end{center}
+\byline{Emily Saunders Walmsley}

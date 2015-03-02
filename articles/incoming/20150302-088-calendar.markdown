@@ -1,0 +1,133 @@
+---
+title: Calendar
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+every Monday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, Physics Lawn_
+
+    Come on down to the Physics Lawn for your weekly dose of free
+    barbecue!  Don't forget to pick up your copy of \csesocbeta, and
+    make some new friends!
+
+3 March
+:    CompClub Social\hfill\bcalNews{}  
+     _TBC; 2--3p, K17 Seminar Room_
+
+    Do you want to teach Computing to the next generation of high
+    school kids?  Join the CompClub Intro Meetup, where we'll be
+    discussing plans for the upcoming semester and areas where you can
+    help out.  We will also run a brief Intro to Programming
+    preparation session after for those who are interested.
+    Enthusiastic first and second years are encourage to join!
+
+    For more details, head to  
+    [`csesoc.unsw.edu.au/blog/compclub-social`](https://www.csesoc.unsw.edu.au/blog/compclub-social/)
+
+5 March
+:    Cardboard Night\hfill\bcalSocial{}  
+     _6--10p, K17 Seminar Room_
+
+    For our first social event of 2015, we're going for a fan
+    favourite---the Cardboard night!  Join us for card games, board
+    games, drinks and pizza. Make some friends and reconnect with the
+    old ones you haven't seen over the summer!
+
+    $3 pizza and beer for Arc members, $5 for non-Arc members.
+
+    For more details, head to  
+    [`csesoc.unsw.edu.au/blog/cardboard-night-1`](https://csesoc.unsw.edu.au/blog/cardboard-night-1/)
+
+9 March
+:    Talk: Internships and Offers\hfill\bcalCareers{}  
+     _2--3p, K17 Seminar Room_
+
+    Are you in the process of applying for an intern or graduate
+    position but have no idea what to do, or where to look?  Then this
+    is the talk for you!
+
+    Karla Burnett, on behalf of Stripe, will host a talk all things
+    internship related:
+
+    > As a recent CSE graduate, I know that internships and grad jobs
+    > can be confusing.  A huge amount of knowledge is passed down as
+    > folklore, about how to find companies, and make them want to
+    > keep you around.  This talk will make this knowledge explicit:
+    > I'll explain the things I wish I'd known years ago, before I
+    > applied for my first internships.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/internships-and-offers-how-to-get-and-make-the-most-of-them/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}internships-and-offers-\\\hspace*{6ex}how-to-get-and-make-the-most-of-them}}
+
+12 March
+:    Installfest\hfill\bcalTech{}  
+     _3--7p, location TBC_
+
+	Having issues getting the right operating system installed on your
+    computer?  Need some help with Linux and how to use it?
+
+    Installfest is the place for you!  The CSESoc team will be
+	available to solve your technical woes, so come along and learn
+	stuff!
+
+	$3 pizza for Arc members, $5 for non-Arc members.
+
+    For more details, head to  
+    [`csesoc.unsw.edu.au/blog/installfest`](https://csesoc.unsw.edu.au/blog/installfest/)
+
+14 March
+:    eth0 @ UNSW: Jane Street Hackathon\hfill\bcalTech{}  
+     _9a--10p, K17 Seminar Room_
+
+    eth0: a day-long programming contest. Form teams and hack together
+    software to compete against others and the markets. The winning
+    prize will be AU$`0x3ff` per person. There'll be lots of (free) food
+    and drink available.
+
+    Absolutely no knowledge of finance, nor OCaml, required. You can
+    use any language, but we'll provide some helper libraries in a few
+    common ones. The contest is entirely technical in nature and you
+    won't need any visual design skills.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/eth0-unsw-jane-street-hackathon/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}eth0-unsw-jane-street-hackathon}}
+
+16 March
+:    Accenture Soft Skills Workshop\hfill\bcalCareers{}  
+     _2--3p, K17 Seminar Room_
+
+18 March
+:    Jane Street Networking Event\hfill\bcalCareers{}  
+     _5p, The White House_
+
+    You are invited to a networking event with Jane Street on
+    Wednesday, March 18 at 5:00pm at the Whitehouse (Fig Tree
+    precinct, Gate 4, High Street, Kensington).
+
+    There will be 3 representatives from Jane Street who will meet and
+    greet with CSE students over food and drinks.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/jane-street-networking-event/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}jane-street-networking-event}}
+
+20--22 March
+:    First Year Camp\hfill\bcalSocial{}  
+     _Wombaroo Adventure Centre_
+
+    Hey, first years!  Want to get away from uni for a weekend to a
+    tropical paradise?  Make plenty of new friends and share some
+    awesome experiences?  Come along to CSESoc's Tropical-themed First
+    Year Camp, from March 20th to 22nd.
+
+    Sign up online at  
+    [`csesoc.unsw.edu.au/first-year-camp`](https://www.csesoc.unsw.edu.au/first-year-camp/)
+
+\vfill\pagebreak

@@ -45,8 +45,12 @@ ${MAKEFILE_DOCS}:
 ### Typesetting
 ###
 
+%.html: %.markdown
+	$(call E, converting $(notdir $<) to HTML)
+	$(Q)pandoc --from markdown $< --to html5 -S -s --output $@
+
 %.a.tex: %.markdown
-	$(call E, converting $(notdir $<))
+	$(call E, converting $(notdir $<) to TeX)
 	$(Q)pandoc --from markdown $< --to latex --output $@
 
 %.pdf %.dvi: %.tex
