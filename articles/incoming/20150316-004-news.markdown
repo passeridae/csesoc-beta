@@ -1,0 +1,17 @@
+---
+title: The News in Brief
+---
+
+\endmulticols
+
+The News in Brief
+=================
+
+\multicols{2}
+
+GNU Terry Pratchett
+:    "\textsc{At last, Sir Terry, we must walk together.}  Terry took
+     Death's arm and followed him through the doors and on to the
+     black desert under the endless night."
+	 ---Terry Pratchett, 1948--2015.
+

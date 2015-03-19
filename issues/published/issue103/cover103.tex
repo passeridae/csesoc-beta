@@ -1,0 +1,54 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\date{16 March 2015}
+\makeatletter
+\gdef\the@year{2015}
+\gdef\the@issue{103}
+\setsansfont[Scale=MatchLowercase,
+             BoldFont={RobotoCondensed Regular},ItalicFont={RobotoCondensed LightItalic}]{RobotoCondensed Light}
+
+\begin{document}\thispagestyle{empty}
+\begingroup%
+\vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
+\includegraphics[trim=0mm 20mm 0mm 0mm, clip, width=22cm]{../../style/beta-logo.pdf}%
+\vspace{1em}
+{\sffamily\fontsize{32pt}{32pt}\selectfont --- news from computer science and engineering ---}
+\endgroup\vfill
+
+\begin{multicols}{2}\center\vspace*{3ex}
+\includegraphics[width=.9\linewidth]{../../sponsors/arcunsw.eps}
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont a bit about \bfseries CSESoc's sponsors}
+
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 3--4}
+
+\endcenter\columnbreak\center
+\includegraphics[width=.9\linewidth]{images/ctan_lion_600.png}\vfill
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont why \LaTeX\ should \bfseries matter to you}
+
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 5--6}
+
+\endcenter\end{multicols}
+\begin{multicols}{2}\center
+\tikz\node[circle,inner sep=.3\linewidth,fill overzoom image=images/puzzles.png] (A) {};\vfill
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont brain-bending \bfseries puzzles}
+
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 8}
+
+\endcenter\columnbreak\center
+\tikz\node[circle,inner sep=.3\linewidth,fill overzoom image=images/beta101-logo.png] (A) {};\vfill
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont find out \bfseries what's on}
+
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 7}
+\endcenter\end{multicols}
+
+\begin{center}
+\colorbox{black}{\hspace*{8em}{\color{white}\sffamily\fontsize{24pt}{24pt}\selectfont \textbf{don't forget:} sturep elections close 18 march}\hspace*{8em}}
+
+\fontsize{14pt}{14pt} issue 103 --- 16 March 2015 --- 15s1 week 3
+\end{center}
+
+\end{document}

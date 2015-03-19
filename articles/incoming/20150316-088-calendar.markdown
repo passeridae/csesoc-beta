@@ -1,0 +1,129 @@
+---
+title: Calendar
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+every Monday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, Physics Lawn_
+
+    Come on down to the Physics Lawn for your weekly dose of free
+    barbecue!  Don't forget to pick up your copy of \csesocbeta, and
+    make some new friends!
+
+16 March
+:    Accenture presents "Styles to Success"\hfill\bcalCareers{}  
+     _2--3p, K17 Seminar Room_
+
+    Do you have the communication skills necessary to work in the tech
+    industry?  Accenture will be on campus to run a workshop on
+    communication styles and techniques.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/accenture-presents-styles-to-success/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}accenture-presents-styles-to-success}}
+
+18 March
+:    15s1 CSE Careers Expo\hfill\bcalCareers{}  
+     _12.30p--4.30p, K17 Level 1_
+
+    This is the main-round expo for CSE Students graduating this year
+    as many companies will be closing their graduate recruitment
+    applications in the next few weeks.  Many companies will also be
+    providing information about internships and other opportunities as
+    well, so students from all years are welcome.
+
+    This is our biggest Expo ever, with 15 companies attending and all
+	looking for CSE students to work for them.  There will be booths
+	in the K17 Level 1 Foyer, Room 103 and the seminar room from
+	12:30-4:30pm.
+
+    For more details, including the list of participating companies,
+    head to:  
+    \href{http://www.cse.unsw.edu.au/engage-with-us/industry-partners/careers-expo/careers-expo-2015s1/}{\texttt{cse.unsw.edu.au/engage-with-us/\\\hspace*{6ex}industry-partners/careers-expo/\\\hspace*{6ex}careers-expo-2015s1}}
+
+18 March
+:    Lambda, the Ultimate Config Format\hfill\bcalTech{}  
+     _10-11a, K17 Seminar Room_
+
+    Complicated systems require expressive configuration
+    languages.  But language design is hard; it's no surprise that many
+    applications have either limited configurability or an unwieldy
+    configuration format with complex semantics.
+
+    At Jane Street, we have seen this problem enough times that we
+    decided to start writing our configs the same way that we write
+    our code, in OCaml. In this talk, we'll discuss our experiences
+    using ocaml-plugin, a library we developed to embed OCaml within
+    an application, providing a configuration language that is both
+    expressive and familiar.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/jane-street-technology-talk-lambda-the-ultimate-config-format/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}jane-street-technology-talk-\\\hspace*{6ex}lambda-the-ultimate-config-format}}
+
+18 March
+:    Jane Street Networking Event\hfill\bcalCareers{}  
+     _5p, The White House_
+
+    You are invited to a networking event with Jane Street on
+    Wednesday, March 18 at 5:00pm at the Whitehouse (Fig Tree
+    precinct, Gate 4, High Street, Kensington).
+
+    There will be 3 representatives from Jane Street who will meet and
+    greet with CSE students over food and drinks.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/jane-street-networking-event/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}jane-street-networking-event}}
+
+20--22 March
+:    First Year Camp\hfill\bcalSocial{}  
+     _Wombaroo Adventure Centre_
+
+    Hey, first years!  Want to get away from uni for a weekend to a
+    tropical paradise?  Make plenty of new friends and share some
+    awesome experiences?  Come along to CSESoc's Tropical-themed First
+    Year Camp, from March 20th to 22nd.
+
+    Sign up online at  
+    [`csesoc.unsw.edu.au/first-year-camp`](https://www.csesoc.unsw.edu.au/first-year-camp/)
+
+24 March
+:    Accenture: Women in Technology\hfill\bcalCareers{}  
+    _6--8p, Ananas Bar, The Rocks_
+
+    Accenture is launching a brand new program called Women In
+    Technology.  As part of this program we're running a series of
+    events throughout the year to connect the best and brightest STEM
+    students with successful women working in the technology industry.
+    Events include informal networking opportunities as well as campus
+    workshops designed to deepen your knowledge in the world of
+    technology, and we'd like you to be involved!
+
+    The first event to kick off the series will be a networking
+    evening giving participants the opportunity to meet some of
+    Accenture's Technology experts over drinks and canapes.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/accenture-women-in-technology/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}accenture-women-in-technology}}
+
+26 March
+:    Introduction to the UNIXVerse\hfill\bcalTech{}  
+    _4p, K17 Seminar Room_
+
+    You've started using Linux, but you're confused.  What do all
+    these commands do?  Why does everyone use terminals?
+
+    Come to the K17 Seminar Room on Thursday 26th March at 4pm to be
+    introduced to the UNIXVerse, and learn how to live your life
+    inside the (UNIX) shell.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/introduction-to-the-unixverse/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}introduction-to-the-unixverse}}
+
+\vfill\pagebreak

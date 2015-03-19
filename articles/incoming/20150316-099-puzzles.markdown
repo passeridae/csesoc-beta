@@ -1,0 +1,157 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-03-02
+---
+
+\endmulticols
+
+Puzzles
+=======
+
+\multicols{2}
+
+Crossword
+---------
+
+\begin{Puzzle}{14}{14} %
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]D |*    |.
+|*    |*    |*    |*    |*    |*    |[2]K |*    |*    |*    |*    |*    |I    |*    |.
+|*    |*    |*    |*    |*    |[3]P |A    |C    |K    |A    |G    |E    |S    |*    |.
+|*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |[4]K |*    |*    |*    |*    |I    |*    |[5]B |I    |N    |A    |R    |Y    |.
+|*    |E    |*    |*    |*    |*    |*    |*    |A    |*    |*    |*    |I    |*    |.
+|[6]G |R    |U    |B    |*    |[7]M |*    |*    |S    |*    |*    |*    |B    |*    |.
+|*    |N    |*    |*    |*    |[8]A |R    |C    |H    |L    |I    |N    |U    |X    |.
+|[9]D |E    |B    |I    |A    |N    |*    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |L    |*    |*    |*    |P    |*    |*    |*    |[10]S|*    |*    |I    |*    |.
+|*    |*    |*    |[11]R|*    |A    |*    |[12]F|L    |U    |X    |B    |O    |X    |.
+|*    |*    |*    |O    |*    |G    |*    |*    |*    |D    |*    |*    |N    |*    |.
+|*    |[13]G|N    |O    |M    |E    |*    |*    |*    |O    |*    |*    |*    |*    |.
+|*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+
+\vspace*{-2em}
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}} %
+\Clue{3}{PACKAGES}{"apt-get install"} %
+\Clue{6}{GRUB}{Wriggly bootloader} %
+\Clue{8}{ARCHLINUX}{Allows you to use PacMan whilst doing work} %
+\Clue{9}{DEBIAN}{"The Universal Operating System"} %
+\Clue{12}{FLUXBOX}{*box} %
+\Clue{13}{GNOME}{Short, user friendly desktop environment} %
+\end{PuzzleClues}
+
+\vspace*{-2em}
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{DISTRIBUTION}{Makes up an OS. Also, binomial \_\_\_\_.} %
+\Clue{2}{KALI}{Pentesting distro} %
+\Clue{4}{KERNEL}{At the centre of an OS} %
+\Clue{5}{BASH}{Unix shell, good for percussive maintenance} %
+\Clue{7}{MANPAGE}{Documentation galore, commandline accessed} %
+\Clue{10}{SUDO}{\_\_\_\_ make me a sandwich.} %
+\Clue{11}{ROOT}{Superuser, like carrots} %
+\end{PuzzleClues}
+\vspace*{-1em}
+
+Brain Teasers
+-------------
+
+A.
+:    Write a Linux kernel module, and stand-alone Makefile, that when
+     loaded prints to the kernel debug log level, "Hello World!"  Be
+     sure to make the module unloadable as well!  (This problem was
+     taken from
+     [`eudyptula-challenge.org`](http://eudyptula-challenge.org/);
+     it's great fun and I'd thoroughly recommend signing up for it.)
+
+B.
+:    There is a pile of twelve coins, eleven of which are real and one
+     of which is a counterfeit.  The counterfeit coin will be either
+     heavier or lighter than the other coins, which are all of equal
+     weight.  To find the counterfeit coin, you have a balance scale to
+     place the coins on.  In only THREE weighings, find which coin is
+     counterfeit and whether it is heavier or lighter.
+	 
+C.
+:    Find the maximum area of a rectangle inscribed in a unit circle.
+
+Takuzu
+------
+
+The goal of this problem is to fill the grid with 1 and 0.  The rules
+of the game are:
+
+1. each line has the same number of 1s and 0s;
+2. no more than two consecutive cells may contain the same digit; and
+3. each row and each column have to be unique.
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |.
+|[][f]0 |[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]0 |.
+|[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+\end{Puzzle}
+\vspace*{-2em}
+
+Issue 102 Solutions
+-------------------
+
+__Brain Teasers__
+
+__A.__  `0x77D`\hsp{}
+__B.__  `Hello World!`
+
+
+__Takuzu__
+
+\vspace*{-3em}\begin{Puzzle}{10}{10} %
+\PuzzleSolution\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+\end{Puzzle}
+
+__Crossword__
+
+\vspace*{-3em}\PuzzleSolution\begin{Puzzle}{20}{20} %
+\PuzzleUnitlength=10pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]M |O    |N    |A    |[2]D |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |[3]C |O    |B    |[4]O |L    |*    |*    |*    |*    |O    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |*    |*    |[5]R |U    |B    |Y    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |J    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|*    |*    |*    |[6]C |A    |M    |E    |L    |C    |A    |S    |E    |*    |*    |*    |*    |*    |L    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[7]C |O    |M    |P    |I    |L    |E    |R    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[8]L |O    |O    |P    |S    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |[9]V |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[10]S|P    |A    |G    |H    |E    |T    |T    |I    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[11]P|*    |*    |*    |*    |[12]L|I    |F    |o    |*    |*    |D    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|Y    |*    |[13]R|*    |*    |*    |A    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|T    |*    |U    |*    |*    |*    |B    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[14]H|A    |S    |K    |E    |L    |L    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|O    |*    |T    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|N    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}\vspace*{-1em}
+
+\byline{Emily Saunders Walmsley}

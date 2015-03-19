@@ -1,0 +1,43 @@
+
+
+2015 CSE Student Representatives
+================================
+
+\multicols{2}
+
+The stureps (student representatives) are a body of students, voted in
+by students, whose main purpose is to help facilitate communication
+between the staff and students at CSE.  They report to the School
+(unlike student societies).
+
+This is an important role and only students with enough time and
+commitment should stand for election.  The period will be for one
+year.
+
+There are a number of things which Stureps can help students with,
+such as:
+
+- Ideas for improving things at CSE;
+- Providing anonymous complaints to CSE;
+- Representing students on the CSE Teaching and Computing Committees;
+
+The stureps can help you find the right person, or speak to them on
+your behalf.  All communication with them will be kept confidential
+unless otherwise specified.
+
+Voting is now open for the 2015 CSE Student Representatives:
+
+- Year 1 reps (2 positions)
+- Year 2 reps (2 positions)
+- Year 3 reps (2 positions)
+- Year 4 and above reps (2 positions)
+- Postgrad reps (2 positions) (no nominations)
+
+Voting will close 18th March 2015 at 1pm.  You may vote as many times
+as you like, but only your last vote will be counted.
+
+If some years have two or less candidates we still require them to be
+elected to indicate if they have support.
+
+To vote, head to  
+[`my.cse.unsw.edu.au/election.php`](https://my.cse.unsw.edu.au/election.php)
