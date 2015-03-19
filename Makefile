@@ -69,7 +69,7 @@ FORMAT		?= pdf
 ENGINE		?= lua
 # or 'xe' or 'pdf'
 
-SHELLESCAPE	?= no
+SHELLESCAPE	?= yes
 PDFTOPS_ENG     ?= poppler
 # (or gs)
 
@@ -166,7 +166,7 @@ issues/$(1)/tidy:
 issues/$(1)/update: $(patsubst %.markdown,%.a.tex,$(sort $(wildcard issues/*/$(1)/*.markdown)))
 	$(call E, updating issue $(1))
 	$(Q)(cd $(wildcard issues/*/$(1)) && \
-		echo $(patsubst %.markdown,%.a.tex,$(sort $(notdir $(wildcard issues/*/$(1)/*.markdown)))) | \
+		echo -n $(patsubst %.markdown,%.a.tex,$(sort $(notdir $(wildcard issues/*/$(1)/*.markdown)))) | \
 		tr ' ' '\n' | \
 		sed -e 's/^/\\input{/; s/$$$$/}/g' > contents.tex)
 
