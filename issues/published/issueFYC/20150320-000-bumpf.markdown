@@ -1,0 +1,10 @@
+---
+title: 'bumpf'
+date: 2015-03-20
+---
+
+\endmulticols
+\LRmulticolcolumns
+\begin{center}
+\includegraphics[width=\linewidth]{program.png}
+\end{center}

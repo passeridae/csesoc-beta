@@ -1,0 +1,137 @@
+---
+title: Camp Leaders
+---
+
+\endmulticols
+
+Camp Leaders
+============
+
+\begin{center}\vspace{-1ex}
+{\large\it Here to make your camp experience amazing!}
+\end{center}
+\multicols{2}
+
+- __Davina Adisusila__
+
+    Co-President of CSESoc, and all around party animal.
+
+- __Jake Bloom__
+
+    King of First Year Camp.  Go the mighty Waratahs.
+
+- __George Caley__
+
+    It's hip to be a Rubik's Cube master.
+
+- __Lavender Chan__
+
+    Designer of the Mighty Pineapple, and a snap-happy photographer.
+
+- __Bernice Chen__
+
+    Camp veteran, and well-organised individual.
+
+- __Joshua Elliott__
+
+    [violin breakdown from _Frontier Psychiatrist_]
+
+- __Pierre Estephan__
+
+    Happy birthday, Pierre!
+
+- __Jade Giacoppo__
+
+    The time to worry is when she's _not_ smiling.
+
+- __Kirsten Hendriks__
+
+    One of our sharp-minded, hyper-talented camp leaders.
+
+- __Jashank Jeremy__
+
+    Forever $\beta$eta.
+
+- __Karl Krauth__
+
+     Another party-animal, always ready for a quick-fire joke, and
+     named the most named person for the last seven years
+
+- __Jason Lim__
+
+    Not afraid to go out on a lim(b).
+
+- __Chris Manouvrier__
+
+    Yo dawg, I heard you liked first-aid, so I made your first-aider
+     a bartender.
+
+- __Lucas Pickup__
+
+    Barefooter.  Accept no substitutes.
+
+- __Nathan Sher__
+
+    First-aider extraordinaire
+
+- __David Sison__
+
+    Astute and arguably accurate.
+
+- __Octavia Soegyono__
+
+    The ultimate bus-buddy, and never short of a good joke.
+
+- __Steven Strijakov__
+
+    King of First Year Camp.  Go the mighty Pepper-Shakers.
+
+- __Yingran Sun__
+
+    Quick-thinking multi-talented camp genius; camp helped her come
+    together.
+
+- __Oliver Tan__
+
+    Co-President of CSESoc, and extreme eating master.
+
+- __Nick Whyte__
+
+    Back with another one of those camp-rocking beats.
+
+- __John Wiseheart__
+
+    Front with another one of those camp-rocking beats.
+
+\endmulticols\LRmulticolcolumns\vfill\multicols{2}
+
+First Aid Team
+--------------
+
+\begin{center}
+
+{\it \textbf{Lucas~Pickup}}\\
+0401~637~345
+
+{\it \textbf{Nathan~Sher}}\\
+0433~726~042
+
+\end{center}
+
+\columnbreak
+
+Responsible Service of Alcohol Team
+------------------------------------
+
+\begin{center}
+
+{\it \textbf{Chris~Manouvrier}}\\
+0424~345~672
+
+{\it \textbf{Lucas~Pickup}}\\
+0401~637~345
+\end{center}
+
+\endmulticols
+\LRmulticolcolumns
+\multicols{2}

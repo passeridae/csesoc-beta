@@ -1,0 +1,33 @@
+---
+title: Editorial
+author: Jashank Jeremy
+date: 2015-03-20
+---
+
+\vspace*{-1em}
+
+First Year Camp
+===============
+
+\multicols{2}
+
+\begin{center}
+\tikz\node[circle,inner sep=.2\linewidth,fill overzoom image=heads-jbloom-up.png] (A) {};
+
+{\it \textbf{Jake~Bloom}}
+
+0404~173~408
+\end{center}
+
+\vfill\columnbreak
+
+\begin{center}
+\tikz\node[circle,inner sep=.2\linewidth,fill overzoom image=heads-sstr.jpg] (A) {};
+
+{\it \textbf{Steven~Strijakov}}
+
+0425~286~754
+\end{center}
+\vfill\endmulticols
+\LRmulticolcolumns
+\multicols{2}
