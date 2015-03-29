@@ -40,12 +40,6 @@ every Monday
     Palantir Technologies is revolutionising the analysis of hard and
     important problems that face our world today.
 
-    They build software platforms that help human experts perform
-    powerful, collaborative analysis of data at scale.  Palantir's
-    software is deployed at public institutions, private enterprises,
-    and in the non-profit sector to address the challenges of
-    responsibly making sense of complex, diverse data.
-
     \calendarlink{palantir-info-session}
 
 10 April
@@ -86,11 +80,9 @@ every Monday
 
     As part of Google's ongoing commitment to furthering Anita's
     vision, the Google Anita Borg Memorial Scholarship 2015:
-    Asia-Pacific (APAC) has been announced.
-
-    Through the scholarship, they aim to encourage women to excel in
-    computing and technology, and become active role models and
-    leaders.
+    Asia-Pacific (APAC) has been announced; its aim is to encourage
+    women to excel in computing and technology, and become active role
+    models and leaders.
 
     \calendarlink{google-anita-borg-scholarship}
 
