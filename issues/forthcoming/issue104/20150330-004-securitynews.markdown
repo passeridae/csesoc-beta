@@ -28,6 +28,9 @@ cyber attacks" they'd ever encountered.  They dubbed the group behind
 this malware the "Equation Group", due to their use of complex
 encryption algorithms.
 
+Stux In The Mud
+---------------
+
 The general pattern of these viruses followed one similar to that seen
 in Stuxnet, a carefully targeted piece of malware aimed at air-gapped
 nuclear fuel refinement systems in the Middle-East, and one that is
@@ -46,6 +49,9 @@ they leverage cannot be rectified until developers are aware of them.
 A black market exists in 0-day vulnerabilities, and good examples are
 often able to fetch a hefty sum of money.
 
+Is This Just Fantasy?
+---------------------
+
 There's lots of different pieces to the puzzle---the various viruses
 can chain on top of each other, depending on what they're trying to
 do.  There's an initial virus, dubbed "DoubleFantasy", which creates a
@@ -58,6 +64,9 @@ are a series of malware platforms designed for having complete control
 over a victim's computer.  EquationDrug and TripleFantasy are scary
 enough, with their ability to completely control a computer remotely;
 but the last of these, GrayFish, is about as scary as it gets.
+
+Go Fish
+-------
 
 GrayFish is an almost completely undetectable virus, which becomes the
 puppet-master of the operating system, effectively taking over how the
@@ -85,6 +94,9 @@ spinning-rust hard disks, but also solid-state drives, and flash
 memory in general, which tend to maintain software-managed "bad block"
 tables.  So, although it hasn't yet been seen there, mobile phones and
 tablets are just as vulnerable, too.
+
+Safe?
+-----
 
 Of course, it hasn't been officially confirmed that the NSA are behind
 this---they wouldn't want to own up to such a thing.  But there have
