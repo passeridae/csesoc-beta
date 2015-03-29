@@ -1,0 +1,97 @@
+---
+title: Calendar
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+every Monday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, Physics Lawn_
+
+    Come on down to the Physics Lawn for your weekly dose of free
+    barbecue!  Don't forget to pick up your copy of \csesocbeta, and
+    make some new friends!
+
+31 March
+:    Publicity Team Meetup\hfill\bcalTech{}  
+    _1.30--2p, \KK17 room 302_
+
+    CSESoc's Publicity team is having a meetup!  Here we'll also be
+    setting up a roster for event publicity during the semester---come
+    and find out what we're all about!  Or even just come to enjoy the
+    free snacks and drinks provided.  If you'd like to call shotgun
+    for making publicity for an event in advance, send an email to
+    `csesoc.publicity.head@cse.unsw.edu.au`
+
+    \calendarlink{publicity-team-meetup}
+
+2 April
+:    Palantir Information Session\hfill\bcalTech{}  
+    _4p, K17 Seminar Room_
+
+    From discovering fraudulent activity in healthcare data to finding
+    better ways to find housing for the homeless, join us to learn how
+    Palantir Technologies is revolutionising the analysis of hard and
+    important problems that face our world today.
+
+    They build software platforms that help human experts perform
+    powerful, collaborative analysis of data at scale.  Palantir's
+    software is deployed at public institutions, private enterprises,
+    and in the non-profit sector to address the challenges of
+    responsibly making sense of complex, diverse data.
+
+    \calendarlink{palantir-info-session}
+
+10 April
+:    Site Visit Day\hfill\bcalTech{}  
+    _all day, Sydney CBD_
+
+    On the Friday of mid-semester break, CSESoc will be visiting the
+    offices of three of our sponsors in the Sydney CBD: Google,
+    Atlassian, and Freelancer.  Lunch will be provided at Google.  We
+    will be walking and using public transport to get between
+    destinations.
+
+    \calendarlink{site-visit-day}
+
+18--19 April
+:    Facebook University Hackathon\hfill\bcalTech{}
+    _registrations close 9 April_
+
+    Join Facebook for our very first hack in Sydney!  Join us as we
+    stay up all night hacking, learning and having a some fun!  Start
+    brainstorming ideas & forming teams (of up to 4 people).  We'll
+    supply the food, fun diversions, prizes, and some expert guidance
+    in the form of our engineers.  We'll also provide reimbursement
+    for public transportation.  You bring your laptop, appetite,
+    skills and ideas.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/facebook-university-hackathon-comes-to-syd/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}facebook-university-hackathon-\\\hspace*{6ex}comes-to-syd}}
+
+15 May
+:    Applications Close:\hfill\bcalNews{}  
+    Google Anita Borg Memorial Scholarship 2015
+
+    Dr. Anita Borg (1949--2003) devoted her life to revolutionizing
+    the way we think about technology and dismantling the barriers
+    that keep minorities and women from entering the computing and
+    technology fields.
+
+    As part of Google's ongoing commitment to furthering Anita's
+    vision, the Google Anita Borg Memorial Scholarship 2015:
+    Asia-Pacific (APAC) has been announced.
+
+    Through the scholarship, they aim to encourage women to excel in
+    computing and technology, and become active role models and
+    leaders.
+
+    \calendarlink{google-anita-borg-scholarship}
+
+\vfill\pagebreak

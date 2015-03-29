@@ -1,0 +1,165 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-03-02
+---
+
+\endmulticols
+
+Puzzles
+=======
+
+\multicols{2}
+
+Crossword
+---------
+
+\vspace{-8em}
+\begin{Puzzle}{18}{18} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |[1]D |*    |*    |*    |*    |*    |*    |*    |[2]E |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |Y    |*    |[3]C |O    |M    |P    |L    |E    |X    |I    |T    |Y    |*    |.
+|*    |*    |*    |*    |*    |N    |*    |O    |*    |*    |*    |*    |*    |P    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |A    |*    |R    |*    |*    |[4]B |*    |*    |O    |*    |*    |*    |*    |.
+|*    |[5]S |*    |*    |*    |M    |*    |R    |*    |[6]F |I    |B    |O    |N    |A    |C    |C    |I    |.
+|[7]O |P    |T    |I    |M    |I    |S    |E    |D    |*    |G    |*    |*    |E    |*    |*    |*    |*    |.
+|*    |A    |*    |*    |*    |C    |*    |C    |*    |*    |O    |*    |*    |N    |*    |[8]P |*    |*    |.
+|*    |R    |*    |*    |*    |P    |*    |T    |*    |*    |*    |*    |*    |T    |*    |S    |*    |*    |.
+|*    |S    |*    |[9]T |U    |R    |I    |N    |G    |M    |A    |C    |H    |I    |N    |E    |*    |*    |.
+|*    |E    |*    |*    |*    |O    |*    |E    |*    |*    |*    |*    |*    |A    |*    |U    |*    |*    |.
+|*    |*    |*    |*    |*    |G    |*    |S    |*    |*    |*    |*    |*    |L    |*    |D    |*    |*    |.
+|*    |*    |*    |*    |*    |R    |*    |S    |*    |*    |*    |*    |*    |*    |*    |O    |*    |*    |.
+|*    |[10]T|H    |E    |T    |A    |*    |*    |*    |*    |*    |*    |*    |*    |*    |C    |*    |*    |.
+|*    |*    |*    |*    |*    |M    |*    |*    |*    |[11]H|A    |M    |I    |L    |T    |O    |N    |*    |.
+|*    |*    |*    |*    |*    |M    |*    |*    |*    |*    |*    |*    |*    |*    |*    |D    |*    |*    |.
+|*    |*    |[12]K|O    |N    |I    |G    |S    |B    |E    |R    |G    |*    |*    |*    |E    |*    |*    |.
+|*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[13]S|T    |R    |I    |N    |G    |M    |A    |T    |C    |H    |I    |N    |G    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}} %
+\Clue{3}{COMPLEXITY}{P and NP classes (no comment on equality)} %
+\Clue{6}{FIBONACCI}{$1,1,2,3,5,8,\ldots$} %
+\Clue{7}{OPTIMISED}{Faster, less memory, more efficient} %
+\Clue{9}{TURINGMACHINE}{Non-ecclesiastical hypothetical computer} %
+\Clue{10}{THETA}{Above and below} %
+\Clue{11}{HAMILTON}{An island with all cities seen once; roads travelled insignificant} %
+\Clue{12}{KONIGSBERG}{Seven bridges, a topological nightmare} %
+\Clue{13}{STRINGMATCHING}{e.g. Knuth-Morris-Pratt} %
+\end{PuzzleClues}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{DYNAMICPROGRAMMING}{Made from recursively overlapping subproblems} %
+\Clue{2}{EXPONENTIAL}{Rabbit breeding} %
+\Clue{3}{CORRECTNESS}{Only total if termination occurs. Partial is still pretty useful though}]
+\Clue{4}{BIGO}{Complexity notation, not little} %
+\Clue{5}{SPARSE}{Lacking infrastructure, not dense} %
+\Clue{7}{PSEUDOCODE}{Like code, but more fake} %
+\end{PuzzleClues}
+
+Brain Teasers
+-------------
+
+A.
+:    You have a biased coin which lands heads with some probability p,
+     and tails with some probability $1-p$.  It's approaching midsem,
+     and you need to find a fair way to decide who has to write the
+     unit tests for your pair project.  How can you do this using only
+     that coin?
+
+B.
+:    You have attained a highly coveted job wherein you spend your
+     days being given little pieces of paper with numbers on them by a
+     hovering, mysterious benefactor.  The pieces of paper are being
+     handed to you quickly, thus you must not spend more than
+     $\log_2n$ operations putting them in front of you.  Furthermore,
+     your mysterious benefactor asks you at random points for the
+     median of all the numbers on all the pieces of paper you've been
+     given thus far.  This benefactor is impatient, so you want to
+     deliver the answer as fast as possible (i.e., in constant time) to
+     avoid reprimand.  How do you go about this?
+
+\raggedcolumns\vfill\columnbreak
+
+Takuzu
+------
+
+The goal of this problem is to fill the grid with 1 and 0.  The rules
+of the game are:
+
+1. each line has the same number of 1s and 0s;
+2. no more than two consecutive cells may contain the same digit; and
+3. each row and each column have to be unique.
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]1 |.
+|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|.
+|[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |.
+|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|.
+|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][Sf]1|.
+\end{Puzzle}
+\vspace{-2em}
+
+Issue 103 Solutions
+-------------------
+
+__Brain Teasers__
+
+__B.__  Many solutions exist; a divide and conquer approach works
+best.  
+__C.__  2 $\textrm{units}^2$
+
+
+__Takuzu__
+
+\vspace{-3em}
+\begin{center}
+\begin{Puzzle}{10}{10} %
+\PuzzleSolution\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+\end{Puzzle}
+\end{center}
+
+__Crossword__
+
+\begin{center}
+\vspace*{-6em}\PuzzleSolution\begin{Puzzle}{14}{14} %
+\PuzzleUnitlength=10pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]D |*    |.
+|*    |*    |*    |*    |*    |*    |[2]K |*    |*    |*    |*    |*    |I    |*    |.
+|*    |*    |*    |*    |*    |[3]P |A    |C    |K    |A    |G    |E    |S    |*    |.
+|*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |[4]K |*    |*    |*    |*    |I    |*    |[5]B |I    |N    |A    |R    |Y    |.
+|*    |E    |*    |*    |*    |*    |*    |*    |A    |*    |*    |*    |I    |*    |.
+|[6]G |R    |U    |B    |*    |[7]M |*    |*    |S    |*    |*    |*    |B    |*    |.
+|*    |N    |*    |*    |*    |[8]A |R    |C    |H    |L    |I    |N    |U    |X    |.
+|[9]D |E    |B    |I    |A    |N    |*    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |L    |*    |*    |*    |P    |*    |*    |*    |[10]S|*    |*    |I    |*    |.
+|*    |*    |*    |[11]R|*    |A    |*    |[12]F|L    |U    |X    |B    |O    |X    |.
+|*    |*    |*    |O    |*    |G    |*    |*    |*    |D    |*    |*    |N    |*    |.
+|*    |[13]G|N    |O    |M    |E    |*    |*    |*    |O    |*    |*    |*    |*    |.
+|*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+\end{center}
+
+\byline{Emily Saunders Walmsley}

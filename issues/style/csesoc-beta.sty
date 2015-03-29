@@ -19,8 +19,8 @@
 \usepackage{titlesec}
 \usepackage{tocloft}
 
-%\newcommand{\csesocbeta}{CSE{}Soc~βeta}
-\newcommand{\csesocbeta}{CSE{}Soc~$\beta$eta}
+\newcommand{\csesocbeta}{CSE{}Soc~{\sffamily βeta}}
+%\newcommand{\csesocbeta}{CSE{}Soc~$\beta$eta}
 
 \defaultfontfeatures{Ligatures=TeX}
 \setmainfont[BoldFont={Klinic Slab Medium},
@@ -48,8 +48,8 @@
 
 %% Fancy headers
 \fancypagestyle{mag}{\fancyhf{}%
-  \fancyfoot[RO]{{\small CSE{}Soc\texttt{.unsw.edu.au}}\hspace*{1ex}$\beta$eta\hspace*{1ex}\the@year/\textit{issue}\the@issue\hspace*{1ex}\rule[2pt]{2pt}{2pt}\hspace*{1ex}\thepage}%
-  \fancyfoot[LE]{\thepage\hspace*{1ex}\rule[1pt]{4pt}{4pt}\hspace*{1ex}{\small CSE{}Soc\texttt{.unsw.edu.au}}\hspace*{1ex}$\beta$eta\hspace*{1ex}\the@year/\textit{issue}\the@issue}}
+  \fancyfoot[RO]{{\small CSE{}Soc\texttt{.unsw.edu.au}}\hspace*{1ex}{\sffamily βeta}\hspace*{1ex}\the@year/\textit{issue}\the@issue\hspace*{1ex}\rule[2pt]{2pt}{2pt}\hspace*{1ex}\thepage}%
+  \fancyfoot[LE]{\thepage\hspace*{1ex}\rule[1pt]{4pt}{4pt}\hspace*{1ex}{\small CSE{}Soc\texttt{.unsw.edu.au}}\hspace*{1ex}{\sffamily βeta}\hspace*{1ex}\the@year/\textit{issue}\the@issue}}
 \renewcommand{\headrulewidth}{0pt}
 \pagestyle{mag}
 
@@ -112,6 +112,9 @@
     \fill[color=techcolor, rounded corners=3pt] (-1pt,-1pt) rectangle (3em,11pt);%
     \draw[white] (1.5em,5pt) node {\textsf{tech}}; \endtikzpicture}}
 
+\newcommand{\calendarlink}[1]{For more details, head to\\%
+\href{https://www.csesoc.unsw.edu.au/blog/#1/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}#1}}}
+
 \renewcommand{\contentsname}{In This Issue}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 \def\malcontents{%
@@ -132,6 +135,6 @@
 \def\maketitle{%
 \begingroup%
 \vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
-\includegraphics[width=22cm]{../../style/beta-logo.pdf}%
+\includegraphics[trim=0mm 20mm 0mm 0mm, clip, width=22cm]{../../style/beta-logo.pdf}%
 \vspace{1em}
 \endgroup}

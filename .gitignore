@@ -1,11 +1,9 @@
 /out/
 /issues/forthcoming/*/contents.tex
 /issues/forthcoming/*/*.a.tex
-/issues/forthcoming/*/*.markdown
 
 /issues/published/*/contents.tex
 /issues/published/*/*.a.tex
-/issues/published/*/*.markdown
 
 /issues/forthcoming/*/issue*.dvi
 /issues/forthcoming/*/issue*.pdf
