@@ -1,0 +1,50 @@
+---
+title: CSE Revue News
+author: CSE Revue Producers
+---
+
+\endmulticols\LRmulticolcolumns\vfill\pagebreak
+
+CSE Revue News
+==============
+
+\multicols{2}
+
+Are you wondering what there is to do with your life? Been bored and
+tired of uni work for the last few weeks? Well CSE Revue is here for
+you! For those of you who _still_ don't know what CSE Revue is---come
+on, it's week 5 already---we're a live sketch comedy show entirely
+created, produced and performed by members from the society.
+
+Whether you just want to escape the monotony of uni work or you want
+to try out something new, our upcoming events have a little something
+for everyone!
+
+You can sign up and register your interest for teams now at
+[www.cserevue.org.au](http://www.cserevue.org.au/)!
+
+Upcoming Events
+---------------
+
+31 March
+:    _Game of Codes_ Screening  
+    _6--9p, K17 Seminar Room_
+
+    A DVD screening of the 2014 CSE Revue: Game of Codes. A night of
+    food, drink and entertainment.
+
+1 April
+:    Socials and Promos Meetup  
+    _4--6p, Drawing Room, Roundhouse_
+
+    A social gathering of the CSE Revue socials and promos team
+    members, with food and games. Everyone is welcome to join!
+
+3 April
+:    Scripts Block  
+    _6p onwards, K17 L3 Meeting Room_
+
+    Want to show off your writing skills? Or just want to have a night
+    of laughs? Come have a great time at our weekly scripts block.
+
+\byline{CSE~Revue~Producers}
