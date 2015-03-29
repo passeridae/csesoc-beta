@@ -1,0 +1,20 @@
+Beta's Fonts
+------------
+
+Beta uses Klinic Slab as a body serif, and Roboto as a heading
+sans-serif.  You'll need both of these fonts installed and made
+available to LuaTeX.
+
+On reasonable systems (including BSDs and Linuxen):
+
+    $ cp $BETA/fonts/*.[to]tf $HOME/.fonts
+    $ env OSFONTDIR=$HOME/.fonts mtxrun --script font --reload
+
+On OS X:
+
+    [in Finder, select the fonts, open them, and install them, then]
+    $ env OSFONTDIR=$HOME/Library/Fonts mtxrun --script font --reload
+
+On Windows:
+
+    install Linux, then proceed as above.
