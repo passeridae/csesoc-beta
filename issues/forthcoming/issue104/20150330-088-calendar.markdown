@@ -3,7 +3,7 @@ title: Calendar
 ---
 
 \endmulticols
-\LRmulticolcolumns\vfill
+\LRmulticolcolumns\vfill\pagebreak
 
 Upcoming Events
 ===============

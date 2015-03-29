@@ -3,7 +3,7 @@ title: CSE Revue News
 author: CSE Revue Producers
 ---
 
-\endmulticols\LRmulticolcolumns\vfill\pagebreak
+\endmulticols\LRmulticolcolumns
 
 CSE Revue News
 ==============
