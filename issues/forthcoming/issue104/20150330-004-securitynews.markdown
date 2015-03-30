@@ -117,4 +117,8 @@ For now.
 {\it Join us for our next episode of Exciting Security News™,\\
   where we look at how leaving off curly-brackets from single line
   \texttt{if} statements can turn into a global security crisis.}
+
+{\it If you're interested in more information about this article, \\
+  including sources and further reading, head to \\
+  \href{http://news.andyc.at/nsa}{\texttt{news.andyc.at/nsa}}}
 \end{center}

@@ -1,0 +1,52 @@
+Editorial
+=========
+
+Hello, hello, and welcome to another week's Beta.
+
+Moving up in the team this week is the multi-talented \TeX nician,
+Emily Saunders Walmsley, who has braved the horrors within the
+\csesocbeta\ build and styles, and survived.  This bodes poorly for
+the future of my job.
+
+And finally shamed into contributing is Tim Humphries, who is
+demonstrating by example that you don't even have to be in the country
+to write for us.
+
+As ever, if you've stumbled on anything interesting, or you're keen to
+get involved, join the team via the CSESoc website.
+
+Enjoy!
+
+\byline{Jashank~Jeremy}
+
+\vfill
+
+Stureps News
+============
+
+Congratulations to your new student representatives for 2015:
+
+\begin{center}
+\textbf{First Year}\\
+Alex~Linker \hsp{} Leon~Nguyen
+
+\textbf{Second Year}\\
+Kitty~Lee
+
+\textbf{Third Year}\\
+Oliver~Tan \hsp{} John~Wiseheart
+
+\textbf{Fourth Year and Above}\\
+Vincent~Tran \hsp{} Andrew~Bennett
+\end{center}
+
+Stureps are currently running this session's survey for the CSE
+faculty, and for all CSE courses.  This is your chance to have a say in
+how CSE is going, or how your courses are running.  The feedback goes
+into creating a report which we discuss with the head of school, and
+from that we look to improve anything that needs to be improved.
+
+There are two surveys: a faculty survey, and a per-course survey.
+Head to the survey links on the CSESoc Facebook group to fill them out.
+
+\vfill\pagebreak

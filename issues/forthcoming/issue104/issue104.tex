@@ -6,10 +6,10 @@
 \gdef\the@issue{104}
 
 \begin{document}
-%\includepdf{cover104.pdf}
+\includepdf{cover104.pdf}
 \newpage
-\maketitle
-\begingroup\begin{multicols}{2}
+\maketitle\thispagestyle{mag}
+\begin{multicols}{2}\begingroup
 \section*{About CSE{}Soc~βeta}\begin{center}
 \csesocbeta{} is published fortnightly\\
 by UNSW CSESoc, Beta team.
@@ -23,19 +23,18 @@ Got some good content? Email us!\\
 \par{\bf\sffamily Issue Co-ordinator}\\ Emily~Saunders~Walmsley
 \par{\bf\sffamily Contributors}\\
   Andrew~Bennett\hsp{}
+  Alex~Linker\hsp{}
   David~Sison\hsp{}
   Octavia~Soegyono\hsp{}
   Yingran~Sun\hsp{}
   John~Wiseheart\hsp{}
 \par{\bf\sffamily Puzzle Wrangler}\\ Emily~Saunders~Walmsley
+\par{\bf\sffamily News Chaser}\\ Timothy~Humphries
 \end{center}
 
-\columnbreak
-\malcontents\thispagestyle{mag} \vfill\raggedcolumns
-\end{multicols}
+\malcontents\raggedcolumns\vfill\columnbreak
 \endgroup
 
-\begin{multicols}{2}
 \input{contents}
 \end{multicols}
 \end{document}

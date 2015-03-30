@@ -1,0 +1,83 @@
+\endmulticols
+
+The News
+========
+
+\multicols{2}
+
+Metadata State
+:    Customer metadata will be stored for at least two years by
+     Australia's telcos and ISPs, after the Government's data
+     retention laws made it through the Senate with full Labor
+     support.  Amendments requiring the destruction of data after two
+     years failed to carry.  The scheme kicks off in 18 months, and
+     provides little protection for journalists and whistle-blowers.
+
+The Rentiers Advance
+:    The Federal Government has introduced a bill allowing
+     rights-holders to block websites that facilitate copyright
+     infringement.  A single successful application could block any
+     number of sites, with a best-effort attempt to notify the site
+     administrators.  CSE students will find the blocks trivila to
+     bypass, and few will be surprised to see this Government side
+     with foreign rentiers over the policy.
+
+TLS Vulnerability
+:    Two attacks targeting the RC4 stream cipher, part of TLS, have
+     been published.  RC4 encrypts about one-third of the Internet's
+     TLS traffic.  While the attacks are unfeasible for ordinary
+     attackers, users and TLS implementers are urged to disable RC4.
+
+Slack Hack
+:    Slack, a colourful and browserified workplace IRC service, has
+	 reported a significant breach.  The company believes no financial
+	 information, nor any conversations, were accessed, though a
+	 database of login credentials, Skype names, and hashed passwords
+	 should be considered fully compromised.  The firm recommends
+	 two-factor authentication, and changing your passwords.
+
+Github DDoS
+:    Github has been under DDoS attack for days, after China's Great
+     Firewall injected JavaScript into the browsers of Baidu users.
+     The script instructs browsers to connect to two subversive Github
+     projects, CN-NYTimes and Greatfire, every two seconds.  Github is
+     still generally available.
+
+Technicalities
+:    A San Francisco court has thrown out claims of gender
+     discrimination brought by Reddit CEO Ellen Pao against her former
+     venture capital employers, Kleiner-Perkins.  Despite the verdict,
+     few would consider this a win for the company, as Pao and her
+     lawyers detailed a series of disgraceful internal practices.
+
+Safari Users Free to Sue GOOG
+:    Safari users in the UK are free to sue Google over tracking
+     cookies.  Apple's browser can reject cookies for passive visits,
+     accepting only when the user interacts with the page.  Google had
+     faked a form submission on every Safari hit to bypass the
+     feature.  The Court of Appeal of England and Wales ruled the
+     matter was within the jurisdiction of the British courts.
+
+SSD Density on the Rise
+:    Intel and Micron have announced new manufacturing techniques that
+     will triple \textsc{nand} density.  3D \textsc{nand} involves
+     stacking flash cells vertically in 32 layers, permitting SSDs
+     with up to 10 TB capacity in the current 2.5" form factor.
+
+Hotel Wi-Fi Very, Very Bad
+:    Security researches Cylance have filed CVE-2015-0932, identifying
+     an unsecured `rsync(1)` daemon running on the AntLabs InnGate
+     wireless gateway.  This device is extremely common at hotels and
+     convention centres, and the vulnerability permits remote code
+     execution.  Port 873, for the curious.  Travelling without a VPN
+     remains a remarkably bad idea.
+
+Windows Update Strikes
+:    Windosw Update has conspired to relegate a second-division pro
+     basketball team in Germany.  A laptop intended to control the
+     scoreboard delayed a Paderborn Baskets home game by updating
+     without prompt for 17 minutes, inviting league penalties, and
+     inspiring the world to connect all of their household appliances
+     to the Internet.
+
+\byline{Timothy~Humphries}

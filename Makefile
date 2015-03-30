@@ -141,6 +141,14 @@ define format_minify_cmd
 	gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=$(basename $(1)).min$(suffix $(1)) $(1)
 endef
 
+define format_greyify_cmd
+	pdftops $(1) $(basename $(1)).ps && \
+	gs -dNOPAUSE -dQUIET -dBATCH -sDEVICE=ps2write \
+		-sColorConversionStrategy=Gray -dProcessColorModel=/DeviceGray \
+		-dCompatibilityLevel=1.4 -sOutputFile=$(basename $(1)).grey.ps \
+		$(basename $(1)).ps
+endef
+
 define beta_issue
 .PHONY: issues/$(1) issues/$(1)/clean issues/$(1)/build issues/$(1)/update
 
@@ -179,6 +187,7 @@ issues/$(1)/build: issues/$(1)/update
 	$(Q)make $(wildcard issues/*/$(1))/$(1).$(FORMAT)
 	$(Q)cp $(wildcard issues/*/$(1))/$(1).$(FORMAT) out/$(1).$(FORMAT)
 	$(Q)$(call format_minify_cmd,out/$(1).$(FORMAT))
+	$(Q)$(call format_greyify_cmd,out/$(1).$(FORMAT))
 
 issues/$(1)/publish: issues/forthcoming/$(1)
 	$(call E, publishing issue $(1))

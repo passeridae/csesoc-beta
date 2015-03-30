@@ -2,7 +2,7 @@
 title: Sponsors
 ---
 
-\endmulticols\LRmulticolcolumns\vfill
+\endmulticols
 
 \section*{This Edition of βeta Sponsored By...}
 
