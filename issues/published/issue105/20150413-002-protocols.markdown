@@ -1,0 +1,187 @@
+---
+title: "'Intuitive' Protocols"
+author: Emily Saunders Walmsley
+---
+
+\endmulticols\LRmulticolcolumns\vfill\pagebreak
+
+"Intuitive" Protocols
+=====================
+
+\begin{center}
+{\large\it In which Emily announces that her name is Emily,
+  and considers the nature of the Internet.}
+\end{center}
+\multicols{2}
+
+Upon dwelling upon the core of the Internet, and the fact that its
+nothing more than a very large, very distributed system, I always
+begin to feel a gentle, yet unshakable, sense of sadness creep over
+me; kind of like when you first realise that the world is not a fair
+place and that kitten on the box may never reach its treat, or that
+Keanu Reeves will almost certainly make more money than you over
+arbitrary time scales.
+
+\begin{center}
+\includegraphics[width=.8\linewidth]{images/protocols-keanu.jpg}
+\par\textit{Facial expressions are for the weak.}
+\end{center}
+
+The Internet is such a core utility in our lives, but an eternally
+confusing one.  Whenever people try to "explain" the core protocols
+and connections that make up distributed, weblike, systems, they
+always lean towards "intuitive", "approachable" arguments.
+Interestingly, no matter how they spin it, these kinds of intuitive
+arguments are not intuitive.  A successful intuitive explanation must
+invoke experiences that someone would have in real life, and I have
+never had a real-life experience that has resembled any form of common
+distributed or Internet protocol.
+
+For example, let's suppose that I am having a nice conversation with a
+friend.  If that conversation was similar to HTTP, it would go
+something like:
+
+> __Emily.__  Alex, I would like today's `xkcd`.
+>
+> __Alex.__  OK, here it is.
+>
+> __Emily.__  Alex, I would like last week's comic.
+>
+> __Alex.__  Yeah, it's here.
+>
+> __Emily.__  Alex, I want the comic with Knuth being a ninja.
+>
+> __Alex.__  ... Give me a moment to find it.
+>
+> __Emily.__ Let me tell you again that I want the `xkcd` comic with
+> Knuth being a ninja.
+>
+> __Alex.__ ... Here.
+>
+> _[Hours pass.]_
+>
+> __Emily.__ Alex, do you have the `xkcd` comic with the ghost and the
+> eternal passage of time?
+>
+> __Alex.__ 404 FILE NOT FOUND. GO AWAY.
+
+And that, children, is how you lose friends forever.
+
+
+What's the Gossip?
+------------------
+
+But maybe something less concrete, more conceptual, is necessary for
+the real intuitive explanation experience.  Gossip protocols are
+ostensibly modeled off, you guessed it, gossip, so sound as if they
+can be easily explained.  So let's pretend that I'm at a party and am
+meeting someone for the first time:
+
+> __Emily.__ I announce that my name is Emily.
+>
+> __Oz.__ _(to Beth)_ I verify that she announced that her name is Emily.
+>
+> __Andy.__ _(to Beth)_ I verify that she announced that her name is Emil.
+>
+> __Beth.__ _(to Oz)_ I verify that she announced that her name is Emil.
+>
+> __Oz.__ _(to Beth)_ I verify that she announced that her name is Emily!
+>
+> __Beth.__ I VERIFY THAT SHE ANNOUNCES THAT HER NAME IS EMIL!
+>
+> __Andy.__ I VERIFY THAT SHE ANNOUNCES THAT HER NAME IS EMIL!
+>
+> __Oz.__ I ANNOUNCE THAT YOUR NAME IS EMIL.
+>
+> __Emily.__ I announce that my name is Emily!
+>
+> __Oz.__ _(to Andy)_ She announces that her name is Emily.
+>
+> __Andy.__ _(to Beth)_ She announces that her name is Emily.
+>
+> __Beth.__ _(to Oz)_ She announces that her name is Emily.
+>
+> __Emily.__ Who are you?
+>
+> __Oz__, __Beth__, __Andy.__ … YOU ANNOUNCE THAT YOUR NAME IS EMILY.
+>
+> __Emily.__ I ANNOUNCE THAT YOU ARE BORING.
+>
+> __Oz.__ I ANNOUNCE THAT YOU ARE BORING.
+>
+> __Emily.__ I announce that I am leaving.
+
+Have I mentioned that I don't like gossip parties?
+
+
+An Ottoman And A Hard Place
+---------------------------
+
+Last but not least, we have the old "favourite", known as Byzantine
+Fault Tolerance.  The name itself should give it away as being an
+unintuitive idea, as neither you, nor I, nor the NSA, are Byzantine
+Generals, and the attack at dawn is a ruse anyway, so we can get a few
+hours peace before lunch.  So, lets all suppose I am in the basement,
+and want to go to lunch with a few friends.  This is what the
+experience would look like if it resembled a BFT protocol:
+
+> __Emily.__ I announce my desire to go to lunch.
+>
+> __Beth.__ I verify that I heard that you want to go to lunch.
+>
+> __Andy.__ I also verify that I heard that you want to go to lunch.
+>
+> __Chris.__ YOU DO NOT WANT TO GO TO LUNCH.
+>
+> __Emily.__ OH NO. LET ME TELL YOU AGAIN THAT I WANT TO GO TO LUNCH.
+>
+> __Chris.__ YOU DO NOT WANT TO GO TO LUNCH.
+>
+> __Beth.__ CHRIS IS FAULTY.
+>
+> __Chris.__ CHRIS IS NOT FAULTY.
+>
+> __Andy.__ I VERIFY THAT BETH SAYS THAT CHRIS IS FAULTY.
+>
+> __Beth.__ I VERIFY MY VERIFICATION OF MY CLAIM THAT ANDY CLAIMS THAT I KNOW CHRIS.
+>
+> __Emily.__ I AM SO HUNGRY.
+>
+> __Chris.__ YOU ARE NOT HUNGRY.
+>
+> __Andy.__ I DECLARE CHRIS TO BE FAULTY.
+>
+> __Chris.__ I DECLARE ANDY TO BE FAULTY.
+>
+> __Emily.__ I DECLARE EMILY TO BE SLIPPING INTO A DIABETIC COMA.
+>
+> __Andy.__ I have already left for lunch.
+
+
+On Coherence
+------------
+
+Ultimately, we need to stop obsessing over distributed systems and how
+they do or don't talk to each other.  I don't blame people for being
+interested in this hideously complex, excruciatingly irrational field,
+in the same limited sense that I do not blame drug addicts for wanting
+to acquire and then consume cocaine.  The desire to make computers
+communicate, and then make that communication fast and reliable is a
+powerful one, growing with the Internet in size and scale.  However,
+unfortunately, this addiction, if left unchecked, will inescapably
+lead to madness and/or reports containing no less than 453 pages of
+diagrams (with appendices, containing the proofs), and these reports
+will _still_ be incoherent to the educated expert.
+
+\begin{center}
+\includegraphics[width=.8\linewidth]{images/protocols-labels.jpg}
+\par\textit{As you can see, we removed the labels for simplicity.}
+\end{center}
+
+Even if we break the will of the machines with formal proofs, and
+restrictive protocols, and cryptography, we will never be able to put
+ourselves inside the computer.  And as such, we will be left helpless
+and crying as the Internet explodes and the computers decide that
+gossip was overrated after all.
+
+\byline{Emily~Saunders~Walmsley}

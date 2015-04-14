@@ -1,0 +1,12 @@
+
+\endmulticols\pagebreak\LRmulticolcolumns\begin{center}\vspace*{8em}
+{\sffamily\fontsize{68pt}{64pt}\selectfont we are\\ discontent}
+\par\vspace{4em}\fontsize{32pt}{36pt}\selectfont
+\csesocbeta\ can only happen\\
+if you help us!\par\vspace{1em}
+Submit content.\par\vspace{1em}
+Make your magazine great.\par\vspace{2em}
+\fontsize{12pt}{16pt}\selectfont
+\textit{the rest of this page left blank, and not by choice}
+\end{center}\vfill\multicols{2}
+

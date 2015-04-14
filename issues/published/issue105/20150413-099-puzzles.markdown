@@ -1,0 +1,159 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-03-02
+---
+
+\endmulticols\vfill\pagebreak
+
+Puzzles
+=======
+
+Regular Expression Crossword
+----------------------------
+
+\vspace{-3.5em}\begin{center}
+\renewcommand{\arraystretch}{1.618}%
+\begin{tabular}{r|l|l|l|l|l|l|l|l|l|l|l|}
+\multicolumn{1}{r}{\begin{turn}{90}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{(HST|H\textbackslash{}sT)(TO|EH|GI)}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{7ex} }(OY|YO){[}HEN{]}+}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{7ex} }(WOES|OSTE)\textbackslash{}s}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{8ex} }{[}S\textbackslash{}s{]}U{[}S\textbackslash{}s{]}+}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{12ex} }{[}LET\textbackslash{}s{]}+E}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{13ex} }{[}\textbackslash{}sOW{]}+C}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{1ex} }(MAN|NAM)(\textbackslash{}s|R)\{2\}}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{6ex} }{[}IGN{]}+(MO|ER)E}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{3ex} }(IT|\textbackslash{}sT)(ROG|SET)}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{6ex} }D{[}S\textbackslash{}s{]}+(M|D)\textbackslash{}?}
+\end{turn}} & \multicolumn{1}{l}{\begin{turn}{-90}
+\texttt{\texttt{\hspace*{14ex} }O{[}A\textbackslash{}s{]}+}
+\end{turn}}\\
+\cline{2-12} 
+\texttt{(LONG|HOW\textbackslash{}s)+(POP|\textbackslash{}sDO)} &  &  &  &  &  &  &  &  &  &  & \\
+\cline{2-12} 
+\texttt{(\textbackslash{}s)(WANT|YOU\textbackslash{}s)+\textbackslash{}1\{2\}} &  &  &  &  &  &  &  &  &  &  & \\
+\cline{2-12} 
+\texttt{(THESE|THOSE)\textbackslash{}s{[}MESA{]}+} &  &  &  &  &  &  &  &  &  &  & \\
+\cline{2-12} 
+\texttt{{[}GETS{]}\{3\}\textbackslash{}s(MET|TO\textbackslash{}s){[}MARE{]}+} &  &  &  &  &  &  &  &  &  &  & \\
+\cline{2-12} 
+\texttt{(\textbackslash{}sIN|IN\textbackslash{}s){[}SECRET{]}+(\textbackslash{}?\textbackslash{}s|.\textbackslash{}s)} &  &  &  &  &  &  &  &  &  &  & \\
+\cline{2-12} 
+\end{tabular}\end{center}
+
+\multicols{2}
+
+Brain Teasers
+-------------
+
+A.
+:    What is the least number of changes required to turn the word
+     "work" into "play", where the only operations allowed are to add,
+     remove or change a letter, and each intermediate word must also
+     be in English?
+
+B.
+:    There's a king in the land of Binaria who's planning on throwing
+     an enormous party, and has amassed 1000 bottles of wine for the
+     occasion.  A would-be assassin breaks into the cellar where he's
+     storing this wine, and proceeds to poison one of the 1000
+     bottles, but gets away too quickly for the king's guard to see
+     which one he poisoned or to catch him.
+
+     The king needs the remaining 999 safe bottles for his party in 4
+     weeks.  Thankfully, the king has 10 servants who he considers
+     disposable.  The poison takes about 3 weeks to take effect, and
+     any amount of it will kill whoever drinks it.  How can he figure
+     out which bottle was poisoned in time for the party?
+
+     __Hint.__ The king will have to mix wine for this to work.
+
+     __Hint.__ It's easier to think of this in binary numbers.
+
+Takuzu
+------
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][f]1 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]0|.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]1 |.
+|[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |.
+|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][Sf]1|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |.
+|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |.
+|[][f]0 |[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][Sf]1|[][f]0 |[][Sf]1|.
+|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|.
+|[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |.
+\end{Puzzle}
+
+Issue 104 Solutions
+-------------------
+
+__Brain Teasers__
+
+__A.__ You need to get the same probability for both of you; cannot be
+  done in one flip, but can with two flips. H, T and T, H have the
+  same probability. If the two throws are H H or T T, throw again.
+__B.__ Binary trees.
+
+__Takuzu__
+
+\vspace{-4em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|.
+\end{Puzzle}
+\end{center}
+
+__Crossword__
+
+\vspace{-11em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{18}{18} %
+\PuzzleUnitlength=10pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |[1]D |*    |*    |*    |*    |*    |*    |*    |[2]E |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |Y    |*    |[3]C |O    |M    |P    |L    |E    |X    |I    |T    |Y    |*    |.
+|*    |*    |*    |*    |*    |N    |*    |O    |*    |*    |*    |*    |*    |P    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |A    |*    |R    |*    |*    |[4]B |*    |*    |O    |*    |*    |*    |*    |.
+|*    |[5]S |*    |*    |*    |M    |*    |R    |*    |[6]F |I    |B    |O    |N    |A    |C    |C    |I    |.
+|[7]O |P    |T    |I    |M    |I    |S    |E    |D    |*    |G    |*    |*    |E    |*    |*    |*    |*    |.
+|*    |A    |*    |*    |*    |C    |*    |C    |*    |*    |O    |*    |*    |N    |*    |[8]P |*    |*    |.
+|*    |R    |*    |*    |*    |P    |*    |T    |*    |*    |*    |*    |*    |T    |*    |S    |*    |*    |.
+|*    |S    |*    |[9]T |U    |R    |I    |N    |G    |M    |A    |C    |H    |I    |N    |E    |*    |*    |.
+|*    |E    |*    |*    |*    |O    |*    |E    |*    |*    |*    |*    |*    |A    |*    |U    |*    |*    |.
+|*    |*    |*    |*    |*    |G    |*    |S    |*    |*    |*    |*    |*    |L    |*    |D    |*    |*    |.
+|*    |*    |*    |*    |*    |R    |*    |S    |*    |*    |*    |*    |*    |*    |*    |O    |*    |*    |.
+|*    |[10]T|H    |E    |T    |A    |*    |*    |*    |*    |*    |*    |*    |*    |*    |C    |*    |*    |.
+|*    |*    |*    |*    |*    |M    |*    |*    |*    |[11]H|A    |M    |I    |L    |T    |O    |N    |*    |.
+|*    |*    |*    |*    |*    |M    |*    |*    |*    |*    |*    |*    |*    |*    |*    |D    |*    |*    |.
+|*    |*    |[12]K|O    |N    |I    |G    |S    |B    |E    |R    |G    |*    |*    |*    |E    |*    |*    |.
+|*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[13]S|T    |R    |I    |N    |G    |M    |A    |T    |C    |H    |I    |N    |G    |*    |*    |*    |*    |.
+\end{Puzzle}
+\end{center}
+\vspace{-1em}
+
+\byline{Emily Saunders Walmsley}

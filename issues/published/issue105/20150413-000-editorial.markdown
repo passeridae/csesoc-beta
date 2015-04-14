@@ -1,0 +1,28 @@
+Editorial
+=========
+
+Hello, hello, and welcome back from mid-semester break; to get you
+back into the swing of it, here's what's left of \csesocbeta\ for this
+week.
+
+I should also apologise for last week's glitch in the printed version.
+I now know a disturbing amount more than I used to about the way CUPS
+works, the way that our printers work, and have an immense amount of
+gratitude to the team in SS for helping me fight the printer.
+
+Printing on Linux now is akin to what audio was like there, ten years
+ago.  A solved problem everywhere else, to boot.
+
+As ever, if you've stumbled on anything interesting, or you're keen to
+get involved, join the team via the CSESoc website, or send in an
+article---`beta@cse.unsw.edu.au`.  We'd love to hear from you!
+
+Enjoy this (disturbingly sparse) issue.
+
+\byline{Jashank~Jeremy}
+
+\vspace*{12em}
+(I did mean it when I said sparse.)
+\vfill
+
+\pagebreak

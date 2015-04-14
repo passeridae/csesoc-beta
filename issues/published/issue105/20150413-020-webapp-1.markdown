@@ -1,0 +1,52 @@
+---
+title: The Adventures of Edward Gough Webapp
+author: Jashank Jeremy
+---
+
+\endmulticols\LRmulticolcolumns\vfill
+
+From The Trenches
+=================
+
+\begin{center}
+{\large\it or, The Adventures of Edward Gough Webapp, in which Jashank
+  grumbles about his job}
+\end{center}
+\multicols{2}
+
+First, a précis: I got made an offer to take a year off uni and write
+code.  I compromised, and I'm taking a year doing full-time work and
+part-time uni, which means I still get to bring you Beta each week.
+But I also have some fun stories to share, so each issue, I hope to
+bring you a few of them.
+
+I suppose I should begin by saying that the company I work for is
+essentially a start-up in terms of the number of employees we have.
+On a good day, we have twelve people in a large open-plan office, and
+while we don't have Google-grade employee perks, it's a pretty great
+atmosphere, and I can really understand why the start-up culture is so
+attractive.
+
+We also seem to have a huge number of students of, and graduates from,
+\UNSW\ Engineering---I suppose that's a quality thing---and some who
+have even, over the course of their degrees, done first-year computing
+courses.
+
+But for the most part, my job had, up to now, been spent massaging a
+PHP monolith.  It has severe performance issues; we clocked it firing
+off nearly 20,000 unique database queries over three or four seconds,
+and decided that Something Really Must Be Done.
+
+To attempt to improve matters, `$boss` suggested we go and, uh, "buy
+more processor".  I suggested, of course, that we go into the
+butt---er, cloud---and seek what performance benefits we could get
+from there.
+
+So there I was, whacking bugs on the AWS instance, holding my laptop
+in one hand, typing with the other, and walking along a major road to
+work.  Truly, a great sight.
+
+Also, SSL certificates are hard to do.  I'd write a good guide, but
+it'd disappear into the thronging mass of bad ones.
+
+\byline{Jashank~Jeremy}
