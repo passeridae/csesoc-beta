@@ -186,7 +186,9 @@ issues/$(1)/build: issues/$(1)/update
 	$(Q)mkdir -p out
 	$(Q)make $(wildcard issues/*/$(1))/$(1).$(FORMAT)
 	$(Q)cp $(wildcard issues/*/$(1))/$(1).$(FORMAT) out/$(1).$(FORMAT)
+	$(call E, generating minified issue $(1))
 	$(Q)$(call format_minify_cmd,out/$(1).$(FORMAT))
+	$(call E, generating print-ready greyified issue $(1))
 	$(Q)$(call format_greyify_cmd,out/$(1).$(FORMAT))
 
 issues/$(1)/publish: issues/forthcoming/$(1)
