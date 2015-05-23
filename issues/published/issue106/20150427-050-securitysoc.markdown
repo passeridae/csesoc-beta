@@ -1,0 +1,37 @@
+\endmulticols\LRmulticolcolumns\vfill\pagebreak
+
+The Security Society of UNSW
+============================
+
+\multicols{2}
+
+The Security Society of UNSW is a newly-formed group of students who
+are passionate about computer security. Our plan is to run lots of
+exciting workshops around security, covering all sorts of awesome
+security/hacking content; as well as running our own competitions, and
+competing in, and winning, national and international CTFs.
+
+Last year we took out the top 3 places in CySCA, a Telstra/DoD-run
+competition for Australian uni students. We also sent a team to
+DEFCON, effectively the biggest, hardest, and most important CTF,
+where we placed ninth in the world. So if this sounds like something
+you might be interested in, definitely come and say hi.
+
+We've already run a workshop on using a framework called Metasploit to
+exploit vulnerabilities in practice servers we set up, as well as one
+on lockpicking; we're planning to run another one on Thursday next
+week on hacking WiFi networks.
+
+If this sounds like fun, then come along and check us out.
+
+\begin{center}
+http://facebook.com/groups/dotsoc
+
+unswsecurity.com
+
+execs@unswsecurity.com
+\end{center}\columnbreak
+
+\begin{center}
+\includegraphics[width=.8\linewidth]{images/secsoc-kitten.png}
+\end{center}

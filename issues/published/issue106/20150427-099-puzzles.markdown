@@ -1,0 +1,155 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-03-02
+---
+
+\endmulticols\vfill\pagebreak
+
+Puzzles
+=======
+
+\multicols{2}
+
+Crossword
+---------
+
+\vspace{-6em}
+\begin{Puzzle}{18}{18}
+\PuzzleUnitlength=13pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |*    |[1]C |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |[2]K |*    |*    |*    |*    |*    |R    |*    |[3]C |*    |*    |*    |*    |*    |*    |*    |.
+|[4]F |R    |E    |Q    |U    |E    |N    |C    |Y    |*    |A    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |R    |*    |*    |*    |*    |*    |P    |*    |E    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |C    |*    |*    |*    |*    |*    |T    |*    |S    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |K    |*    |*    |*    |*    |*    |A    |*    |A    |*    |*    |*    |*    |*    |*    |[5]C |.
+|*    |*    |H    |*    |[6]V |I    |G    |E    |N    |E    |R    |E    |C    |I    |P    |H    |E    |R    |.
+|*    |*    |O    |*    |*    |*    |*    |*    |A    |*    |C    |*    |*    |*    |*    |*    |*    |Y    |.
+|*    |*    |F    |*    |[7]C |*    |*    |[8]P |L    |A    |I    |N    |T    |E    |X    |T    |*    |P    |.
+|*    |*    |F    |*    |O    |*    |*    |*    |Y    |*    |P    |*    |*    |*    |*    |*    |*    |T    |.
+|*    |*    |*    |*    |L    |*    |*    |*    |S    |*    |H    |*    |[9]l |*    |*    |*    |*    |O    |.
+|*    |*    |*    |*    |[10]O|N    |[11]E|T    |I    |M    |E    |P    |A    |D    |*    |*    |*    |G    |.
+|*    |*    |*    |*    |S    |*    |N    |*    |S    |*    |R    |*    |N    |*    |*    |*    |*    |R    |.
+|*    |*    |*    |*    |S    |*    |T    |*    |*    |*    |*    |*    |D    |*    |*    |[12]K|*    |A    |.
+|*    |*    |*    |*    |U    |*    |R    |*    |*    |*    |[13]S|H    |A    |O    |N    |E    |*    |P    |.
+|*    |*    |*    |*    |S    |*    |O    |*    |*    |*    |*    |*    |U    |*    |*    |Y    |*    |H    |.
+|*    |*    |*    |*    |*    |*    |P    |*    |[14]C|I    |P    |H    |E    |R    |*    |*    |*    |Y    |.
+|*    |*    |*    |*    |*    |*    |Y    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}}
+\Clue{4}{FREQUENCY}{How often letters occur}
+\Clue{6}{VIGNERECIPHER}{Multiples of [caesarciphers], in a row.}
+\Clue{8}{PLAINTEXT}{Pre-encrypted text, much less exciting}
+\Clue{10}{ONETIMEPAD}{Unbreakable if things are really random}
+\Clue{13}{SHAONE}{160-bit hash function}
+\Clue{14}{CIPHER}{Replaces one with another}
+\end{PuzzleClues}
+\vspace{-1em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{CRYPTANALYSIS}{Deciphering codes (not necessarily Perl)}
+\Clue{2}{KERCKHOFF}{Key, not algorithm, secrecy}
+\Clue{3}{CAESARCIPHER}{rot13}
+\Clue{5}{CRYPTOGRAPHY}{Hidden writing, but in Greek}
+\Clue{7}{COLOSSUS}{Cracked the Lorenz cipher}
+\Clue{9}{LANDAUER}{128-bit theoretical limit, but people}
+\Clue{11}{ENTROPY}{Shannon measure of coding efficiency}
+\Clue{12}{KEY}{Public and private}
+\end{PuzzleClues}
+\vspace{-1em}
+
+Takuzu
+------
+
+\vspace{-1em}
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |.
+|[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][f]0 |.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][Sf]1|.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]0 |[][Sf]1|[][f]0 |.
+|[][Sf]0|[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]1|.
+|[][f]1 |[][f]0 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][Sf]1|.
+|[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]0 |.
+\end{Puzzle}
+\vspace{-2em}
+
+
+Brain Teasers
+-------------
+
+A.
+:    Guvf vf gur bayl Pnrfne Pvcure gung vf vgf bja vairefr. Juvpu bar
+     vf vg?
+
+B.
+:    Most books have an ISBN number.  The ISBN number of "Applied
+     Cryptography" is 0471117099.  Let's multiply these digits by the
+     numbers ten to one: 10*0+9*4+8*7+7*1+6*1+5*1+4*7+3*0+2*9+1*9 =
+     165 = 15*11.  As you can see, the sum is divisible by 11. In
+     fact, this property holds true for all ISBNs.
+
+    The number 0100000001 cannot be an ISBN. If we know that one digit
+    is wrong, how many possible ISBNs could it have originally been?
+
+C.
+:    In this puzzle, each letter stands for unique digit that makes
+     the arithmetic equation true. What are the values of the letters
+     in: _SEVEN_ + _SEVEN_ + _SIX_ = _TWENTY_
+
+Issue 105 Solutions
+-------------------
+
+__Brain Teasers__
+
+__A.__  6 steps: work, pork, perk, peak, peat, plat, play.
+
+__B.__ The king assigns each servant a number from 1-10. The king
+assigns each bottle a number from 0-999. When he labels them, though,
+he writes the number on the bottle in binary with ten digits, like
+this: 0: 000000000 1: 000000001 2: 000000010 3: 000000011 4: 000000100
+5: 000000101 ... 999: 1111100111 and so on.
+
+Now, each servant takes a small sip from every bottle where the
+servant's number equals 1 in the binary number on the bottle. So, the
+1st servant drinks from every other bottle. The second servant drinks
+from bottles 2, 3, 6, 7, 10, 11, etc.
+
+Then based on the combination of servants that die, he can identify
+the poisoned bottle. For example, if none of them die, the 0th bottle
+was poisoned because none of them drank from it. If only servant 1
+dies, then bottle 1 was poisoned, because he's the only person who
+drank from it. Finally, if servants 1, 2, 3, 6, 7, 8, 9, and 10 die,
+then the 999th bottle was poisoned.
+
+__Takuzu__
+
+\vspace{-5em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+\end{Puzzle}
+\end{center}
+
+__Regular Expression Crossword__
+
+\includegraphics[width=.9\linewidth]{images/HowLongAnswer.png}
+
+\byline{Emily Saunders Walmsley}

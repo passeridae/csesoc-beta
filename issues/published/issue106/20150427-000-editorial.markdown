@@ -1,0 +1,39 @@
+Editorial
+=========
+
+Hello, hello, and welcome to this edition of \csesocbeta.
+
+You may have noticed a bit of a gap in the chronology.  Our last
+scheduled issue, two weeks ago, didn't have enough content to go to
+print, and we couldn't scavenge enough up in time.
+
+Thankfully, we don't have a single, full-page pun, telling you that we
+need content in this issue.  Thankfully.  Even so, we really, really
+do: it's been an awfully light week, and much of the content you see
+here was stitched together in a great hurry.
+
+It's actually surprisingly difficult to fill an issue, and we rely on
+the work of many.
+
+As ever, if you've stumbled on anything interesting, or you're keen to
+get involved, join the team via the CSESoc website, or send in an
+article---`beta@cse.unsw.edu.au`.  We'd love to hear from you!
+
+We hope you enjoy this issue, and I hope to see many of you at the
+Emacs workshop!
+
+\byline{Jashank~Jeremy}
+
+\vfill
+
+StuRep Report 15s1
+------------------
+
+The StuRep report for session 1, 2015 is out now.  Head to the StuRep
+website to pick it up.
+
+\begin{center}
+\href{https://cgi.cse.unsw.edu.au/~stureps/website/}{\textit{cse.unsw.edu.au/\~stureps}}
+\end{center}
+
+\pagebreak

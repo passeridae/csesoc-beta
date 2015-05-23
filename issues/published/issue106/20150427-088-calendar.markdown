@@ -1,0 +1,106 @@
+---
+title: Calendar
+---
+
+\endmulticols\LRmulticolcolumns\pagebreak
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+every Monday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, Physics Lawn_
+
+    Come on down to the Physics Lawn for your weekly dose of free
+    barbecue!  Don't forget to pick up your copy of \csesocbeta, and
+    make some new friends!
+
+11 May
+:    Emacs Workshop\hfill\bcalTech{}  
+    _2p, K17 Seminar Room_
+
+    If you want an editor that's extensible, flexible, graphical, and
+    helpful, why not try Emacs?
+
+    This workshop introduces Emacs as a day-to-day tool to write and
+    edit text and code, and shows some sweet shortcuts to make your
+    life easier. Like other editors, it's got a lots of power tucked
+    away under the hood, and it can even help you scale its learning
+    curve.
+
+    \calendaronelink{emacs-workshop}
+
+15 May
+:    Optiver Site Visit\hfill\bcalCareers{}  
+    _1--3p, Optiver Sydney_
+
+    Optiver, voted #1 in Australia’s Best Place to Work List in 2013
+    and #2 in 2014 is opening its doors!
+
+    Come find out about the graduate and internship roles available in
+    both IT (Software Development, Trading Systems Engineering) and
+    Trading and chat to recent grads. This is an excellent opportunity
+    to gain insight into the way IT and Trading work as the right and
+    left hand arms of the business to solve complex problems together
+    and stay at the top of the financial markets.
+
+    Places are limited.
+    \calendarlink{optiver-site-visit}
+
+15 May
+:    Applications Close:\hfill\bcalCareers{}  
+    Google Anita Borg Memorial Scholarship 2015
+
+    Dr. Anita Borg (1949--2003) devoted her life to revolutionizing
+    the way we think about technology and dismantling the barriers
+    that keep minorities and women from entering the computing and
+    technology fields.
+
+    As part of Google's ongoing commitment to furthering Anita's
+    vision, the Google Anita Borg Memorial Scholarship 2015:
+    Asia-Pacific (APAC) has been announced; its aim is to encourage
+    women to excel in computing and technology, and become active role
+    models and leaders.
+
+    \calendarlink{google-anita-borg-scholarship}
+
+
+18 May
+:    Security Talk\hfill\bcalTech{}  
+    _2p, K17 Seminar Room_
+
+    Ever wondered, "why does security even matter?"  Come to the
+    Seminar Room on May 18th at 2pm to have your mind changed!
+
+    Held by the president of the Security Society of UNSW,
+    Andrew Bennett, this talk will cover the idea of the "hacker
+    mindset", why security is both important and fun, and some
+    mistakes that developers have made in the past---both within CSE
+    and on a global scale.
+
+    \calendaronelink{security-talk}
+
+20 May
+:    Ice-skating\hfill\bcalSocial{}  
+    _8--10p, Macquarie Ice Rink_
+
+    You know what life needs more of?  Ice. Lots and lots of nice,
+    powdery ice.  CSESoc and Macquarie Ice Skating has you covered!
+
+    The CSESoc Choo-Choo-Chugga-Chugga Express will leave from Central
+    Platform 16 at 6:50pm, to Macquarie University Station.  To get
+    back to Central, trains leave every 30 minutes after 10:15pm, last
+    one departing at 11:45pm.
+
+    \calendaronelink{iceskating}
+
+\endmulticols\vfill
+\begin{center}
+\includegraphics[width=0.9\linewidth]{images/xkcd1513.png}
+
+{\small\it I honestly didn't think you could even USE emoji in
+  variable names. Or that there were so many different crying ones.}
+\end{center}
+\multicols{2}

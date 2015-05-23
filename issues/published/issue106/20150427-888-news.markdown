@@ -1,0 +1,80 @@
+\endmulticols
+
+The News
+========
+
+\begin{center}
+\textit{or, ``nothing happened this week tbh''}
+\end{center}
+\multicols{2}
+
+__Optus doesn't see the appeal of net neutrality.__
+Optus CEO Allan Lew has publicly suggested high bandwidth players such
+as Netflix pay ISPs to maintain quality of service. Speaking at
+industry event CommsDay, he seems to have suggested this would improve
+end user experience, and not just the bottom line at Optus. Netflix
+has publicly retreated from its unmetered sweetheart deal with iiNet
+in the weeks since launch, claiming it went against the neutrality
+ethos.
+
+__NBN becomes a cocompany.__
+NBN Co has spent an absurd sum rebranding itself as _nbn_™, without
+the Co.  Along with the "new" "name", the company bought itself a new
+logo that vaguely resembles its modus operandi---a large fibre dot
+that quickly trickles down into tiny dial-up dots the further you get
+from a wealthy urban centre. For some reason, the fibre dot is located
+at Pine Gap.
+
+\begin{center}
+\includegraphics[width=.4\linewidth]{images/nbn-logo.png}
+\end{center}
+
+__Google, Facebook earthquake relief.__
+Both Google and Facebook have rolled out their disaster relief
+programs to improve the response to a magnitude 6.7 earthquake in
+Nepal. Google Person Finder maintains a separate database allowing one
+to request or provide information about a missing person, used by
+those on the ground. Facebook's Safety Check allows those in the
+affected area to broadcast a sign of life to their Facebook
+friends. Facebook users received a list of their contacts in the area
+shortly after the incident.
+
+__`wpa_supplicant` vulnerability.__
+Vulnerability CVE-2015-1863, discovered by Alibaba, affects popular
+WPA2 implementation wpa_supplicant. In peer-to-peer mode, the code
+responsible for parsing the management frame's SSID field was not
+correctly verifying payload length, leading to a possible 223-byte
+buffer overflow. Patches are available and will be included in version
+2.5.
+
+__iOS SSL certificate parser vuln.__
+Security researchers Skycure have demonstrated a bug in the iOS SSL
+certificate parser at the RSA conference, though details will not be
+released until Apple releases a fix. The attack causes iOS apps to
+crash, and repeated attacks eventually knock over the OS itself,
+bricking the device while it is in range of their malicious Wi-Fi
+network.
+
+__API flaw creates 25,000 vulns.__
+SourceDNA researchers have noticed an API flaw in Apple's
+`AFNetworking` framework that has led to the publication of 25,000
+vulnerable apps. The TLS implementation does not check domain names
+when validating certificates unless it is told to---behaviour that
+developers clearly did not expect.  Any valid SSL certificate could
+thus be used to masquerade as the intended host.  Versions 2.5.3 and
+above contain a fix.
+
+__New ARM core.__
+ARM have announced their latest CPU. The Cortex A72 features speed,
+efficiency and size improvements that render it comparable to Intel's
+Broadwell line when power supply is constrained. ARM also touted the
+A72's improved branch prediction, and an overall
+instructions-per-clock increase over predecessor A57 of 20%-60%.
+
+__Pebble vengeance.__
+In the days after the release of the Watch, Apple had been selectively
+rejecting apps that mention support for rival Pebble in their
+description. It is now claimed to have been a mistake at the App Store
+reviewer level, though it disrupted multiple app publishers first.
+
+\byline{Timothy~Humphries}

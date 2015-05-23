@@ -1,0 +1,114 @@
+---
+title: On Data Retention
+---
+
+\endmulticols\LRmulticolcolumns
+
+On Data Retention
+=================
+
+\begin{center}{\large\it
+  In which we indefinitely retain Jake's frustrations about
+  new data retention legislation.}  \end{center}
+
+\multicols{2}
+
+_Dear Mr. Turnbull,_
+
+My name is Jake Bloom and I am a 19 year old University Student at
+UNSW and Software Developer from Rose Bay.  I intend to vote for you
+in the 2016 Federal Election and also for your colleague Gabrielle
+Upton in the coming NSW State Election.  I am not involved in any
+political clubs or societies at uni, and I cast my vote as such
+because I believe that yourself and Ms Upton are the best candidates
+to represent my local electorate.
+
+I don't typically get involved in politics, however the current debate
+about mandatory data retention laws, and Labor's new position on the
+laws have me very concerned about my future, and what kind of society
+I will be raising my children in.
+
+I believe that these laws are a "knee-jerk" reaction to the increase
+in global terrorist activity and Australian terrorist activity seen in
+2014, and while action is needed to ensure we can live happily in a
+safe and peaceful society, the metadata laws seem as though they will
+be ineffectual, and even worse, their full impacts are poorly
+understood by members of government who did not have the opportunity
+to learn about the framework of the Internet during the years they
+were studying, as the Internet was still in it's infancy in those
+days.
+
+Firstly, I believe that these laws will be ineffective as those who
+will be using the Internet to conduct terrorist activities will be
+using a Virtual Private Network (VPN).  A VPN works by encrypting a
+request made by a computer, so that Internet Service Providers (ISPs)
+are unable to detect and alter these requests on their way to their
+destination.  VPNs are widely used by large corporations, such as
+banks, to enable employees to work from home without fear of
+confidential information being intercepted by malicious attackers.  It
+is also how travellers to countries such as China and Iran are able to
+access social media websites that are censored in those countries.
+VPNs require little to no technical knowledge to set up and implement,
+and the most basic of Google searches will give instructions on how to
+set one up, allowing any user to circumnavigate these laws.
+
+Additionally, the vast majority of online criminal and terrorist
+activity takes place on what is called the "dark web".  The dark web
+is accessed by using a privacy tool called Tor, which sends an
+Internet request from a client to a server via a long and convoluted
+route, encapsulating requests within requests until it becomes very
+difficult to track.  Tor originally was, and still is, funded by the
+US government as a way to mask their military communications.
+
+The University of Arizona's Artificial Intelligence Lab has spent
+eight years researching terrorist activity on the deep web, and has
+been published in a number of articles on topics such as bioterrorism
+and identifying anonymous users.  However, even the briefest of
+glances reveals how much data retention and analysis takes place in
+order to make small progress in these areas, and this is retention and
+analysis that ISPs will be reluctant to undertake.
+
+Which brings me to the second half of my argument, which involves the
+ISPs themselves.  Under the proposed laws, ISPs will be required to
+store extra data---they already store lots of data, of course, that
+assists them with billing, service provision and also, perhaps, some
+data that will help them identify trends in their business.  However
+it's most likely that they do not already store as much data as the
+laws stipulate they must.
+
+This means that ISPs will have to buy more servers, install them, pay
+for their maintenance and design a way to intercept requests coming
+from their customers and store them in these databases.  Obviously,
+this will cost a large amount of money, which will be passed onto the
+consumers, who are already paying high costs for one of the slowest
+connection speeds in the developed world.
+
+In five to ten years time, the infrastructure of the Internet in
+Australia will become just as important as our road and rail
+infrastructure, and these laws will raise the cost of a person's
+access to this infrastructure and weaken the network itself.
+
+The final point I wanted to make is about the security of Australian's
+metadata.  It's well known in cyber security circles that Telstra
+stored their password database unencrypted until a few years ago.
+This meant that any breach of security at Telstra would put every
+Australian's data at risk, as many people will reuse that password for
+things like their bank accounts, Facebook accounts and more.
+
+What these proposed laws will do is announce that ISPs are carrying
+plenty of personal data about many Australians.  While my friends in
+the cyber security community and I act in good faith and would never
+attempt to compromise this information, somebody, whether in Australia
+or overseas, will take this data retention as as a challenge of sorts.
+It would not at all be surprising if an ISP's server was attacked, and
+everyday Australians have their personal information leaked for anyone
+to see.
+
+I hope that I've raised a few points that you will consider when you
+next consider these laws and which way you will vote on them.  However
+failing that, by publishing this article in Beta, I hope that I become
+considered a journalist, so you'll need a warrant to find me.
+
+Kind Regards,
+
+\byline{Jake~Bloom}

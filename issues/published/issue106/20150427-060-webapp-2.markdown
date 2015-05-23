@@ -1,0 +1,74 @@
+---
+title: The Adventures of Edward Gough Webapp
+author: Jashank Jeremy
+---
+
+\endmulticols\LRmulticolcolumns\vfill
+
+From The Trenches
+=================
+
+\begin{center}
+{\large\it or, The Adventures of Edward Gough Webapp, in which Jashank
+  grumbles about his job.}
+\end{center}
+\multicols{2}
+
+First, a précis: I got made an offer to take a year off uni and write
+code.  I compromised, and I'm taking a year doing full-time work and
+part-time uni, which means I still get to bring you Beta each week.
+But I also have some fun stories to share, so each issue, I hope to
+bring you a few of them.
+
+Database design is tricky.
+
+And, no, I didn't just spoil \COMP3311; it gets better.  But for now,
+just sit down, and try to work out how to store data correctly.
+
+You'll find many textbooks cover this in a disturbing degree of
+detail, usually by example, and typically with an otherwise completely
+meaningless example that, while you'd be familiar with at a distance,
+you have no practical use for, and that leaves out all sorts of useful
+things.
+
+My preferred approach is to get a nice clear desk space, several pads
+of sticky notes, a good pen, some blutak, string, and scissors.  How
+much string?  More than you think you'll need.
+
+Write down what it is you're storing data about---one entity per
+sticky note---and list some basic properties.  It's definitely
+worthwhile leaving room to add more, because you'll need it.
+
+This is around the point where your coworkers start to ask why your
+desk is covered with sticky notes, and the correct answer is, "all
+your data will be stored on sticky notes."
+
+For example, if you have a client, you'll need to store their name,
+some information about them, and maybe a contact---which is a separate
+entity, so we put that on a separate sticky note, put them a
+reasonable distance apart, and blutak a piece of string between them.
+
+Maybe a clients can have multiple contacts---in which case, you put a
+sticky between the two, linking client and contacts.  That's optional,
+if you can hold all that data in your head, or mark it on your sticky
+notes.
+
+Voila, database design.
+
+I opted for this approach, because Oracle MySQL Workbench keeps
+screaming that my version of "Oracle MySQL" reported itself as
+"MariaDB 10.0.17", and every other piece of database design software
+I've found requires one to pay an exorbitant amount of money, and
+probably locks you into some broken database system anyway.
+
+I then turn each entity into a description---the first point at which
+code actually happens---and build a set of database migrations and ORM
+classes and fudges.  I use Ruby's ActiveRecord, which is, in my view,
+a pretty good ORM, which has pretty good migrations.
+
+And, of course, because I'm also completely neurotic, I have MongoDB
+in there too.  Big-data ready, I guess.
+
+\byline{Jashank~Jeremy}
+\pagebreak
+\includepdf{emacs-workshop.pdf}
