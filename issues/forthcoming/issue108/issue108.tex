@@ -1,0 +1,38 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\usepackage{rotating}
+\date{13 April 2015}
+\makeatletter
+\gdef\the@year{2015}
+\gdef\the@issue{105}
+
+\begin{document}
+\includepdf{cover105.pdf}
+\newpage
+\maketitle\thispagestyle{mag}
+\begin{multicols}{2}\begingroup
+\section*{About CSE{}Soc~βeta}\begin{center}
+\csesocbeta{} is published fortnightly\\
+by UNSW CSESoc, Beta team.
+\par Find us online at\\
+\textbf{www.csesoc.unsw.edu.au}\\
+Got some good content? Email us!\\
+\textbf{beta@cse.unsw.edu.au}\\
+\vspace{1em}\par
+{\Large\bf\makeatletter \the@year\ issue \the@issue}
+\par{\bf\sffamily βeta Head}\\ Jashank~Jeremy
+\par{\bf\sffamily Contributors}\\
+  Emily~Saunders~Walmsley\hsp{}
+  David~Sison\hsp{}
+  Octavia~Soegyono\hsp{}
+  John~Wiseheart\hsp{}
+\par{\bf\sffamily Puzzle Wrangler}\\ Emily~Saunders~Walmsley
+\par{\bf\sffamily News Chaser}\\ Timothy~Humphries
+\end{center}
+
+\vfill\malcontents\raggedcolumns\columnbreak
+\endgroup\raggedcolumns
+
+\input{contents}
+\end{multicols}
+\end{document}

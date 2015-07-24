@@ -1,0 +1,106 @@
+---
+title: Calendar
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill\pagebreak
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+every Monday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, Physics Lawn_
+
+    Come on down to the Physics Lawn for your weekly dose of free
+    barbecue!  Don't forget to pick up your copy of \csesocbeta, and
+    make some new friends!
+
+13 April
+:    Vim Workshop\hfill\bcalTech{}  
+    _5p, K17 Seminar Room_
+
+    Vim is a text editor.  It can run in a terminal, over ssh or as
+    it's own app.  But what's the big deal?  Well, Vim is quite
+    powerful, and mastering it will allow you to program much faster.
+
+    However to unlock Vim's power requires quite a learning curve, and
+    that's where this workshop comes in!  Join Callum Howard and learn
+    how you can edit text at the speed of thought.
+
+    \calendarlink{vim-workshop}
+
+18--19 April
+:    Facebook University Hackathon\hfill\bcalTech{}  
+    _registrations close 9 April_
+
+    Join Facebook for our very first hack in Sydney!  Join us as we
+    stay up all night hacking, learning and having a some fun!  Start
+    brainstorming ideas & forming teams (of up to 4 people).  We'll
+    supply the food, fun diversions, prizes, and some expert guidance
+    in the form of our engineers.  We'll also provide reimbursement
+    for public transportation.  You bring your laptop, appetite,
+    skills and ideas.
+
+    For more details, head to  
+    \href{https://www.csesoc.unsw.edu.au/blog/facebook-university-hackathon-comes-to-syd/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}facebook-university-hackathon-\\\hspace*{6ex}comes-to-syd}}
+
+20 April
+:    Laser Tag, Bowling, Karaoke\hfill\bcalSocial{}  
+    _5.30p, Strike @ Entertainment Quarter_
+
+    Got some beef with a mate in CSESoc?  Maybe you've got something
+    against a Social Head?  Come settle the scores by shooting
+    (lasers) at each other, and get even!
+
+    We're going to keep your hyperactive minds busy on the 20th day of
+    April (yew) with some Laser Tag, some Bowling and some Karaoke!
+    (Did you know that Karaoke means "empty orchestra"? That's
+    hauntingly beautiful.)
+
+    $15 for all you can shoot, all you can bowl, all you can sing.
+
+    \calendarlink{strike-laser-tag-bowling-karaoke}
+
+27 April
+:    Flask Workshop\hfill\bcalTech{}  
+    _2p, K17 Seminar Room_
+
+    Flask is a Python web framework, allowing you to create your own
+    web apps in minutes (or even seconds).
+
+    Nicholas Whyte, the developer of _Flask Boilerplate_, will be
+    walking through how to get started using Flask, as well as some
+    tips and tricks along the way.
+
+    \calendarlink{flask-workshop}
+
+15 May
+:    Applications Close:\hfill\bcalNews{}  
+    Google Anita Borg Memorial Scholarship 2015
+
+    Dr. Anita Borg (1949--2003) devoted her life to revolutionizing
+    the way we think about technology and dismantling the barriers
+    that keep minorities and women from entering the computing and
+    technology fields.
+
+    As part of Google's ongoing commitment to furthering Anita's
+    vision, the Google Anita Borg Memorial Scholarship 2015:
+    Asia-Pacific (APAC) has been announced; its aim is to encourage
+    women to excel in computing and technology, and become active role
+    models and leaders.
+
+    \calendarlink{google-anita-borg-scholarship}
+
+\endmulticols\vfill
+\begin{center}
+\includegraphics[width=0.9\linewidth]{images/xkcd1508.png}
+
+{\small\it One of the survivors, poking around in the ruins with the
+  point of a spear, uncovers a singed photo of Richard Stallman. They
+  stare in silence. ``This,'' one of them finally says, ``This is a
+  man who BELIEVED in something.''}
+\end{center}
+\multicols{2}
