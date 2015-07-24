@@ -1,0 +1,82 @@
+---
+title: Calendar
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill\pagebreak
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+every Monday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, Physics Lawn_
+
+    Come on down to the Physics Lawn for your weekly dose of free
+    barbecue!  Don't forget to pick up your copy of \csesocbeta, and
+    make some new friends!
+
+25 May
+:    Tech Interview Workshop\hfill\bcalCareers{}  
+    _5p, K17 Seminar Room_
+
+	Come along and learn the basics of how coding and tech interviews
+    work, and how you can smash them too!  Be in the K17 Seminar Room
+    at 5pm on Monday 25 May to improve your interview skills and learn
+    tips to improve your interview success.
+
+    \calendarlink{tech-interview-workshop}
+
+29 May
+:    Trivia Night\hfill\bcalSocial{}  
+    _6p, K17 Seminar Room_
+
+	Come with us and expand your mind, on a journey into the brains of
+    your fellow students.  As the semester winds down, kick back with
+    a bevo and some friends, in the comfort of our very own Seminar
+    Room, as our sexy Quizmasters Kitty and Vincent treat you to an
+    evening of devious questions and a scavenger hunt.
+
+    Attendance strictly limited.
+
+    \calendarlink{trivia-night-1}
+
+27 May
+:    Applications Close:\hfill\bcalNews{}  
+    Google Anita Borg Memorial Scholarship 2015
+
+    Dr. Anita Borg (1949--2003) devoted her life to revolutionizing
+    the way we think about technology and dismantling the barriers
+    that keep minorities and women from entering the computing and
+    technology fields.
+
+    A reminder that applications close on Wednesday 27 May, and and
+    there is a competition for UNSW applicants
+
+    \calendarlink{google-anita-borg-scholarship}
+
+30 June
+:    2015s1 concludes; happy holidays!
+
+17--19 July
+:    CSE Revue Camp\hfill\bcalRevue{}  
+    _Myuna Bay Recreation Center_
+
+22--24 July
+:    O-Week, 2015s2
+
+27 July
+:    2015s2 commences
+
+\endmulticols\vfill
+\begin{center}
+\includegraphics[width=0.9\linewidth]{images/xkcd1519.png}
+
+{\small\it The sudden introduction of Venusian flowers led to an
+  explosive growth of unusual Earth pollinators,\\ which became known as
+  the ``butterfly effect.''}
+
+\end{center}
+\multicols{2}

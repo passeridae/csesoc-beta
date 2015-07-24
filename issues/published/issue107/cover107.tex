@@ -1,0 +1,60 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\usepackage{fontawesome}
+\date{25 May 2015}
+\makeatletter
+\gdef\the@year{2015}
+\gdef\the@issue{107}
+\setsansfont[Scale=MatchLowercase,
+             BoldFont={RobotoCondensed Regular},ItalicFont={RobotoCondensed LightItalic}]{RobotoCondensed Light}
+
+\begin{document}\thispagestyle{empty}
+\begingroup%
+\vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
+\includegraphics[trim=0mm 20mm 0mm 0mm, clip, width=22cm]{../../style/beta-logo.pdf}%
+\vspace{1em}
+{\sffamily\fontsize{32pt}{32pt}\selectfont --- news from computer science and engineering ---}
+\endgroup\vspace*{3ex}
+
+\vfill\center
+{\sffamily\fontsize{48pt}{48pt}\selectfont winter {\bfseries watching}}%
+\hfill{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 3}
+\endcenter
+
+\vfill\center
+{\sffamily\fontsize{48pt}{48pt}\selectfont software: {\bfseries the drug?}}%
+\hfill{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 4}
+\endcenter
+
+\vfill\center\rule[4pt]{0.75\linewidth}{0.75pt}\\ {\sffamily\fontsize{24pt}{24pt}\selectfont and...}\endcenter
+
+\vspace*{1em}\center
+\begin{multicols}{4}
+{\fontsize{68pt}{64pt}\selectfont \faicon{lock}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont security news:\\ \bfseries salt and hash}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 4}
+\vfill\columnbreak
+
+{\fontsize{64pt}{64pt}\selectfont \faicon{calendar}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont find out\\ \bfseries what's on}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 6}
+\vfill\columnbreak
+
+{\fontsize{64pt}{64pt}\selectfont \faicon{tasks}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont brain-bending\\ \bfseries puzzles}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 7}
+\vfill\columnbreak
+
+{\fontsize{64pt}{64pt}\selectfont \faicon{comments-alt}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont catch up on\\ \bfseries technology news}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 8}
+\vfill\end{multicols}
+
+\fontsize{14pt}{14pt}\makeatletter issue \the@issue\ --- \@date\ --- 15s1 week 12
+\endcenter
+
+\end{document}

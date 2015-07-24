@@ -1,0 +1,26 @@
+---
+title: Sponsors
+---
+
+\endmulticols
+
+\vfill\section*{This Edition of βeta Sponsored By...}
+
+\begin{center}
+\includegraphics[width=0.65\linewidth]{../../sponsors/cseunsw.pdf}\hfill
+\includegraphics[width=0.2\linewidth]{../../sponsors/arcunsw.eps}
+
+\raisebox{-1pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/accenture.png}}\hspace{2ex}
+\raisebox{3pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/atlassian.png}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/freelancer.png}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/google.png}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/janestreet.png}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/microsoft.png}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/palantir.png}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.1\linewidth]{../../sponsors/pwc.png}}\hspace{2ex}
+
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/facebook.png}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/optiver.png}}\hspace{2ex}
+\raisebox{-2pt}{\includegraphics[width=0.125\linewidth]{../../sponsors/resmed.jpg}}\hspace{2ex}
+\raisebox{0pt}{\includegraphics[width=0.2\linewidth]{../../sponsors/woolworths.png}}
+\end{center}\multicols{2}

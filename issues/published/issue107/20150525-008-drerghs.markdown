@@ -1,0 +1,82 @@
+---
+title: Writing Software is like Taking Drugs
+author: Jake Bloom
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill\pagebreak
+
+Writing Software Is Like Taking Drugs
+=====================================
+
+\begin{center}
+{\large\it or, "how, high are you?"}
+\end{center}
+
+\multicols{2}
+
+When you're in the Computer Science industry for as long as I have
+been (which is to say, not very long at all), you'll notice that
+people from different backgrounds have standards for doing things.
+For example, if teams need to collaborate, they'll use Git or
+Subversion, not OpenLearning.  If it's been storming for a week,
+people don't move their deadlines.  And, for some reason, people
+always compare writing software to taking drugs.
+
+Coworkers, Google Site-visit panellists, and strangers on the Internet
+have all told me that being a programmer is like being addicted to
+drugs, and writing a piece of code is like doing drugs.  The only
+problem is, while I know what it's like to write code, I don't know
+what it's like to take drugs.
+
+In an effort to fix this, I decided to source and take some drugs.
+For some reason, nobody was selling on street corners around Bondi and
+Vaucluse, so I decided to head to Kings Cross in search of drugs.
+
+I ended up meeting a gentleman, obviously on steroids, with a sleeve
+tattoo who seemed to think that he knew a lot more than I did.  Let's
+call him "client".  At first, communication between myself and client
+was a bit awkward, it seemed like neither of us could put into words
+what we really wanted out of this experience.  Eventually, out of
+necessity and lack of time rather than the deal actually being ready,
+we made the exchange.  It seemed like neither of us were really happy
+with the result though.
+
+So yeah, I guess a drug deal is like a client meeting.  It's awkward,
+and nobody ever leaves satisfied.
+
+After this fateful night, things seemed to spiral out of control.  I
+had no idea where I was or what I was doing, but I know that I had a
+problem (I had no drugs) and I needed to solve this problem (by
+getting drugs).  Thing is, having to solve this problem consumed me,
+and all I could think about while was awake, and even while I was
+asleep.  If this sounds familiar to you, it's probably because that's
+exactly how having a piece of code not working feels like.  Fix it.
+Fix it.  Why isn't it fixed yet.  We need a fix for it.  JAKE GET YOUR
+FIX.  The similarities are starting to become clear now.
+
+And then I took a hit of drugs.  Reality and responsibilities float
+away, and all thats left is a feeling of pure joy, because you got
+what you needed, and things are good.  You want to run into the
+streets and scream out, you want to laugh your head off and hug your
+mates.  You're invincible, you're the greatest.  This is the greatest
+moment of your life.  This.  Is.  It.  I think I have felt this before
+though.  Like that time I finished Mandelbrot.  Or when the boards in
+COMP2121 finally do what you expect.  When you build the OS161 Kernel
+and run it without a panic.  It's incredible.  It's beautiful.  And it
+feels exactly like being high.  Or reading "All tests passed, you are
+awesome!".  I forget which one I am really talking about.
+
+The truth is solving a real world problem that actually helps people
+gives you a buzz.  Helping people feels good, and thats why we do what
+we do.  And every time we get that buzz, we want it more.  And more.
+Being a Software Developer lets you work on projects that help people
+in a real way, and makes you feel good.  The way the world is heading,
+every company will use software sooner or later.  We will be as
+important as Politicians, Lawyers and Bankers in the future, except we
+help people.  And it feels so good that it's addictive.
+
+__DISCLAIMER__: I have never taken drugs in my life.  Much of this
+article is fiction. Drerghs are bad, mmkay?
+
+\byline{Jake~Bloom}

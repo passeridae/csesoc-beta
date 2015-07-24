@@ -1,0 +1,25 @@
+Editorial
+=========
+
+Hello, hello, and welcome to the last issue of this semester.
+
+We have exciting security news this week, followed by more exciting
+security news (wherein everything is on fire).  We've also got a great
+list of films to watch over the winter break, to while away the time
+in front of the server rack, and some puzzles for when MPlayer
+crashes.
+
+If you're bored during the holidays and stumble upon anything
+interesting, or you're keen to get involved, join the team via the
+CSESoc website, or send in an article---`beta@cse.unsw.edu.au`.  We'd
+love to hear from you, and hey, your article will very likely end up
+in print.
+
+It's another rather sparse week, and we're looking forward to kicking
+off next semester with a decent amount of content!
+
+Have a great holiday, and we'll see you back next semester.
+
+\byline{Jashank~Jeremy}
+\vfill
+\pagebreak

@@ -1,0 +1,80 @@
+\endmulticols
+
+The News
+========
+
+\multicols{2}
+
+It's been more than two weeks since the last column; it's been almost
+four.  Jashank is a freewheeling and careless publisher.  It's not my
+fault.  Anyway, here's a vaguely security-themed TL;DR: every system
+you rely on is on fire.
+
+__Logjam TLS attack.__
+The implementation of Diffie-Hellman key exchange in common
+\textsc{ssl/tls} suites is vulnerable to an interception attack,
+Logjam, that negotiates a downgrade to 1990s export-grade
+ciphersuites. Once downgraded, the connection can be fully decrypted
+if you have a huge budget for solving discrete logarithms
+quickly. State actors may have been enjoying this technique for quite
+some time. Cryptographer Matthew Green estimates it will take "a few
+dozen person-lifetimes" to mitigate, being as much a social problem as
+a technical one.
+
+__VENOM vulnerability.__
+
+CVE-2015-3456 (\textsc{venom}) concerns a rather terrible bug in
+QEMU's floppy disk controller (\textsc{fdc}), loaded in all versions
+of Xen prior to 4.6, with or without an attached floppy device. The
+flaw has been present since 2004, and also affects \textsc{kvm}.
+\textsc{venom} allows direct code execution on the host from an
+unprivileged virtual machine, affecting services like Amazon EC2,
+Linode, and DigitalOcean. Patches have been released.
+
+__Buffer overrun wreaks havoc.__
+A stack buffer overrun in a proprietary kernel module, NetUSB, has
+rendered millions of consumer-grade routers extremely vulnerable. The
+module, developed by KCodes, is supposed to provide USB over IP port
+20005, and is typically used for sharing printers or hard
+drives. According to SEC Consult, a remote attacker could very easily
+gain direct access to kernel memory.
+
+__Police fear encryption.__
+Encryption and digital currencies give law enforcement the fear. The
+National Organised Crime Response Plan, eked out this week between
+federal and state Attorneys-General and police ministers, singles out
+consumer-grade privacy technology as “enablers of crime”. This country
+is run by brutal, ignorant garbage-people.
+
+__Eager security star gets bucks, abuse.__
+Sakurity researcher and infosec celebrity Egor Homakov has raised the
+hackles of Starbucks, American purveyor of WiFi and bad beanwater.
+Homakov exploited a race condition in balance transfer code for
+Starbucks Gift Cards, permitting double spend. He stole $1.70 and was
+casually accused of fraud, despite the responsible disclosure. Take
+COMP3151 to avoid embarrassing yourself this way in public.
+
+__Stunt hacker dun goofs.__
+Researcher Chris Roberts has caused media hysteria after pentesting a
+passenger aircraft during flight. Passenger entertainment resides on
+the same network segment as actual flight systems, many of which use
+default passwords. Roberts bizarrely told an FBI officer he had
+accessed real-time flight systems, getting into the news on every
+continent and sending public perception of security research back to
+the Kevin Mitnick era.
+
+__iOS 9 will support old devices.__
+New iOS releases are usually exercises in forced obsolescence, making
+sure nobody keeps an Apple phone for more than three years.  That
+cynical truth is set to be invalidated by the upcoming iOS 9, with the
+core OS developed for the older devices, and new features tacked on
+for more recent devices once it performs well.  Additionally, the Swift
+ABI will soon be frozen, reducing app sizes by quite a bit.  This seems
+bad for business, so I'll believe it when I see it run on my 4S.
+
+__Wild and crazy IRC channel appears.__
+IRC may not have changed since 1992, but neither have any of the tools
+or techniques we learn in Computer Science. CSEsoc IRC is back, and
+it's going crazy. Join `##cse` on Freenode!
+
+\byline{Timothy~Humphries}

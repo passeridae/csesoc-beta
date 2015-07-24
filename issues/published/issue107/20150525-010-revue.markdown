@@ -1,0 +1,70 @@
+---
+title: CSE Revue Camp 2015
+author: Nevin Lazarus
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill
+
+CSE Revue Camp 2015
+===================
+
+\multicols{2}
+
+It's the middle of the year and a cool thing to do is to revue some
+life choices so why not do that at CSE revue camp!
+
+CSE Revue will be heading up the coast for the time of our
+lives! In the tradition of a themed revue, theme this year is
+\textsc{main characters} (main characters?! what is this even) Come as
+a main character from any TV shows, anime, movies, or
+games---\textsc{no} side-kicks! (not really)
+
+Expect an awesome Trivia Night (Friday), and a Dance Party (Saturday)!
+Trivia will be full of quizzical questions with tie-breaking bonus
+rounds and awesome prizes! Dance party has dancing in it! and a party
+too! Costumes would be worn for the event, so bring your own and
+expect to a night to remember.
+
+_Psst_... the theme will then be revealed.
+
+So, If you're new to the notion of revue and want to witness the
+glamour of revue, come to camp! Camp's a great opportunity for people
+who's undecided in Revue! Vocal blocks! Dance blocks! Other great
+activities! It's a perfect mix of excitement and relaxation, with
+board games, late sleeping on the side and is great taste of what CSE
+Revue has to offer.
+
+Meet and familiar yourself with Exec and Orgs heads and spend a
+weekend with people who will be contributing to show this year.
+
+Deadline (sign up)
+:    3rd July
+
+Deadline (payment)
+:    3rd July (early bird discount before 5th June)
+
+When
+:    17th-19th July 2015
+
+Where
+:    Myuna Bay Recreation Center
+
+Theme
+:    Main Character(s)
+
+Cost: Early Birds
+:    Arc members: $70 --- non-Arc members: $77
+
+Cost: After 3rd July:
+:    Arc members: $80 --- non-Arc members: $88
+
+Sign up at
+\begin{center}
+\href{http://cserevue.org.au/rms/camp/registrations/signup}{\texttt{cserevue.org.au/rms/camp/registrations/signup}}
+\end{center}
+
+\begin{center}{\it
+This event proudly supported by Arc @ UNSW.\\
+For more information on Arc Clubs, visit \href{http://www.arc.unsw.edu.au/}{arc.unsw.edu.au}
+}\end{center}

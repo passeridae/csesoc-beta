@@ -1,0 +1,169 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-03-02
+---
+
+\endmulticols\vfill\pagebreak
+
+Puzzles
+=======
+
+\multicols{2}
+
+Crossword
+---------
+
+\vspace{-6em}
+\begin{Puzzle}{20}{20}
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |[1]H |A    |M    |M    |I    |N    |G    |D    |I    |S    |T    |A    |N    |C    |[2]E |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |L    |.
+|*    |*    |*    |*    |[3]B |*    |*    |*    |[4]H |*    |[5]B |O    |Y    |E    |R    |M    |O    |O    |R    |E    |.
+|*    |[6]Z |*    |*    |I    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |C    |.
+|*    |A    |*    |*    |O    |*    |*    |*    |[7]D |A    |T    |A    |B    |A    |S    |[8]E |*    |*    |*    |T    |.
+|*    |L    |*    |*    |P    |*    |*    |*    |D    |*    |*    |*    |*    |*    |*    |D    |*    |*    |*    |R    |.
+|*    |G    |*    |*    |Y    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |I    |*    |*    |*    |O    |.
+|*    |O    |*    |*    |T    |*    |*    |*    |N    |*    |*    |[9]M |*    |*    |*    |T    |*    |*    |*    |P    |.
+|*    |R    |*    |*    |H    |*    |*    |*    |M    |*    |*    |I    |*    |*    |*    |D    |*    |*    |*    |H    |.
+|[10]M|I    |C    |R    |O    |A    |R    |R    |A    |Y    |*    |C    |*    |*    |*    |I    |*    |*    |*    |O    |.
+|*    |T    |*    |*    |N    |*    |*    |*    |R    |*    |*    |R    |*    |[11]A|S    |S    |A    |Y    |*    |R    |.
+|*    |H    |*    |*    |*    |*    |*    |*    |K    |*    |*    |O    |*    |*    |*    |T    |*    |*    |*    |E    |.
+|*    |M    |*    |*    |*    |*    |[12]B|I    |O    |I    |N    |F    |O    |R    |M    |A    |T    |I    |C    |S    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |V    |*    |*    |L    |*    |*    |*    |N    |*    |*    |*    |I    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |U    |*    |*    |*    |C    |*    |*    |*    |S    |.
+|*    |*    |*    |*    |*    |*    |*    |[13]S|U    |F    |F    |I    |X    |T    |R    |E    |E    |S    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |D    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |[14]D|A    |T    |A    |M    |I    |N    |I    |N    |G    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |C    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |[15]S|U    |B    |S    |T    |R    |I    |N    |G    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}}
+\Clue{1}{HAMMINGDISTANCE}{Edit distance, but with substitutions}
+\Clue{5}{BOYERMOORE}{String matching algorithm, not quite Knuth-Morris-Pratt}
+\Clue{7}{DATABASE}{Data storage, e.g. JSON formatted}
+\Clue{10}{MICROARRAY}{2D array, pretty damn small}
+\Clue{11}{ASSAY}{Method for measuring biological activity, only sounds like speech}
+\Clue{12}{BIOINFORMATICS}{Computational analysis of biological data}
+\Clue{13}{SUFFIXTREES}{Inverse of prefix trees}
+\Clue{14}{DATAMINING}{Querying large databases, not actually in a quarry}
+\Clue{15}{SUBSTRING}{Contiguous all the way}
+\end{PuzzleClues}
+\vspace{-1em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{2}{ELECTROPHORESIS}{Molecules are separated by size because of an electric field in this method}
+\Clue{3}{BIOPYTHON}{Closer to a real snake, but still code}
+\Clue{4}{HIDDENMARKOV}{\_\_\_\_\_\_\_\_ model: statistical model for an ordered sequence of variables}
+\Clue{6}{ZALGORITHM}{Method of string matching, at the end of the alphabet}
+\Clue{8}{EDITDISTANCE}{Levenshtein distance with less Soviets}
+\Clue{9}{MICROFLUIDICS}{Chemical reactions on tiny scales}
+\end{PuzzleClues}
+\vspace{-1em}
+
+Takuzu
+------
+
+\vspace{-1em}
+\begin{Puzzle}{10}{10}
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]1|[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]0 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|.
+|[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|.
+|[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][f]0 |.
+|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |.
+|[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |.
+|[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |.
+|[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|.
+\end{Puzzle}
+\vspace{-2em}
+
+
+Brain Teasers
+-------------
+
+A.
+:    Rabbits breed like, well, rabbits if given the chance, and in a
+     pattern closely resembling the Fibonacci sequence. If, at the
+     beginning of each month each pair of reproductive age (at least
+     two months old) rabbits produces 3 pairs of baby rabbits, how
+     many rabbits pairs will there be after 5 months?
+
+B.
+:    A string _s_ is a supersequence of another string _t_ if _s_
+     contains _t_ as a subsequence. Given two sequences `ATCTGAT` and
+     `TGCATA`, what is the shortest possible supersequence so that
+     both sequences are subsequences?
+
+C.
+:    Squaring the first several odd numbers reveals the following
+     pattern: $3^2 = 8 + 1$, $5^2 = 24 + 1$, $7^2 = 48 + 1$.  8, 24,
+     and 48 are all multiples of 8. Does this pattern hold for all
+     squares of odd numbers?
+
+\vspace{-2.5em}
+
+Issue 106 Solutions
+-------------------
+
+__Brain Teasers__
+
+__A.__  rot13.
+
+__B.__  9; they are 0600000001, 0170000001, 0108000001, 0100200001,
+0100090001, 0100003001, 0100000401, 0100000061, or 0100000002.
+
+__C.__ \textsc{seven + seven + six = twenty} $\Rightarrow 68782 + 68782 + 650 = 138214$
+
+__Takuzu__
+
+\vspace{-5em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|.
+\end{Puzzle}
+\end{center}
+
+__Crossword__
+
+\vspace{-8em}\PuzzleSolution\begin{Puzzle}{18}{18}
+\PuzzleUnitlength=10pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |*    |[1]C |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |[2]K |*    |*    |*    |*    |*    |R    |*    |[3]C |*    |*    |*    |*    |*    |*    |*    |.
+|[4]F |R    |E    |Q    |U    |E    |N    |C    |Y    |*    |A    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |R    |*    |*    |*    |*    |*    |P    |*    |E    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |C    |*    |*    |*    |*    |*    |T    |*    |S    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |K    |*    |*    |*    |*    |*    |A    |*    |A    |*    |*    |*    |*    |*    |*    |[5]C |.
+|*    |*    |H    |*    |[6]V |I    |G    |E    |N    |E    |R    |E    |C    |I    |P    |H    |E    |R    |.
+|*    |*    |O    |*    |*    |*    |*    |*    |A    |*    |C    |*    |*    |*    |*    |*    |*    |Y    |.
+|*    |*    |F    |*    |[7]C |*    |*    |[8]P |L    |A    |I    |N    |T    |E    |X    |T    |*    |P    |.
+|*    |*    |F    |*    |O    |*    |*    |*    |Y    |*    |P    |*    |*    |*    |*    |*    |*    |T    |.
+|*    |*    |*    |*    |L    |*    |*    |*    |S    |*    |H    |*    |[9]l |*    |*    |*    |*    |O    |.
+|*    |*    |*    |*    |[10]O|N    |[11]E|T    |I    |M    |E    |P    |A    |D    |*    |*    |*    |G    |.
+|*    |*    |*    |*    |S    |*    |N    |*    |S    |*    |R    |*    |N    |*    |*    |*    |*    |R    |.
+|*    |*    |*    |*    |S    |*    |T    |*    |*    |*    |*    |*    |D    |*    |*    |[12]K|*    |A    |.
+|*    |*    |*    |*    |U    |*    |R    |*    |*    |*    |[13]S|H    |A    |O    |N    |E    |*    |P    |.
+|*    |*    |*    |*    |S    |*    |O    |*    |*    |*    |*    |*    |U    |*    |*    |Y    |*    |H    |.
+|*    |*    |*    |*    |*    |*    |P    |*    |[14]C|I    |P    |H    |E    |R    |*    |*    |*    |Y    |.
+|*    |*    |*    |*    |*    |*    |Y    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+
+\byline{Emily Saunders Walmsley}
+\vfill
