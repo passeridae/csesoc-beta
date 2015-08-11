@@ -1,0 +1,59 @@
+\endmulticols\vfill
+
+Hoodie Update
+=============
+
+\begin{center}\begingroup\large
+
+'Code, Sleep, Eat' hoodies have arrived!
+
+Those who preordered should have received an email with details on
+payment and collection.
+
+If you haven't preordered, stay tuned for an update soon on when they
+can be purchased.
+
+\endgroup\end{center}
+\byline{Lavender~Chan}
+\vfill
+
+The Last Word
+=============
+
+\multicols{2}
+
+Well, here we are: the end of another week's Beta.  I hope you enjoyed
+it, and hey, we did too.  Oh, and there was a bit of a gap there---I
+hope you all enjoyed the break between semesters, and hope you're all
+pumped for semester two.
+
+Personally, I'm looking forward to \COMP2041.  I've been told by many
+people that it's a fun course... but everyone seems to hate on Perl.
+I love Perl!  It was one of the first languages I learned, some
+fifteen-odd years ago, after C and Lisp, and I've used it a lot
+since.  I moved to Ruby because it was so like Perl, and Perl taught
+me how to use Awk and `sed(1)`.
+
+I have, however, a significant distaste for Python.  Yes, it's a nice,
+shiny language; as a friend put it, it's the closest thing you'll get
+to executable pseudo-code; in my opinion, it's excruciatingly painful
+to use.  Across the Python 2 to 3 gap, there are some very peculiar
+changes that I cannot fathom; regular expressions, for example, on
+string from process pipes, don't always work, due to Unicode.
+
+On a similar, but different, note, if you consider the pipelining
+'filter' paradigm as isomorphic to a composition of functions, an
+exercise for the enterprising reader is to construct a functional
+programming language with a POSIXly correct Bourne shell, or failing
+that, Ksh or Zsh.  No, Bash is not a POSIXly correct Bourne shell.
+\**growl*\*
+
+Anyhow, that's enough of me rambling on.  If you've stumbled across
+anything interesting, or you're keen to get involved, join the team
+via the CSESoc website, or send in an
+article---`beta@cse.unsw.edu.au`.  We'd love to hear from you, and
+hey, your article will very likely end up in print.
+
+Catch you next week!
+
+\byline{Jashank~Jeremy}

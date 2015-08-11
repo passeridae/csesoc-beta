@@ -1,0 +1,43 @@
+\endmulticols{}\pagebreak{}\center{}\vfill{}
+
+Because we're running low on content, as usual,  
+enjoy some assorted detritus from the Internet.
+
+(As usual, it's an xkcd.)
+
+\vfill
+\includegraphics[width=.75\linewidth]{images/xkcd1554.png}
+
+The Earth's five major mass extinctions were the Posh Extinction, the
+Sporty Extinction, the Scary Extinction, the Ginger Extinction, and
+the Baby Extinction.
+
+\textsf{\small{}xkcd 1554 // Randall Munroe // CC-BY-NC 2.5}
+
+\vfill
+
+__Did you know?__
+
+PostgreSQL can store JSON more reliably and faster than MongoDB.
+
+BSD Unixes (including Mac OS X) have a "status" signal traditionally
+bound to `^T`,  
+which the kernel traps to return data about the foreground process on
+a terminal,  
+and which applications can trap to return additional data.
+
+\vfill
+
+Oh, and don't forget to check out the Beta website,  
+where we've also found some archived issues.
+
+(If you have PDFs of Beta from 2012 or before,  
+we'd love to have them for completeness.  
+Send them in to `<csesoc.beta.head@csesoc.unsw.edu.au>`.  
+We may be able to get you a prize.)
+
+\vfill
+
+and now, on with the show...
+
+\endcenter{}\pagebreak{}\multicols{2}

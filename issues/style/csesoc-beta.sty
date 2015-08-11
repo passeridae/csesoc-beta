@@ -113,7 +113,15 @@
     \fill[color=techcolor, rounded corners=3pt] (-1pt,-1pt) rectangle (3em,11pt);%
     \draw[white] (1.5em,5pt) node {\textsf{tech}}; \endtikzpicture}}
 
+\definecolor{revuecolor}{rgb}{0.498,0.737,0.373} % #7fbc5f
+\newcommand{\bcalRevue}{\raisebox{-3pt}{\tikzpicture%
+    \fill[color=revuecolor, rounded corners=3pt] (-1pt,-1pt) rectangle (3em,11pt);%
+    \draw[white] (1.5em,5pt) node {\textsf{revue}}; \endtikzpicture}}
+
 \newcommand{\calendarlink}[1]{For more details, head to\\%
+\href{https://www.csesoc.unsw.edu.au/blog/#1/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}#1}}}
+
+\newcommand{\calendaronelink}[1]{For more details, head to\\%
 \href{https://www.csesoc.unsw.edu.au/blog/#1/}{\texttt{csesoc.unsw.edu.au/blog/\\\hspace*{6ex}#1}}}
 
 \renewcommand{\contentsname}{In This Issue}

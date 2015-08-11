@@ -1,0 +1,65 @@
+\endmulticols\LRmulticolcolumns
+
+The News
+========
+
+\multicols{2}
+
+We need to put all of the computers into the sea, urgently. I hope you
+all disabled Flash and removed your JVM over the break.
+
+__End of forced Google+ integration.__ After years of YouTube comment
+spam (Bob's Army, et al) whining about the forced use of Google+ to
+log into various products, Google have yielded and will formally end
+the integration. Gmail and Hangouts have already had it turned off for
+a while, and YouTube is up next. Google+ will remain as a less
+prominent corner of the wider Google empire.
+
+\begin{center}\includegraphics[width=\linewidth]{images/bobsarmy.png}\end{center}
+
+__Android SMS/MMS attack.__ Researchers from security firm Zimperium
+have discovered a vulnerability affecting most Android installations,
+estimated at 950 million devices. Remote code execution can be
+triggered by SMS or MMS messaging, and there is no need for the user
+to interact. Phones could be exploited while the user sleeps using
+only their phone number, leaving a totally compromised phone with no
+evidence of attack.
+
+__Hacking Team fallout.__ Hacking Team, an Italian malware vendor and
+international oppression squad, got thoroughly owned over the
+break. All of their 0day exploits made it out, and all their emails
+were uploaded to Wikileaks. The sudden release of so many
+vulnerabilities at once put the world's infrastructure at extreme
+risk, in too many ways to list in this little column. Several are
+still unpatched. Encase your servers in concrete and hurl them into
+the Pacific.
+
+__Mozilla, Google almost kill Flash.__ Most relevant to βeta's handful
+of readers are three Flash 0days. These were weaponised within days,
+and despite patches, running Flash on untrusted sites or without SSL
+is a very risky activity. Most browsers allow you to 'click to
+enable', which helps somewhat. Mozilla and Google have taken another
+tactic, blocking all vulnerable versions entirely. Nobody needs Flash
+anymore---delete it.
+
+__Charlie Jeep attack.__ Prominent security researcher Charlie Miller
+is in the headlines again after remotely killing a Jeep that was in
+motion on an American highway. Newer American vehicles tend to be
+connected to the internet, complete with that trademark automotive
+sector lack of subsystem isolation or critical system redundancy. Fiat
+Chrysler have recalled 1.4 million vehicles, and are rolling out a
+patch campaign by---wait for it---mailing millions of USB sticks
+containing new firmware to customers. No danger to Australia, unless
+we too slap modems into our cars and ask people to plug untrusted
+devices into them.
+
+__LastPass and OPM breaches.__ Cheer up, it's not all bad. Some people
+still manage to stay safe online in 2015, probably. No idea
+who. LastPass and a huge US government contractor, OPM, also got hosed
+over the break. OPM held the very confidential contents of background
+checks for federal employees, including those seeking clearances, and
+that info is certain to be used for espionage. Stay offline. Airgap
+everything. Stop using the tubes. Live in a Faraday cage. These are
+your options.
+
+\byline{Timothy~Humphries}

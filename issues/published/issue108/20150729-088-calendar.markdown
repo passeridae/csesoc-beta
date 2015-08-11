@@ -1,0 +1,95 @@
+---
+title: Calendar
+---
+
+\endmulticols\LRmulticolcolumns\vspace*{2em}\begin{center}\rule{.75\linewidth}{.1pt}\end{center}\vspace*{2em}\multicols{2}\raggedcolumns
+
+Upcoming Events
+===============
+
+every Wednesday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, Physics Lawn_
+
+    Come on down to the Physics Lawn for your weekly dose of free
+    barbecue, on a brand new day!  Don't forget to pick up your copy
+    of \csesocbeta, and make some new friends!
+
+29 July
+:    Microsoft Tech Talk\hfill\bcalTech{}  
+     _2p, K17 Seminar Room_
+
+	Come and join us for a tech talk held by Mike Swafford, Partner
+    Group Engineering Manager at Microsoft, for a behind-the-scenes
+    look at what it takes to keep the Office 365 solution humming
+    smoothly, and how running the service helps improve the Exchange
+    product.
+
+	\calendaronelink{microsoft-tech-talk}
+
+30 July
+:    Palantir Event\hfill\bcalCareers{}  
+     _12--2p, Tyree Room_
+
+	Join Palantir Technologies to learn how Palantir's software is
+	deployed at public institutions, private enterprises, and in the
+	non-profit sector to address the challenges of responsibly making
+	sense of complex, diverse data, to further the goal that, with the
+	right technology and enough data, people can still solve hard
+	problems and change the world for the better.
+
+    \calendaronelink{palantir-event}
+
+\vfill\begin{center}
+\par\textit{I want to do a patterned floral planting in my garden;\\
+  an A-pollen-ian gasket, perhaps?}
+\par\vspace*{1em}\textit{There's quite a stigma attached \\
+  to identifying plants by their flowers.}
+\end{center}\vfill\columnbreak
+
+Welcome to Unswot
+=================
+
+In the rapidly innovating IT world, fast-moving startups are cropping
+up in abundance. Unswot is a \UNSW-based startup which seeks to bring
+back intellectual chats over coffee, but with a modern technological
+twist.
+
+Unswot aims to bring the human element back into conversation,
+reversing the conventional lecture, tutorial or seminar.  It's a
+platform for academics to discover, host, and participate in informal,
+face-to-face discussions---'Unswots'---designed to promote discourse
+on a spectrum of creative, unconventional and thought-provoking
+topics.  Pilot topics have ranged from the Rwandan genocide, to
+anti-piracy laws and the international community; hosts simply post
+their topic of interest on the Unswot website, and can connect with
+people of similar interests, whilst enjoying free coffee at various
+on-campus cafes.
+
+With this promising new startup hot on our hands, the Unswot team have
+curated some of the most engaging tech Unswots for the next fortnight.
+Join the conversation at `unswot.com`!
+
+\vfill\begin{center}\includegraphics[width=.75\linewidth]{images/unswot-logo.png}\end{center}
+
+3 August
+:    How Google's 'Project Ara' is going to affect the smartphone
+	 industry  
+     \textit{1p, Stellini}\hfill{}Kanin Mungkarndee
+
+	Ever wanted to 'build' your own unique smartphone?  Google's
+	Project Ara promises just that, and approaching its release date,
+	now's a good time to discover how it will change the smartphone
+	industry.
+
+6 August
+:    Will lawyers ever be replaced by computers?  
+     \textit{1p, Stellini}\hfill{}Leo Dong
+
+	With the increasing automation and decline of many job sectors,
+	what could happen to lawyers?  What are their contemporary
+	functions, and their future roles?
+
+\byline{Shariq~Nabi\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Colin~Xu\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Christy~Shen}
+
+\endmulticols\pagebreak\multicols{2}
