@@ -1,0 +1,56 @@
+\endmulticols\vfill
+
+Hoodie Update
+=============
+
+\begin{center}\begingroup\large
+
+'Code, Sleep, Eat' hoodies are still in stock at the Socs office on
+level 3 of K17.
+
+If you pre-ordered and haven't yet collected, now's an excellent time
+to do so.
+
+\endgroup\end{center}
+\byline{Lavender~Chan}
+\vfill
+
+The Last Word
+=============
+
+\multicols{2}
+
+Well, here we are: the end of another week's Beta.  I hope you enjoyed
+it, and hey, we did too.
+
+So, who read Mary Ann Davidson's bombing of the blogosphere yesterday
+with her piece, "No, You Really Can't"?  (Who read it _before_ Oracle
+took it down?)
+
+From an information security position, Davidson has put herself and
+her company into a truly terrifying position.  By hallucinating that
+an end-user license agreement would be any sort of protection of one's
+intellectual property, and the fact that these remarks are coming from
+a company which happens to provide a suite of widely-deployed data
+storage and processing tools, Davidson has painted the largest, most
+obtrusive "kick me" sign on Oracle's back.
+
+Because we all _know_ that when people of a Certain Ethical Mindset
+get told to stop pushing the envelope because it's violating an EULA,
+they _push the envelope harder_.
+
+And if Oracle's products _were_ completely vulnerability-free, they
+might be in a sane position to do so.  Unfortunately, they have a
+chief security officer who believes that an EULA is protection enough,
+and that strikes enough doubt into any reasonable individual that it's
+impossible to assume Oracle have done security right at all.
+
+Anyhow, that's enough of me rambling on.  If you've stumbled across
+anything interesting, or you're keen to get involved, join the team
+via the CSESoc website, or send in an
+article---`beta@cse.unsw.edu.au`.  We'd love to hear from you, and
+hey, your article will very likely end up in print.
+
+Catch you next week!
+
+\byline{Jashank~Jeremy}

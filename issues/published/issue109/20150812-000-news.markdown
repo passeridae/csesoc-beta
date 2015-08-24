@@ -1,0 +1,58 @@
+\endmulticols\LRmulticolcolumns
+
+The News
+========
+
+\multicols{2}
+
+__Google, by Alphabet.__  Google (the conglomerate) has become
+Alphabet, the conglomerate.  Alphabet will retain all existing Google
+operations.  The Google subsidiary will be led by current Product
+Chief Sundar Pichai.  Freed from the Google brand, Alphabet may better
+manage the increasingly bizarre and loosely-coupled stable, keeping
+speculative ventures siloed from the cash cows: ads and search.
+
+__Administrative death pronounced freely.__  Australian infosec
+researcher Chris Rock will kill you---on paper.  After supplying
+another doctor's registration number, obtained from a public record,
+Rock obtained an account on Australia's online registry and found he
+was able to kill and give 'birth' to any person in any state or
+territory.  All submissions must be verified by a funeral director, so
+he hacked up a website for a fake business and was promptly given a
+second account.  This is Fairly Bad.
+
+__Firefox vulnerability.__  A critical vulnerability in Mozilla Firefox
+has been found, leading to significant data loss.  Exploits will find
+themselves able to access arbitrary files on the host system,
+including emails, password vaults, private keys, you name it.  Update
+to 39.0.3 immediately to avoid catastrophe.
+
+__Microsoft embiggens bug bounty.__  If you happen to have any novel
+exploitation techniques lying around for shiny new Windows 10,
+Microsoft have bumped their maximum bug bounty to US$135k. Of course,
+bug bounties are about a lot more than the headline rate.  Many
+software vendors will pay out the nose for small vulnerabilities, and
+these programs are open to all, including you.  Check out Microsoft's
+program at [`https://aka.ms/BugBounty`](https://aka.ms/BugBounty) and
+head to BugCrowd if you'd like to break non-Redmond things for dosh.
+
+__Go x86, get negative rings.__  Researcher Christopher Domas, speaking
+at Black Hat, has demonstrated an attack on older x86 chipsets able to
+grant access to ring -2.  A successful attacker would see their
+arbitrary code executed as if it were Intel firmware, with powers
+above and beyond the OS, and the ability to persist long after the OS
+is reinstalled.  Chipsets from Sandy Bridge onward (~2012) should be
+safe.  Those with older hardware shouldn't panic, as the attack is
+quite difficult to pull off in practice---just not difficult enough to
+prevent the nightmares.
+
+__WiFi talk and VoLTE.__ The wireless spectrum will be breathing a
+sigh of relief this week, as Optus announce voice and text over WiFi,
+a change that will reduce reliance on cell towers while remaining
+transparent to the user.  Competitors appear to have similar things in
+the works.  Meanwhile, Telstra seems busy making Voice over LTE
+happen.  Who cares, really?  I just ran out of news items, and this
+was the best of a few bad options.  We are very reliant on some very
+crowded channels of the spectrum.  OK, column over. Bye
+
+\byline{Timothy~Humphries}

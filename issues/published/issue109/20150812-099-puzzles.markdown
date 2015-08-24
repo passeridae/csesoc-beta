@@ -1,0 +1,159 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-03-02
+---
+
+\endmulticols\vfill\pagebreak
+
+Puzzles
+=======
+
+\multicols{2}\raggedcolumns
+
+Crossword
+---------
+
+\vspace{-4em}\begin{Puzzle}{16}{19}
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|[1]B |*    |*    |*    |*    |[2]T |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|U    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[3]S |E    |R    |V    |E    |R    |*    |*    |*    |*    |*    |*    |[4]M |*    |*    |*    |.
+|*    |*    |*    |*    |*    |[5]M |O    |T    |H    |E    |R    |B    |O    |A    |R    |D    |.
+|*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |B    |*    |*    |*    |.
+|*    |*    |*    |*    |[6]I |N    |S    |T    |R    |U    |C    |T    |I    |O    |N    |*    |.
+|*    |*    |*    |*    |*    |A    |*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |L    |*    |[7]C |H    |I    |P    |S    |E    |T    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |-    |*    |*    |*    |.
+|*    |*    |[8]R |A    |I    |D    |*    |*    |*    |*    |*    |*    |P    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[9]M |*    |H    |*    |*    |*    |.
+|*    |*    |*    |[10]A|C    |C    |U    |M    |U    |L    |A    |T    |O    |R    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |N    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |N    |*    |E    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |F    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[11]S|O    |F    |T    |W    |A    |R    |E    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |A    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |M    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |[12]F|I    |R    |M    |W    |A    |R    |E    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}}
+\Clue{3}{SERVER}{Computer used to provide services to clients.}
+\Clue{5}{MOTHERBOARD}{Parental circuit board}
+\Clue{6}{INSTRUCTION}{Group of several bits containing an operation code}
+\Clue{7}{CHIPSET}{Group of integrated circuits, or chips, designed to work together}
+\Clue{8}{RAID}{Data storage scheme across multiple hard disk drives}
+\Clue{10}{ACCUMULATOR}{Register in a CPU where intermediate arithmetic and logic results are stored.}
+\Clue{11}{SOFTWARE}{Computer programs and other kinds of information read and written by computers}
+\Clue{12}{FIRMWARE}{Fixed programs and data that internally control various electronic devices}
+\end{PuzzleClues}
+\vspace{-1em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{BUS}{subsystem that transfers data between computer components inside a computer or between computers}
+\Clue{2}{TERMINAL}{device that is used for entering data into, and displaying data from, a computer}
+\Clue{4}{MOBILE PHONE}{Pocket sized computer, with apps!}
+\Clue{9}{MAINFRAME}{Computers used for bulk data processing, no clouds involved.}
+\end{PuzzleClues}
+\vspace{-1em}
+
+Takuzu
+------
+
+\begin{Puzzle}{10}{10}
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |.
+|[][f]0 |[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]0 |.
+|[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+\end{Puzzle}
+\vspace{-2em}
+
+
+Brain Teasers
+-------------
+
+A.
+:    Using a 5 liter jug, a 3 liter jug, and a hose, can you measure 1
+     litre of water?
+
+B.
+:    How about 4 litres?
+
+C.
+:   You are given 12 coins of equal size and shape; one of them is a
+    fake. We do not know if it is heavier or lighter than the others,
+    but want to find out. Can you determine which one is a fake and if
+    it is lighter or heavier by weighing coins on a balance scale a
+    maximum of three times?
+
+Issue 108 Solutions
+-------------------
+
+__Brain Teasers__
+
+__A.__ Yes; for example, quines must have access to their own source
+codes to print them.
+
+__B.__ Turn the first one on and wait a few minutes, then turn it off
+and turn the second one on. Go down. If the light bulbs are hot but
+off, it was the first one, if they're on, its the second, and if
+they're neither its the third. Alternatively, if your servers are set
+up correctly then you should be notified when they come online and
+shouldn't need to go down at all.
+
+__Bonus.__ A canary with the super-user password.
+
+__Takuzu__
+
+\vspace{-4em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+\end{Puzzle}
+\end{center}
+
+__Crossword__
+
+\vspace{-8em}\PuzzleSolution\begin{Puzzle}{15}{16}
+\PuzzleUnitlength=9pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |[1]N |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |[2]P |*    |A    |*    |[3]C |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |U    |*    |G    |*    |H    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[4]U |P    |T    |I    |M    |E    |*    |*    |[5]V |*    |*    |.
+|*    |*    |[6]W |*    |*    |P    |*    |O    |*    |F    |*    |*    |I    |*    |[7]V |.
+|*    |[8]T |I    |C    |K    |E    |T    |S    |*    |*    |*    |*    |R    |*    |M    |.
+|*    |*    |R    |*    |*    |T    |*    |*    |*    |*    |*    |*    |T    |*    |W    |.
+|*    |*    |E    |*    |*    |*    |*    |*    |*    |[9]B |A    |C    |U    |L    |A    |.
+|*    |*    |[10]S|C    |A    |L    |I    |N    |G    |*    |*    |*    |A    |*    |R    |.
+|*    |*    |H    |*    |*    |*    |*    |*    |*    |*    |*    |*    |L    |*    |E    |.
+|*    |*    |A    |*    |[11]P|*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|[12]V|E    |R    |S    |I    |O    |[13]N|C    |O    |N    |T    |R    |O    |L    |*    |.
+|*    |*    |K    |*    |N    |*    |G    |*    |*    |*    |*    |*    |X    |*    |*    |.
+|*    |*    |*    |*    |G    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |X    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+
+\byline{Emily Saunders Walmsley}
+\vfill

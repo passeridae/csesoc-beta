@@ -1,0 +1,106 @@
+---
+title: Calendar
+---
+
+\endmulticols\LRmulticolcolumns\vfill\pagebreak\multicols{2}
+
+Upcoming Events
+===============
+
+every Wednesday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, John Lions Garden_
+
+    Come on down to the John Lions Garden for your weekly dose of free
+    barbecue, on a brand new day in an old favourite spot!  Don't
+    forget to pick up your copy of \csesocbeta, and make some new
+    friends!
+
+13 August
+:    CySCA 2015 Information Session\hfill\bcalTech{}  
+     _9a, K17-117_
+
+    Want to see how to break in to the Cyber Security industry?  Come
+    to our information session to see if you want to take part in the
+    Cyber Security Challenge Australia.
+
+16 August
+:    Google University Graduate Test\hfill\bcalCareers{}
+
+    Calling all BS, MS and PhD students expecting to graduate in 2016
+    and interested in a career at Google, it's time to register and
+    start practicing for the Google APAC 2016 University Graduates
+    Test!
+
+    Registration is now open with a practice round on August 16 and
+    the first of four online tests happening on Sunday, August
+    23, 2015.  Students can participate in one or all of the tests.
+    The dates and times for all tests can be viewed on the schedule
+    page. The top participants in each online test may be invited to
+    interview at Google.
+
+    \calendarlink{google-apac-2016-university-graduate-test}
+
+20 August
+:    Engsoc Sports Day\hfill\bcalSocial{}  
+    _Village Green_
+
+    ENGSOC's sports day is coming up, and we're looking forward to
+    putting in a strong showing for CSESoc!  Come down to the Village
+    Green on August 20th and support CSESoc in the battle against
+    other engineering societies.
+
+    The touch footy team is looking in good shape, but if you are
+    interested in running a Soccer or Ultimate Frisbee team, drop us
+    an email today at csesoc.social.head@cse.unsw.edu.au, and we will
+    set you up!
+
+    \calendaronelink{engsoc-sports-day}
+
+\vfill\columnbreak
+
+Welcome to Unswot
+=================
+
+In the rapidly innovating IT world, fast-moving startups are cropping
+up in abundance. Unswot is a \UNSW-based startup which seeks to bring
+back intellectual chats over coffee, but with a modern technological
+twist.
+
+Unswot aims to bring the human element back into conversation,
+reversing the conventional lecture, tutorial or seminar.  It's a
+platform for academics to discover, host, and participate in informal,
+face-to-face discussions---'Unswots'---designed to promote discourse
+on a spectrum of creative, unconventional and thought-provoking
+topics.  Pilot topics have ranged from the Rwandan genocide, to
+anti-piracy laws and the international community; hosts simply post
+their topic of interest on the Unswot website, and can connect with
+people of similar interests, whilst enjoying free coffee at various
+on-campus cafes.
+
+With this promising new startup hot on our hands, the Unswot team have
+curated some of the most engaging tech Unswots for the next fortnight.
+Join the conversation at `unswot.com`!
+
+\vfill\begin{center}\includegraphics[width=.75\linewidth]{images/unswot-logo.png}\end{center}
+
+19 August
+:    Google Docs vs. Microsoft Word  
+     \textit{2p, E10 room G19}\hfill{}Colin Xu
+
+    As a user of both Google Docs and Microsoft Word, I'd like to
+    discuss the strengths and weaknesses of each word processor, and
+    (time allowing) possibly the rest of each suite.
+
+25 August
+:    The technological singularity---should we be worried?  
+     \textit{12p, Campus Village Café}\hfill{}Suman Prusty
+
+    As computing power grows, day by day, artificial intelligence
+    becomes more of a reality.  This UNSWOT will discuss the concept
+    of the technological singularity, and whether humanity should
+    fear.
+
+\byline{Shariq~Nabi\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Colin~Xu\hspace{0.5em}\rule[1pt]{4pt}{4pt}\hspace{0.5em}Christy~Shen}
+
+\endmulticols\pagebreak\multicols{2}

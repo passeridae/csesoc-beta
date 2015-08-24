@@ -1,0 +1,35 @@
+\endmulticols{}\pagebreak{}\vfill{}
+
+\begin{center}
+Because we're running low on content, as usual,\\
+enjoy some assorted detritus from the Internet.
+
+(As usual, it's an xkcd.)
+
+\vfill
+\includegraphics[width=.75\linewidth]{images/xkcd1558.png}
+
+It's probably for the best.  Since Roombas are native to North
+America, it's illegal for Americans to keep them in their houses under
+the Migratory Bird Treaty Act.
+
+\textsf{\small{}xkcd 1558 // Randall Munroe // CC-BY-NC 2.5}
+
+\vfill
+
+{\Huge\textbf{YOUR ARTICLE HERE!}}\\
+\texttt{beta@cse.unsw.edu.au}
+
+\vfill
+
+Don't forget to check out the Beta website,\\
+where we've also found some archived issues.
+
+(If you have PDFs of Beta from 2012 or before,\\
+we'd love to have them for completeness.\\
+Send them in to \texttt{csesoc.beta.head@csesoc.unsw.edu.au}.\\
+We may be able to get you a prize.)
+
+and now, on with the show...
+
+\end{center}\pagebreak{}\multicols{2}
