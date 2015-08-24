@@ -23,3 +23,7 @@
 /issues/*/*/*.out
 /issues/*/*/*.toc
 /issues/published/*/images/*.ppm
+
+/_web/beta.js
+/_web/beta.min.js
+/_web/node_modules
