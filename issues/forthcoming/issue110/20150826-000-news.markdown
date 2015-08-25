@@ -1,0 +1,10 @@
+\endmulticols\LRmulticolcolumns
+
+The News
+========
+
+\multicols{2}
+
+...
+
+\byline{Timothy~Humphries}

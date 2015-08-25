@@ -1,0 +1,21 @@
+\endmulticols\vfill
+
+The Last Word
+=============
+
+\multicols{2}
+
+Well, here we are: the end of another week's Beta.  I hope you enjoyed
+it, and hey, we did too.
+
+...
+
+Anyhow, that's enough of me rambling on.  If you've stumbled across
+anything interesting, or you're keen to get involved, join the team
+via the CSESoc website, or send in an
+article---`beta@cse.unsw.edu.au`.  We'd love to hear from you, and
+hey, your article will very likely end up in print.
+
+Catch you next week!
+
+\byline{Jashank~Jeremy}
