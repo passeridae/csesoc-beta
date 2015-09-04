@@ -90,6 +90,8 @@ issues =
       date: "2015-07-29"
     109:
       date: "2015-08-12"
+    110:
+      date: "2015-09-02"
       latest: true
 
 generate_containers = (sem) ->

@@ -1,0 +1,64 @@
+---
+title: Calendar
+---
+
+\endmulticols\LRmulticolcolumns\vfill\pagebreak\multicols{2}
+
+Upcoming Events
+===============
+
+every Wednesday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _1--2p, John Lions Garden_
+
+    Come on down to the John Lions Garden for your weekly dose of free
+    barbecue, on a brand new day in an old favourite spot!  Don't
+    forget to pick up your copy of \csesocbeta, and make some new
+    friends!
+
+3 September
+:    CSESoc & SUITS go Rock Climbing\hfill\bcalSocial{}  
+    _6:15p, Sydney Indoor Climbing Gym_
+
+    CSESoc and SUITS have banded together once again to reach higher
+    places!  This is what all those years of typing and coding has
+    prepared you for. Those fine metacarpals have been trained,
+    refined and crafted for this peak in humanity's existence. Come
+    Rock Climbing with CSESoc and SUITS to test yourself against your
+    peers, ones who gets the highest fastest win a small few seconds
+    of pride and fame!
+
+    \calendaronelink{csesoc-suits-go-rock-climbing}
+
+5 September
+:    UNSW Open Day!
+
+9 September
+:    The 2015 Utzon Lectures: Mario Carpo  
+    _6:30p, Law Theatre_
+
+    _"The second digital turn in architecture: computation,
+    simulation, optimization, and the style of big data"_
+
+	For more details, head to  
+    [`be.unsw.edu.au/Utzon2015`](http://www.be.unsw.edu.au/Utzon2015)
+
+15 September
+:    Git Talkshop\hfill\bcalTech{}  
+    _11a, K17 Seminar Room_
+
+    Come along to the CSESoc Git Talkshop to learn about how you can
+    use Git as a development tool, rather than a development enemy in
+    your projects.
+
+    \calendaronelink{git-talkshop-with-nick-whyte}
+
+24/25 September
+:    PwC STEM Academy\hfill\bcalCareers{}  
+
+    Are you studying Science, Technology, Engineering or Maths?  Apply
+    to PwC's STEM Academy to be immersed in an interactive two days of
+    professional development and a look inside your career options as
+    a STEM student.
+
+	\calendaronelink{pwc-stem-academy}

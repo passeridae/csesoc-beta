@@ -1,0 +1,34 @@
+\endmulticols{}\pagebreak{}\vfill{}
+
+\begin{center}
+Because we're running low on content, as usual,\\
+enjoy some assorted detritus.
+
+\vfill
+
+{\Huge\textbf{YOUR ARTICLE HERE!}}\\
+\texttt{beta@cse.unsw.edu.au}
+
+\vfill
+
+We received a great message from Alex~North\\
+who was instrumental in starting Beta\\
+ith Adam~Brimo and Sam~Gentle,\\
+congratulating us on keeping it going.
+
+Thanks to everyone who's contributed over the years!\\
+We couldn't have done it without you.
+
+\vfill
+
+Don't forget to check out the Beta website,\\
+where we've also found some archived issues.
+
+(If you have PDFs of Beta from 2012 or before,\\
+we'd love to have them for completeness.\\
+Send them in to \texttt{csesoc.beta.head@csesoc.unsw.edu.au}.\\
+We may be able to get you a prize.)
+
+and now, on with the show...
+
+\end{center}\pagebreak{}\multicols{2}

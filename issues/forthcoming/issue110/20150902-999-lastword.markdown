@@ -1,0 +1,48 @@
+\endmulticols\vfill
+
+The Last Word
+=============
+
+\multicols{2}
+
+Well, here we are: the end of another week's Beta.  I hope you enjoyed
+it, and hey, we did too.
+
+Last week, I was on a training course to learn about an application
+that will form a key part of the business flow with the company I work
+for.  The first time I came across it, I was less than impressed: it's
+closed-source, it only runs on Windows, it's got a lumbering, painful
+workflow, it _requires_ you use Outlook, its management console only
+works with ancient versions of IE, its "web console" uses
+Silverlight... you know the sort of thing I'm talking about.
+
+But now, after spending a week properly learning to use the software,
+and learning what it's capable of in more detail, I'm really excited
+to use it for stuff, and one of my coworkers (a UNSW Engineering
+alumnus) who came along for the course was _really_ quite excited
+about the software too.
+
+And that's weird.  Because the course itself was quite peculiarly
+structured---the introductory task, for example, was essentially,
+"here's how you make it connect to SQL Server"---and the 'lectures'
+(and I use the term loosely) were just a guy reading off the projected
+screen.
+
+I know I wasn't alone in nodding off at least once... but somehow, I'm
+excited about this hunk of ugly and misshapen goo.  It does one thing,
+and it does it surprisingly well.  It fits into a perfect gap in our
+business workflow, and it's easy to make it do exactly what we want.
+
+I still don't understand much of the how, though.  Perhaps that's why
+it's enjoyable: a tool that does what you expect within the black box
+of idealism.
+
+Anyhow, that's enough of me rambling on.  If you've stumbled across
+anything interesting, or you're keen to get involved, join the team
+via the CSESoc website, or send in an article: `beta@cse.unsw.edu.au`.
+We'd love to hear from you, and hey, your article will very likely end
+up in print.
+
+Catch you next week!
+
+\byline{Jashank~Jeremy}

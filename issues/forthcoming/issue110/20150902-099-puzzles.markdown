@@ -1,0 +1,152 @@
+---
+title: Puzzles
+author: Emily Saunders Walmsley
+date: 2015-09-02
+---
+
+\endmulticols\vfill\pagebreak
+
+Puzzles
+=======
+
+\multicols{2}\raggedcolumns
+
+Crossword
+---------
+
+\vspace{-4em}\begin{Puzzle}{17}{17}
+\PuzzleUnitlength=13pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]S |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |[2]D |O    |C    |T    |O    |R    |O    |W    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |C    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[3]P |A    |C    |E    |M    |A    |K    |E    |R    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |[4]D |E    |F    |C    |O    |N    |*    |*    |*    |.
+|*    |[5]B |*    |*    |*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |[6]H |.
+|*    |I    |*    |*    |*    |*    |*    |*    |*    |G    |*    |*    |*    |*    |*    |*    |A    |.
+|*    |O    |*    |*    |*    |*    |*    |[7]O |N    |I    |O    |N    |*    |*    |*    |*    |C    |.
+|*    |H    |*    |*    |*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |K    |.
+|[8]C |A    |P    |T    |U    |R    |E    |T    |H    |E    |F    |L    |A    |G    |*    |*    |E    |.
+|*    |C    |*    |*    |*    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |R    |.
+|*    |K    |*    |*    |[9]K |*    |*    |*    |*    |R    |*    |[10]R|U    |X    |C    |O    |N    |.
+|[11]T|E    |S    |L    |A    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |O    |.
+|*    |R    |*    |*    |L    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |I    |.
+|*    |S    |*    |*    |I    |*    |*    |[12]B|I    |G    |B    |R    |O    |T    |H    |E    |R    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}}
+\Clue{2}{DOCTOROW}{Cory \_\_\_\_, scifi writer and journalist} %
+\Clue{3}{PACEMAKER}{One of the medical devices open to takeover} %
+\Clue{4}{DEFCON}{Annual hacker conference in America} %
+\Clue{7}{ONION}{Tor's mascot} %
+\Clue{8}{CAPTURETHEFLAG}{How hard can you hack, in competition form} %
+\Clue{10}{RUXCON}{Australian version of 4} %
+\Clue{11}{TESLA}{Electric cars, and timely security patches} %
+\Clue{12}{BIGBROTHER}{\_\_\_\_\_'s always watching} %
+\end{PuzzleClues}
+\vspace{-1em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{SOCIALENGINEERING}{Women won this for the third year running at this year's DEFCON} %
+\Clue{5}{BIOHACKERS}{Hackers, but wetter} %
+\Clue{6}{HACKERNOIR}{4s theme this year}
+\Clue{9}{KALI}{Security-oriented Linux distro} %
+\end{PuzzleClues}
+\vspace{-1em}
+
+Takuzu
+------
+
+\begin{Puzzle}{10}{10}
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]1 |.
+|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|.
+|[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |.
+|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|.
+|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][Sf]1|.
+\end{Puzzle}
+\vspace{-2em}
+
+
+Brain Teasers
+-------------
+
+A.
+:    PU. FDHVDULDQ ZLOO EH RXW QHAW ZHHN. PU. DWEDVK ZLOO VXEVWLWXWH.
+
+B.
+:    KFYVIGB RH GSV TIVZGVHG NBHGVIB LU ZOO, ZOHL: TL LFGHRWV ZMW NZPV UIRVMWH.
+
+C.
+:    84 82 65 80 80 69 68 32 73 78 32 66 69 84 65 32 83 69 78 68 32 72 69 76 80
+
+Issue 109 Solutions
+-------------------
+
+__Brain Teasers__
+
+__A.__ Fill the 3L and put it into the 5L jug. Fill the 3L jug again,
+then pour as much as will fit into the 5L jug. The remainder in the 3L
+jug will be 1L.
+
+__B.__ As above to measure 1L; place this in the 5L jug. Then fill the
+3L jug and add this to the 1L.
+
+__C.__ % Remember that not on the scale is a valid option.
+
+__Takuzu__
+
+\vspace{-4em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|.
+|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|.
+|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|.
+\end{Puzzle}
+\end{center}
+
+__Crossword__
+
+\vspace{-8em}\PuzzleSolution\begin{Puzzle}{15}{16}
+\PuzzleUnitlength=9pt
+\unitlength=\PuzzleUnitlength
+|[1]B |*    |*    |*    |*    |[2]T |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|U    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[3]S |E    |R    |V    |E    |R    |*    |*    |*    |*    |*    |*    |[4]M |*    |*    |*    |.
+|*    |*    |*    |*    |*    |[5]M |O    |T    |H    |E    |R    |B    |O    |A    |R    |D    |.
+|*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |B    |*    |*    |*    |.
+|*    |*    |*    |*    |[6]I |N    |S    |T    |R    |U    |C    |T    |I    |O    |N    |*    |.
+|*    |*    |*    |*    |*    |A    |*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |L    |*    |[7]C |H    |I    |P    |S    |E    |T    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |-    |*    |*    |*    |.
+|*    |*    |[8]R |A    |I    |D    |*    |*    |*    |*    |*    |*    |P    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[9]M |*    |H    |*    |*    |*    |.
+|*    |*    |*    |[10]A|C    |C    |U    |M    |U    |L    |A    |T    |O    |R    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |N    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |N    |*    |E    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |F    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[11]S|O    |F    |T    |W    |A    |R    |E    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |A    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |M    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |[12]F|I    |R    |M    |W    |A    |R    |E    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+
+\byline{Emily Saunders Walmsley}
+\vfill
