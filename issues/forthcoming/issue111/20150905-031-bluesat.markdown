@@ -1,0 +1,31 @@
+---
+title: BLUEsat
+---
+
+\endmulticols\LRmulticolcolumns\multicols{2}
+
+\includegraphics[width=1\linewidth]{images/bluesat-1.jpg}
+
+BLUEsat
+=======
+
+Come check out BLUEsat! We're the \UNSW\ student space society, focused
+on making satellites and off-world rovers.  We're always looking for
+interested students from all degrees and majors.
+
+For students deciding to major in \CSE, we currently have great
+projects that you can get involved in, developing software for the
+on-board computer, flight control systems, and more. You can also join
+the robotics team, and work on developing the code to allow the rover
+to navigate a Martian desert.
+
+If that sounds like something you're interested in, come to our Open
+Day stalls at either the Ainsworth Building, located near the center
+of campus, or Tyree, near Anzac Parade.
+
+\byline{Ian~Stuart~Bartlett}
+
+\vspace*{.5ex}
+\includegraphics[trim=0mm 20mm 0mm 40mm, clip, width=1\linewidth]{images/bluesat-2.jpg}
+
+\vfill\columnbreak

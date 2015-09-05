@@ -1,0 +1,58 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\usepackage{fontawesome}
+\date{2 September 2015}
+\makeatletter
+\gdef\the@year{2015}
+\gdef\the@issue{111}
+\setsansfont[Scale=MatchLowercase,
+             BoldFont={RobotoCondensed Regular},ItalicFont={RobotoCondensed LightItalic}]{RobotoCondensed Light}
+
+\begin{document}\thispagestyle{empty}
+\begingroup%
+\vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
+\includegraphics[trim=0mm 20mm 0mm 0mm, clip, width=22cm]{../../style/beta-logo.pdf}%
+\vspace{1em}
+{\sffamily\fontsize{32pt}{32pt}\selectfont --- news from computer science and engineering ---}
+\endgroup\vspace*{3ex}
+
+\center\vfill
+
+\includegraphics[trim=0mm 30mm 0mm 45mm, clip, width=1\linewidth]{images/beta101-cse.png}
+
+{\fontsize{48pt}{48pt}\selectfont\sffamily ---~the students and societies~---\\
+ \bfseries of~CSE~at~UNSW}
+
+\vfill\endcenter
+
+\center
+\begin{multicols}{4}
+{\fontsize{64pt}{64pt}\selectfont \faicon{puzzle-piece}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont about\\ \bfseries CSESoc}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 3}
+\vfill\columnbreak
+
+{\fontsize{68pt}{64pt}\selectfont \faicon{cogs}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont intuitive\\ \bfseries protocols}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 6--7}
+\vfill\columnbreak
+
+{\fontsize{64pt}{64pt}\selectfont \faicon{comments-alt}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont catch up on\\ \bfseries technology news}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 8}
+\vfill\columnbreak
+
+{\fontsize{64pt}{64pt}\selectfont \faicon{signin}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont and\\ \bfseries more}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it inside!}
+\vfill
+\end{multicols}
+
+\fontsize{14pt}{14pt}\makeatletter issue \the@issue\ --- \@date\ --- open day 2015
+\endcenter
+
+\end{document}

@@ -1,0 +1,24 @@
+\endmulticols\LRmulticolcolumns\vfill
+
+CSE Student Representatives
+===========================
+
+\multicols{2}
+
+The stureps (student representatives) are an elected body of students
+whose main purpose is to help facilitate communication between the
+staff and students at CSE.  They report to the School (unlike student
+societies).
+
+There are a number of things which Stureps can help students with,
+such as:
+
+- Ideas for improving things at CSE;
+- Providing anonymous complaints to CSE;
+- Representing students on the CSE Teaching and Computing Committees;
+
+The stureps can help you find the right person, or speak to them on
+your behalf.  All communication with them will be kept confidential
+unless otherwise specified.
+
+\byline{Brad~Hall}

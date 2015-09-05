@@ -1,0 +1,40 @@
+\includegraphics[trim=0mm 50mm 0mm 80mm, clip, width=1\linewidth]{images/create-1.jpg}
+
+CREATE UNSW
+===========
+
+Founded in October 2012, \textsc{create} is a student-led organization
+and maker club based at UNSW Australia.
+
+\textsc{create} aims to provide an opportunity for people to learn
+practical skills in engineering, invention and design, and collaborate
+on ideas and projects. The club seeks to foster an environment where
+anyone, regardless of their background (technical or otherwise), is
+inspired and able to turn ideas into designs, prototypes and
+products. We are firm believers in collective knowledge, learning and
+cooperation as an effective way to expand people's horizons, and
+accomplish their ideas in the technical sphere.
+
+\textsc{create}'s activities include presenting workshops on Arduino
+microcontrollers, \textsc{cad} modelling, and \textsc{uav}
+development.  \textsc{create} run two weekly hackerspaces: one at
+\UNSW's Art & Design campus, and one at the new Michael Crouch
+Innovation Centre on Kensington campus.  The club also enter teams in
+competitions, and source robotic and electrical components in bulk for
+students in weekly sales during semester.
+
+Currently, \textsc{create} has a membership of over 1500 students. The
+club was awarded Arc Club of the Year in 2013. In 2015, three of the
+club's founding members (Nathan Adler, Sam Cassisi and Austin Kong)
+were recognized by the \UNSW\ Faculty of Engineering with Student
+Service Awards for their contributions to the UNSW community through
+\textsc{create}.
+
+\textsc{create}'s latest completed project is an interactive,
+large-scale robotic Pacman game that was shown at Vivid Ideas 2015,
+Museum of Contemporary Arts and Sydney Mini Maker Faire. We also have
+several ongoing projects available for students to participate on,
+such as the Outback \textsc{uav} Challenge, an Unmanned Ground Vehicle
+and a 1 metre cubed 3D printer.
+
+\byline{Yunzhen~Zhang}

@@ -1,0 +1,67 @@
+\endmulticols\LRmulticolcolumns
+
+The News
+========
+
+\multicols{2}
+
+__Windows collateral.__ Several serious complaints about Windows 10
+have sprung up, despite the product's strong launch this
+month. Electronic Frontiers Australia were forced to speak up on
+behalf of Cook Islands residents, after frequent and mandatory
+software updates caused massive data bills. Meanwhile, the OS seems to
+send daily dossiers of internet and app usage to parents by default,
+potentially outing the world's youth without their knowledge or
+consent. In Russia, a prominent politician is calling for Windows 10
+to be banned from government use, concerned about ambiguous data
+collection and black-box updates. Sources suggest Redmond's
+'intentions' were 'good,' or something.
+
+__Dallas DVD Buyers Club.__ Things seemed dire in April, when the
+Federal Court ordered ISPs to hand torrenting customer details over to
+Dallas Buyers Club LLC. A subsequent ruling from Justice Nye Perram
+this week allows the troll gang to collect only the cost of a copy of
+the film, plus a small share of court expenses. The Court sought a
+$600,000 bond to enforce these terms, protecting users from
+speculative invoicing. Some are concerned that the ruling will be
+cited down the track, in the application of Australia's new
+site-blocking laws.
+
+__Twitter cuts off transparency orgs.__ Organisations like Sunlight
+Foundation and the Open State Foundation, who specialise in archiving
+the deleted tweets of the world's politicians, have had their access
+to Twitter's firehose APIs cut off. Twitter, who still grant
+advertising partners access to the deleted tweets of all users, told
+the OSF that "deleting a tweet is an expression of the user's voice."
+
+__The right to be repeatedly forgotten.__ The EU's "right to be
+forgotten" judgement is proving difficult for Google. A ruling in 2014
+ordered the removal of listings containing personal data when an
+affected individual so demands. This week, the Information
+Commissioner's Office in the UK has ordered the delisting of articles
+reporting on the original verdict, since they mention the
+complainant. This may devolve into a bottomless pit of manual
+curation.
+
+__Ashley Madison breach aftermath.__ In your fortnightly reminder not
+to trust computers or people who like computers with anything at all,
+hackers have released the full databases of seedy online dating
+destination Ashley Madison. Thus far, the release has led to class
+action lawsuits, large-scale cybercriminal cyberhunting, automated
+extortion scams, and reports of casualties. The motives behind the
+release are not entirely clear, with no ransom demanded.
+
+__DirectX 12 ends NVidia supremacy.__ Early benchmarks using DirectX
+12 seem to show older AMD cards keeping pace with NVidia's most
+expensive offerings. This is very good news for GPU consumers.
+
+__NBN cost blowout.__ The Coalition's mangled idea of a National
+Broadband Network is proving much more expensive than they had
+intended. It will still deliver minimal service improvement.
+
+__Wild and crazy IRC channel appears.__
+IRC may not have changed since 1992, but neither have any of the tools
+or techniques we learn in Computer Science. CSESoc IRC is back, and
+it's going crazy. Join `##cse` on Freenode!
+
+\byline{Timothy~Humphries}

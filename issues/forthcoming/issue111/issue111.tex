@@ -1,0 +1,43 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\usepackage{rotating}
+\usepackage{array}
+\date{5 September 2015}
+\makeatletter
+\gdef\the@year{2015}
+\gdef\the@issue{111}
+
+\begin{document}
+\includepdf{cover111.pdf}
+\newpage
+\maketitle\thispagestyle{mag}
+\vspace*{-2em}\section*{CSE{}Soc~βeta, issue \makeatletter\the@issue}
+\begin{multicols}{2}\begingroup\raggedcolumns
+\begin{center}
+A fortnightly publication from CSESoc's Beta team.\\
+Find us online at \textbf{www.csesoc.unsw.edu.au}\\
+Got some good content? Email \textbf{beta@cse.unsw.edu.au}\\
+\par{\bf\sffamily βeta Head}\\ Jashank~Jeremy
+\par\begin{tabular}{>{\raggedleft}p{0.3\linewidth}>{\raggedright}p{0.5\linewidth}}
+{\bf\sffamily Puzzle Wrangler} & {\bf\sffamily News Chaser}\tabularnewline
+Emily~Olorin & Timothy~Humphries\tabularnewline
+\end{tabular}
+\par{\bf\sffamily Contributors}\\
+  Davina~Adisusila\hsp{}
+  Ian~Stuart~Bartlett\hsp{}
+  Andrew~Bennett\hsp{}
+  Sharon~Chen\hsp{}
+  Brad~Hall\hsp{}
+  Nevin~Lazarus\hsp{}
+  Monique~Moushis\hsp{}
+  Emily~Olorin\hsp{}
+  Oliver~Tan\hsp{}
+  Yunzhen~Zhang\hsp{}
+\end{center}
+\columnbreak\malcontents\vfill\endgroup
+\end{multicols}\LRmulticolcolumns
+\vspace*{-4em}\begin{multicols}{2}
+
+\input{contents}
+\end{multicols}
+\end{document}

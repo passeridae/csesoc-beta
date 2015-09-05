@@ -1,0 +1,46 @@
+\endmulticols\LRmulticolcolumns\vfill\multicols{2}
+
+The Security Society of UNSW
+============================
+
+The Security Society of UNSW is a newly-formed group of students who
+are passionate about computer security. Our plan is to run lots of
+exciting workshops around security, covering all sorts of awesome
+security/hacking content; as well as running our own competitions, and
+competing in, and winning, national and international CTFs.
+
+Last year we took out the top 3 places in CySCA, a Telstra/DoD-run
+competition for Australian uni students. We also sent a team to
+DEFCON, effectively the biggest, hardest, and most important CTF,
+where we placed ninth in the world. So if this sounds like something
+you might be interested in, definitely come and say hi.
+
+\begin{center}
+http://facebook.com/groups/dotsoc
+
+unswsecurity.com
+
+execs@unswsecurity.com
+
+\texttt{\textbackslash{}x68\textbackslash{}x73\textbackslash{}x2F\textbackslash{}x6E\textbackslash{}x69\textbackslash{}x62\textbackslash{}x2F\textbackslash{}x00\textbackslash{}unswsec\\
+urity.com\textbackslash{}x6A\textbackslash{}x6F\textbackslash{}x69\textbackslash{}x6E\textbackslash{}x75\textbackslash{}x73\textbackslash{}x00}
+
+\end{center}
+\columnbreak
+
+Robogals UNSW
+=============
+
+Robogals runs engineering-related workshops for high-school students,
+covering an ever-expanding variety of topics ranging from programming
+in Python to robotics with \textsc{lego} Mindstorms.
+
+Robogals is passionate about promoting engineering to young women,
+especially because of the gender gap that currently exists.  It's a
+great cause, it's fun, and you'll get to meet lots of people both
+within and outside your degree.
+
+Check out `facebook.com/robogalsunsw` or sign up at
+`my.robogals.org/join/sydney`
+
+\includegraphics[trim=0mm 20mm 0mm 0mm, clip, width=1\linewidth]{images/robogals-1.jpg}

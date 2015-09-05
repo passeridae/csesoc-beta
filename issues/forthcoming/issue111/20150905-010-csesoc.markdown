@@ -1,0 +1,85 @@
+---
+title: UNSW CSESoc
+author:
+ - Oliver Tan
+ - Davina Adisusila
+---
+
+\endmulticols\LRmulticolcolumns\vfill\pagebreak
+
+\includegraphics[width=1\linewidth]{images/odba-000.png}
+\addcontentsline{toc}{section}{UNSW CSESoc}
+
+\multicols{2}
+
+Imagine a thriving community where you can build life-long friendships
+with people who are passionate about computing, engage in fun social
+events, network with sponsor companies, explore your interests and
+help encourage the next generation of computing!
+
+The UNSW Computer Science and Engineering Society (CSESoc) is the
+principal representative body for computing students on campus and has
+been running for almost a decade. CSESoc caters to over 2100
+undergraduate and postgraduate computing students studying Computer
+Science, Software Engineering, Bioinformatics and Computer
+Engineering.
+
+We have various sub-teams that aim to make your experience as a university student awesome (and you can also be part of these teams too)!
+
+Social
+:    Social events are held almost every week and are a great chance to
+     meet other students and most importantly have fun. Events include
+     our free weekly BBQs, trivia, off campus events and First Year
+     Camp.
+
+Student Network
+:    Joining university is a big step, and the CSE Student Network
+     fosters a welcoming community for new students as you are
+     assigned an older student mentor to guide you through the
+     transition from high school to UNSW. We open up applications a
+     few months before your first semester.
+
+Devspace
+:    Love playing with new technology or always wanted to try out a
+     new gadget you've heard about? Devspace is the hub for getting
+     hands-on access to equipment such as 3D printers, Oculus Rift,
+     Arduino and more. It's also a space for developing student
+     software projects and building cool stuff.
+
+Sponsors
+:    Getting a good start to your career is within arms reach. We have
+     numerous big-name sponsors to allow you to network professionally
+     and find out what opportunities are out there. Tech talks and
+     Sponsor events are in motion regularly and many of our members
+     end up working for these companies.
+
+CompClub
+:    If you're passionate about encouraging the next generation of
+     computing then we recommend volunteering for CompClub. It was
+     established by CSESoc as an initiative to help high school
+     students explore the depth and breadth of Computer Science. We
+     reach over 300 schools within the Sydney region alone. From
+     competitions to computer games, the Computing Club aims to spark
+     the interest of students who are just starting their journey with
+     computing.
+
+Dev, Publicity, Beta
+:    We also have the Dev team which holds hackathons and keeps the dev
+     side of our society running, the Publicity team which is
+     responsible for hip merchandise to flaunt your CSESoc pride and
+     the Beta team who publish articles such as the one you're reading
+     now.
+
+CSESoc wishes you all the best for the future!
+
+\byline{Davina~Adisusila, co-president}
+\byline{Oliver~Tan, co-president}
+
+\endmulticols\LRmulticolcolumns\vfill\multicols{3}
+
+\includegraphics[width=1\linewidth]{images/odba-001.png}
+
+\includegraphics[width=1\linewidth]{images/odba-003.png}
+
+\includegraphics[width=1\linewidth]{images/odba-004.png}
+

@@ -1,0 +1,32 @@
+\endmulticols\LRmulticolcolumns\vfill
+
+Welcome to UNSW, CSE, and Beta!
+===============================
+
+\multicols{2}
+
+Hello!  Welcome to \UNSW, to the Faculty of Engineering, to the School
+of Computer Science and Engineering, and to Beta!  We're a fortnightly
+student paper, filled with a veritable bazaar of carefully curated
+content.
+
+On Open Day, you can find all kinds of cool stuff to do, but, if you
+feel anything like I did on my first visit to a \UNSW\ Open Day---a
+few years ago, now---it all probably seems a bit overwhelming.
+
+But don't worry!  \UNSW\ is one of the most fun, academically charged,
+socially active universities in Sydney and in Australia, so don't
+doubt that you'll make friends, learn, and discover something new.
+
+On behalf of \CSE's students and staff, we hope you enjoy Open Day,
+wish you all the very best with your future, and hope to see you at
+\CSE\ soon!
+
+\byline{Jashank~Jeremy}
+
+\vfill\columnbreak\vfill
+
+\includegraphics[width=1\linewidth]{images/odba-002.png}
+
+\vfill
+
