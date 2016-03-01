@@ -1,0 +1,105 @@
+---
+title: Recommended Bookmarks
+---
+
+\endmulticols\newpage
+
+Recommended Bookmarks
+=====================
+
+\begin{center}\vspace{-1ex}
+{\large\it The Beta team offers some useful bookmarks that every CSE
+	student should have}
+\end{center}
+\multicols{2}
+
+CSE
+---
+
+Taggi
+:    [`taggi.cse.unsw.edu.au`](http://taggi.cse.unsw.edu.au/)
+
+    Taggi is a comprehensive FAQ for anything and everything related
+    to \CSE\ systems and resources.  If you have a question, check out
+    Taggi before posting on the forums, or emailing Student Support.
+
+\CSE\ Control Panel
+:    [`status.cse.unsw.edu.au/Control_Panel`](https://status.cse.unsw.edu.au/Control_Panel/)
+
+    Need to configure or check something on your \CSE\ account?  The
+    Control Panel lets you check your account options including
+    mailing lists, disk quotas, and more.
+
+Rectangles
+:    [`mahler.cse.unsw.edu.au/rectangles`](http://mahler.cse.unsw.edu.au/rectangles)
+
+    Having trouble building your timetable?  There are a whole family
+    of tools to help, all built by \CSE\ students, which allow you to
+    pick your courses, select some options (like regular lunch breaks
+    or days off), and generates a set of valid timetables.
+    Rectangles is one of the more popular ones, along with Octangles,
+    Bojangles, and Circles.
+
+\CSE\ Forums
+:    [`cgi.cse.unsw.edu.au/~forums/support`](http://cgi.cse.unsw.edu.au/~forums/support/)
+
+    Forums just for \CSE\ students and staff.  Ask questions, get help
+    or advice, or just have a chat.
+
+my\CSE
+:    [`my.cse.unsw.edu.au`](https://my.cse.unsw.edu.au/)
+
+	For honours students, postgraduate students, and staff, you can
+    manage your profiles, book rooms, and manage thesis submissions.
+
+Give Online
+:    [`cgi.cse.unsw.edu.au/~give/Student/sturec.php`](https://cgi.cse.unsw.edu.au/~give/Student/sturec.php)
+
+	Log in here, pick a session, pick a course, and find out your
+    \CSE\ course marks.
+
+
+Technology News
+---------------
+
+The Verge
+:    [`www.theverge.com`](http://www.theverge.com/)
+
+	Breaking technology news coverage, product information and
+    reviews, and community content.
+
+TechCrunch
+:    [`www.techcrunch.com`](http://www.techcrunch.com/)
+
+	Breaking technology news coverage, product information and
+    reviews, and community content.
+
+TED
+:    [`www.ted.com`](http://www.ted.com/)
+
+	Technology, Education, Design: a non-profit devoted to ideas worth
+    spreading, and renowned for their annual conferences.
+
+
+Webcomics
+---------
+
+xkcd
+:    [`xkcd.com`](http://www.xkcd.com/)
+
+Piled Higher and Deeper
+:    [`phdcomics.com`](http://www.phdcomics.com/)
+
+Geek and Poke
+:    [`geekandpoke.typepad.com`](http://geekandpoke.typepad.com/)
+
+Saturday Morning Breakfast Cereal
+:    [`smbc-comics.com`](http://www.smbc-comics.com/)
+
+The Oatmeal
+:    [`theoatmeal.com`](http://www.theoatmeal.com/)
+
+Alice Grove
+:    [`alicegrove.com`](http://www.alicegrove.com/)
+
+\byline{the \csesocbeta\ team}

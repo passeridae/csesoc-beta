@@ -1,0 +1,62 @@
+---
+title: Do I Need To Buy A New Computer?
+---
+
+\endmulticols\vfill\pagebreak
+
+Do I Need To Buy A New Computer?
+================================
+
+\begin{center}\vspace{-1ex}
+{\large\it Tim answers the age-old question of whether or not\\
+	you need to buy a new computer for university.}
+\end{center}
+\multicols{2}
+
+One question regularly asked by new first year students is, "Do I need to buy a computer?".  While the answer often depends upon the individual's circumstances, there are five common situations.
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{images/beta101-computers.png}
+\end{center}
+
+#### I do not own a computer; do I need one? ####
+
+Yes.
+
+Every degree has a key set of resources necessary to study it effectively. For \CSE\ degrees, this resource is a computer.  Why?  Most \CSE\ courses---_especially_ first year courses---use practical assignments to help with learning the course theory.  Course material and help is also on the Internet, in the form of online notes, wikis, forums, email, and Google.  What you will need is on-demand and uninterrupted access to a computer.
+
+\CSE\ provides computer labs and the resources necessary to allow you to complete your studies; however, as the year (and your degree) progresses, you will find it increasingly impractical, and frustrating to only use these machines (which are often occupied with classes and other students) and to be unable to work at home.  That said, you can afford to wait before buying a computer, as I'll mention in a moment.  A computer can be expensive, but buying one is an investment in your career.
+
+#### My family owns a shared computer; do I need my own? ####
+
+Probably.
+
+Unless the rest of your family uses the computer only occasionally, you will most likely find it problematic to use a shared computer.  As noted above, you will be using a computer frequently, and interruptions when completing an assignment can be frustrating; you'll also need to install custom software on your computer to complete coursework.  Having your own computer will make your life so much easier; but see below before buying your own.
+
+#### I have my own desktop; do I need a laptop as well? ####
+
+Probably no.
+
+The combination of a personal computer at home and the \CSE\ lab machines will be more than adequate for at least first year.  The majority of \CSE\ students, though, will own a personal laptop by the time they graduate often purchased during the course of their degree.  Most students find that a laptop is simply far more practical than a desktop because it aids with lecture note-taking, is useful for group work, and comes in handy socially around \CSE.
+
+#### I own an old laptop; should I upgrade to a newer one? ####
+
+No.
+
+For the first year computing courses, all you really need to use is a web browser, a text editor, a terminal emulator, and a compiler.  Unless your laptop is _really_ ancient, it will meet these needs.
+
+#### I'm buying a computer; what should I get? ####
+
+Probably a laptop, but which manufacturer or model to choose is more difficult to answer; ask five people, and you'll receive five different answers.
+
+Almost all new laptops are capable of meeting your study needs, so the choice of which laptop to buy depends on a variety of other factors, including what else you'll use your laptop for---just for uni, or for gaming, or for everywhere, etc.---what operating system you prefer, memory, screen and laptop dimensions, weight, connectivity, and more.  Figuring out what you want exactly in all of these areas can be hard, so the best advice is to wait a few weeks, months, or perhaps even until the end of session, to determine what you're after.  There are lots of places to find cheap laptops, too; some vendors sell refurbished models at reduced prices.
+
+And don't forget that this is general advice, and your circumstances may differ.
+
+\byline{Timothy~Wiley}
+
+\endmulticols\LRmulticolcolumns\vfill
+\begin{center}
+\includegraphics[width=\linewidth]{images/exploits_of_a_mom.png}
+\end{center}
+\multicols{2}

@@ -1,0 +1,80 @@
+---
+title: CSE Revue
+---
+
+\endmulticols\pagebreak
+\begin{center}
+\includegraphics[trim=20mm 120mm 0mm 40mm, clip, width=\linewidth]{images/beta101-revue.png}
+\end{center}\vspace{-1.5em}
+
+CSE Revue
+=========
+
+\begin{center}\vspace{-1ex}
+{\large\it Sketch comedy, dance, music, tech, and a whole lot of fun!}
+\end{center}
+\multicols{2}
+
+Whether you're a new student wondering what there is to do at uni
+outside of class, or an old soul looking for something different to
+experience---never fear; \CSE\ Revue is here!  \CSE\ Revue is a live
+sketch comedy show, entirely created, produced, and performed by
+students from the society.  The show might be held during September,
+but putting together an entertaining show begins now!
+
+Getting involved with \CSE\ Revue is an opportunity to share your
+talents and discover ones you didn't know you had.  You'll learn new
+skills, make lots of new friends, and above all, have an amazing time!
+
+The society has a wide variety of teams to get involved in: there's
+_Cast_, for those who are interested in acting, singing, dancing, or
+just being on stage---no prior experience necessary; we'll teach you
+everything!  For those with musical inclinations, the show has a live
+_Band_.  The _Tech_ team makes the show happen from backstage, running
+the stage, lighting, sound, and building sets and props.  The
+_Costumes/Makeup_ team ensures the actors look awesome on show nights.
+
+Of course, there wouldn't be a show without content: head to the
+_Scripts_ team, bring your creativity, and try your hand at writing;
+if you're interested in filming and special effects, the _VFX_ team
+shoots and makes videos.  And for the visually artistic, there's the
+_Design_ team, which creates cool-looking posters and merchandise.
+
+All the teams vary in the time commitment required: the Cast and Tech
+teams require the greatest commitment, while other teams are less
+involved, and become more active at different times of the year.
+
+So, if you're looking for something more casual and fun, try one of
+the teams: the _Social_ team organises all the fun events that happen
+throughout the year; the _Wellbeing_ team is all about food and
+ensuring cast and crew are fed during show---a very important task, as
+you can imagine!  The _Front of House_ team takes care of the audience
+on show nights; the _Publications and Promotions_ team work on getting
+word out and marketing the show on campus.  And, last but not least,
+for those who want to apply their coding skills, the _Webmin_ team is
+responsible for running the society's website and servers.
+
+You can join more than one team, depending on your interests.  No
+prior experience is required!  We're looking for people with
+enthusiasm and dedication.
+
+\CSE\ Revue is open to students from all faculties.  Get your friends
+involved in a fantastic show and experience!  To find out more, drop
+by our O-Week stall in the Quad and say hello, or visit our website at
+[`www.cserevue.org.au`](http://www.cserevue.org.au/)!
+
+\byline{CSE Revue Producers}
+\endmulticols\LRmulticolcolumns\vfill
+
+\begin{center}
+{\it Don't forget to check out}~O-Week Revue~{\it at the Quad Main Stage, 24~Feb~2:30--3:30p, and again, 26~Feb~3:30--4:30p.}
+\end{center}
+
+\multicols{2}
+\begin{center}
+\includegraphics[trim=0mm 0mm 0mm 20mm, clip, width=0.8\linewidth]{images/beta101-revue-planes.png}
+\end{center}
+
+\begin{center}
+\includegraphics[trim=0mm 0mm 0mm 0mm, clip, width=0.8\linewidth]{images/beta101-revue-supers.png}
+\end{center}

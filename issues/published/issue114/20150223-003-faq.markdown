@@ -1,0 +1,147 @@
+---
+title: Frequently Asked Questions
+---
+
+\endmulticols
+
+Frequently Asked Questions
+==========================
+
+\begin{center}\vspace{-1ex}
+{\large\it Nervous about starting at UNSW Computing? Don't be!}
+\end{center}
+\multicols{2}
+
+#### What is Lab 0? ####
+
+Lab 0 helps you become familiar with the \CSE\ lab machines.  It deals
+with using Linux, working with files, launching programs, using the
+terminal, and more.  You should do the lab before your first \comp1917
+or \comp1911 class, but if you can't, don't worry; it's covered in
+week 1.  To get started just walk into a \CSE\ lab!  
+[wiki.csesoc.unsw.edu.au/Lab0](https://wiki.csesoc.unsw.edu.au/Lab0)
+
+#### What is Linux? ####
+
+Linux is an operating system that most \CSE\ lab machines are running;
+it's a fantastic environment to program in, and it's open-source.
+
+#### Are lectures compulsory? ####
+
+No, but attending them is an _incredibly_ good idea.
+
+Lectures are where relevant course content gets discussed.  You may
+find that you know all of the content, but if you skip lectures, you
+may fall behind, and be unable to catch up.  Other important course
+information gets discussed during lectures, including assignments and
+exams.  It's a good idea to treat them as compulsory.
+
+#### When do lectures, tutorials and labs start? ####
+
+Classes run for fifty minutes, with five minute gaps before and after
+to give you time to travel between classes.  If you need to go a long
+way, make sure you remind your lecturer to finish on time; some
+lecturers will go overtime.
+
+If you're running late, you should still attend!  Lecturers may remark
+on your entrance when you sneak in; try not to disturb everyone too
+much, and if there is a rear entrance, use it.  For the parts you
+missed, courses may have lecture recordings available via Echo360.
+Failing that, make friends with those who don't run late!
+
+If your lecturer or tutor is late, remember that classes start five
+minutes past the hour, and they may be coming from another class.  If
+it gets to quarter past, and they aren't there, you could do some
+self-motivated study---tutorials and notes are usually available on
+your course webpage---or alternatively, get in contact with the \CSE\
+Student Office.
+
+#### What are tutorials and labs? ####
+
+Tutorials and labs let you put into practice content covered in
+lectures, and are your best opportunity to develop your skills.
+Tutorials focus on discussions and theory related to course material;
+labs let you flex your fingers and get programming.  For most courses,
+you risk failing if your tutorial or lab attendance isn't sufficient.
+
+#### Who are the tutors? ####
+
+Tutors are one of the best bits about taking a \CSE\ course: they're
+all awesome people who take a great interest in helping their
+students.  Often, they're other undergraduate students who have
+completed the course with high marks.  Some courses have postgraduate
+tutors, other teaching staff, or even one of the course lecturers.
+
+#### How do I contact my lecturers and tutors? ####
+
+For lecturers, email is usually best.  Some may stay after lectures to
+answer questions, and most also offer consultations to ask questions
+in-person, but outside of these times they're usually busy, so expect
+that a response to an email may take some time.
+
+For tutors, email is good; they may also be able to spend time with
+you after labs, or meet up with you during the day.  They are the best
+person to contact if you have problems, but remember, they are
+students too, and aren't always free.
+
+And in most courses, there will be a course forum available which the
+lecturers and tutors frequent, and where your classmates may be active
+and able to help.
+
+#### How much time should I spend studying? ####
+
+That depends: outside of class, you need to complete assignments,
+revise content, prepare for tutorials, and study for exams.  The
+Faculty of Engineering suggests that for each contact hour, you should
+do one hour of study outside class.
+
+Of course, leave plenty of time for socialising and relaxing.  You're
+a uni student, after all!  There are many great activities to get
+involved in---especially CSESoc activities!
+
+#### Can I cram for the exam? ####
+
+In \CSE\ courses, it's generally difficult to do: you're learning
+skills (like programming) which take practise, as opposed to simply
+regurgitating content.
+
+#### What is the Student Office? ####
+
+The Student Office is the place to go for any concerns about anything
+related to your program, such as enrolment, timetabling, or electives.
+You can find them in the \KK17 foyer, just inside the front door, beside
+the lifts.  They are usually open weekdays from 9:30a--4:30p.
+
+#### What is the Socs Office? ####
+
+It's a room the School of \CSE\ provides for the \CSE\ student
+societies---CSESoc, \CSE\ Revue and the StuReps---to use, and is also
+usually open during the day.  Like the \KK17 basement, it's a great
+place to meet and hang out with people from \CSE, and is on Level 3 of
+\KK17 in Room 306.  You can check if the Socs Office is open online at
+[issocsopen.com][issocsopen].
+
+[issocsopen]: http://issocsopen.com/
+
+#### The Socs Office isn't open! How do I get in? ###
+
+Only a few students have authority to supervise the office, and only a
+few of them have keys.  If none of those people are there, the office
+must remain closed.  Those are the rules.
+
+#### I'm lost! What do I do? ####
+
+Firstly, don't panic!  38 hectares of campus is a lot to wrap your
+head around.  Even for older students, some rooms are hard to find,
+especially in Old Main.
+
+Secondly, you're not alone!  Just ask someone---most people on campus
+are friendly!---or consult a map, located around the campus, and
+finally, wandering around the campus can be a fun way to explore (if
+you aren't in a hurry).
+
+\byline{William~Korteland}
+
+\begin{center}
+\includegraphics[width=0.8\linewidth]{images/beta101-socsign2.png}
+\end{center}
