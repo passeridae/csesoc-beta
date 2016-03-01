@@ -1,0 +1,11 @@
+---
+Entertainment
+---
+
+Are you not entertained?
+========================
+
+\begin{center}
+\includegraphics[width=0.75\linewidth]{images/zombie.png}
+\end{center}
+
