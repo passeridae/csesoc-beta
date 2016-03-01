@@ -1,1 +1,1 @@
-CFG_SRC_DIR	:= /home/jashank/Documents/beta/
+CFG_SRC_DIR	:= /home/rayne/Documents/PersonalProjects/Beta\ 2016/csesoc-beta
