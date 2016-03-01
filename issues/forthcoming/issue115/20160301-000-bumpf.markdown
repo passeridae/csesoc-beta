@@ -1,0 +1,25 @@
+---
+title: 'bumpf'
+date: 2016-03-07
+---
+
+\section*{About CSE{}Soc~βeta}
+\begin{center}
+\csesocbeta{} is published fortnightly\\
+by UNSW CSESoc, Beta team.
+\par Find us online at\\
+\textbf{www.csesoc.unsw.edu.au}\\
+Got some good content? Email us!\\
+\textbf{csesoc.beta@cse.unsw.edu.au}\\
+\vspace{1em}\par
+{\Large\bf\makeatletter \the@year\ issue \the@issue}
+\par{\bf\sffamily βeta Head}\\ Emily~Olorin
+\par{\bf\sffamily Contributors}\\
+  All~your~camp~leaders
+\end{center}
+\columnbreak
+\malcontents\thispagestyle{mag}
+\vfill\raggedcolumns
+\endmulticols
+\LRmulticolcolumns
+

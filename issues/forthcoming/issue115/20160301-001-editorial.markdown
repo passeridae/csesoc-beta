@@ -1,0 +1,24 @@
+---
+title: editorial
+---
+
+Editorial
+=========
+
+Hello, and welcome to a year full of fun, adventures, and \csesocbeta\. 
+Jashank called it early in last year; I've braved the horrors within the
+\csesocbeta\ build and styles, and survived, and taken over the role he 
+so coveted. Sorry, not sorry?
+
+I have high hopes for this year with technical content, non-technical 
+content and even a story or two. We're aiming to run the gamut from technology
+to computer science (surprise), to logic and mathematics with a side of 
+music, movies and books. Plus events! We have lots of those. As per last year, 
+this entire magazine is produced using \LaTeX\, and none of us have died yet.
+
+As ever, if you've stumbled on anything interesting, or you're keen to
+get involved, join the team via the CSESoc website and get with us!
+
+See you on the other side.
+
+\byline{Emily~Olorin}
