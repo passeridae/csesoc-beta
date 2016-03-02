@@ -1,0 +1,93 @@
+---
+title: Calendar
+---
+
+\endmulticols
+\LRmulticolcolumns\vfill\pagebreak
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+every Monday
+:    CSESoc's Weekly Barbecue\hfill\bcalSocial{}  
+     _12:30--2p, John Lions Garden_
+     
+    Come on down to John Lions Garden for your weekly dose of free
+    barbecue!  Don't forget to pick up your copy of \csesocbeta, and
+    make some new friends!
+
+18-20th March
+:    First Year Camp\hfill\bcalSocial{}
+    _Camp Wombaroo_
+    
+    First years of CSESoc, you have been offered a place of safe haven to survive 
+    the incoming apocalypse, that place is Camp Wombaroo. Join us for a weekend of 
+    trivia, challenges, and an apocalypse themed fancy dress party (so start working 
+    on your costumes) with friends both new and old. We're all incredibly excited and 
+    we can't wait to see you there!
+    
+    For additional info go to www.csesoc.unsw.edu.au/first-year-camp.
+
+3rd March
+:    Cardboard Night\hfill\bcalSocial{}
+    _6pm, the Seminar room (first floor of the K17 building)_
+    
+    Come along to play tonnes of fun board games, and even bring your own to play with your friends! 
+    There will also be drinks (non-alcoholic) and pizza (not free) on the night.
+    
+    Check out the Facebook event page at https://www.facebook.com/events/1007017442677182/
+
+7th March 
+:    Atlassian Nerd Olympics\hfill\bcalSocial{}
+    _12-2pm, Physics Lawn_
+    
+    We've got an excellent opportunity for CSESoc members to talk to engineers from Atlassian, some of whom 
+    are recent UNSW alumni. There will also be Computer-based events such as Keyboard Javelin, Mouse Discus 
+    Throw... and possibly even some swag too!
+
+15th March
+:    Linux Installfest\hfill\bcalTech{}
+    _1-5:30om, the Seminar room (first floor of the K17 building)_
+    
+    Having issues getting the right operating system installed on your computer? Need some help with Linux and 
+    how to use it? Installfest is the place for you! 
+    
+    From 1-5:30pm on Tuesday 15th March, the CSESoc team will be available to solve your technical woes! Come 
+    along to the Seminar Room (on level 1 of K17), and learn some stuff! Pizza will be available for $3 later 
+    in the afternoon for arc members, or $5 for non arc members.
+    
+    (For anyone interested in volunteering with set-up/pack-up/sharing your knowledge as a Linux veteran, please 
+    email csesoc.workshops.head@cse.unsw.edu.au)
+    
+    Visit the Facebook event page at https://www.facebook.com/events/458991860970189/ 
+
+16th March
+:    Jane Street Dinner\hfill\bcalNews{}
+    _The Meat and Wine Co_
+    
+    Jane Street is hosting a dinner for UNSW CSE Society members at The Meat & Wine Co Darling Harbour on Wednesday 
+    March 16. 
+    
+    As space is limited, please suggest at least 1 interesting topic we can discuss that evening and those who come 
+    up with the best topics will be invited to dinner :)
+    
+    Signup before Friday March 11 at https://docs.google.com/forms/d/1c0sSSGMZy8raKR3MY1UsxUUZn7N883Y9Osq8FMSlv4U/viewform
+
+19th March
+:    Jane Street Hackathon\hfill\bcalTech{}
+    _9am-10pm, UNSW Campus (exact location TBC)_
+    
+    eth1: a day-long programming contest. Form teams and hack together a trading bot to compete against others 
+    and the markets.
+    
+    Each member of the winning team will receive AU$0x3ff. There'll be lots of (free) food and drink available.
+    
+    Absolutely no special math, OCaml, or finance knowledge is required; you can use any language you like. 
+    The contest is entirely technical in nature and you won't need any visual design skills. The exact details 
+    of the hackathon aren't released until the competition begins. The one thing you can do ahead of time to prepare 
+    is familiarize yourself with the libraries for writing TCP clients in your programming language of choice.
+    
+    Sign up before March 13th at http://eth1-sydney.janestreet.com/. For any other queries, 
+    email: eth1-sydney@janestreet.com
