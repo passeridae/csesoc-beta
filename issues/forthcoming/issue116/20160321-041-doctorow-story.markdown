@@ -3,8 +3,8 @@ title: The Right Book
 author: Cory Doctorow
 ---
 
-The Right Book
-==============
+The Right Book: Part 1
+======================
 
 Now (-ish)
 
@@ -143,4 +143,4 @@ tea? It's Pu'er. Chinese. Mostly."
 
 *Tune in for Part 2 next week!*
 
-(Published under the CC license, original availavle at craphound.com)
+(Published under the CC license, original available at craphound.com)
