@@ -20,7 +20,7 @@ every Monday
 
 18-20th March
 :    First Year Camp\hfill\bcalSocial{}
-    _Camp Wombaroo_
+     _Camp Wombaroo_
     
     First years of CSESoc, you have been offered a place of safe haven to survive 
     the incoming apocalypse, that place is Camp Wombaroo. Join us for a weekend of 
@@ -32,7 +32,7 @@ every Monday
 
 3rd March
 :    Cardboard Night\hfill\bcalSocial{}
-    _6pm, the Seminar room (first floor of the K17 building)_
+     _6pm, the Seminar room (first floor of the K17 building)_
     
     Come along to play tonnes of fun board games, and even bring your own to play with your friends! 
     There will also be drinks (non-alcoholic) and pizza (not free) on the night.
@@ -41,7 +41,7 @@ every Monday
 
 7th March 
 :    Atlassian Nerd Olympics\hfill\bcalSocial{}
-    _12-2pm, Physics Lawn_
+     _12-2pm, Physics Lawn_
     
     We've got an excellent opportunity for CSESoc members to talk to engineers from Atlassian, some of whom 
     are recent UNSW alumni. There will also be Computer-based events such as Keyboard Javelin, Mouse Discus 
@@ -49,7 +49,7 @@ every Monday
 
 15th March
 :    Linux Installfest\hfill\bcalTech{}
-    _1-5:30om, the Seminar room (first floor of the K17 building)_
+     _1-5:30om, the Seminar room (first floor of the K17 building)_
     
     Having issues getting the right operating system installed on your computer? Need some help with Linux and 
     how to use it? Installfest is the place for you! 
@@ -65,7 +65,7 @@ every Monday
 
 16th March
 :    Jane Street Dinner\hfill\bcalNews{}
-    _The Meat and Wine Co_
+     _The Meat and Wine Co_
     
     Jane Street is hosting a dinner for UNSW CSE Society members at The Meat & Wine Co Darling Harbour on Wednesday 
     March 16. 
@@ -77,7 +77,7 @@ every Monday
 
 19th March
 :    Jane Street Hackathon\hfill\bcalTech{}
-    _9am-10pm, UNSW Campus (exact location TBC)_
+     _9am-10pm, UNSW Campus (exact location TBC)_
     
     eth1: a day-long programming contest. Form teams and hack together a trading bot to compete against others 
     and the markets.
