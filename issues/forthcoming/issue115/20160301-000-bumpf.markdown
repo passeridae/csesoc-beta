@@ -15,11 +15,15 @@ Got some good content? Email us!\\
 {\Large\bf\makeatletter \the@year\ issue \the@issue}
 \par{\bf\sffamily βeta Head}\\ Emily~Olorin
 \par{\bf\sffamily Contributors}\\
-  All~your~camp~leaders
+  Emily~Olorin \\
+  Sharif~Olorin \\
+  Jashank~Jeremy \\
+  Carmen~Wang \\
+\par{\bf\sffamily Puzzle Wranglers}\\ Emily~and~Sharif~Olorin
+\par{\bf\sffamily News Chaser} \\ Jashank~Jeremy
 \end{center}
 \columnbreak
 \malcontents\thispagestyle{mag}
 \vfill\raggedcolumns
-\endmulticols
 \LRmulticolcolumns
 

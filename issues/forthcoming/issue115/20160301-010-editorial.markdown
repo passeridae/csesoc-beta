@@ -1,9 +1,12 @@
 ---
 title: editorial
 ---
+\LRmulticolcolumns\endmulticols
 
 Editorial
 =========
+
+\multicols{2}
 
 Hello, and welcome to a year full of fun, adventures, and \csesocbeta\. 
 Jashank called it early in last year; I've braved the horrors within the
@@ -21,4 +24,4 @@ get involved, join the team via the CSESoc website and get with us!
 
 See you on the other side.
 
-\byline{Emily~Olorin}
+\byline{Emily Olorin}

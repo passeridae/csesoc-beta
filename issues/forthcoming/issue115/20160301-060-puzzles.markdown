@@ -1,0 +1,124 @@
+---
+title: Puzzles
+author: Emily & Sharif Olorin
+date: 2015-02-07
+---
+
+\vfill\pagebreak
+\endmulticols
+
+Puzzles
+=======
+
+\multicols{2}
+
+Crossword
+---------
+
+\vspace{-8em}
+\begin{Puzzle}{20}{20} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]M |O    |N    |A    |[2]D |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |[3]C |O    |B    |[4]O |L    |*    |*    |*    |*    |O    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |*    |*    |[5]R |U    |B    |Y    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |J    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|*    |*    |*    |[6]C |A    |M    |E    |L    |C    |A    |S    |E    |*    |*    |*    |*    |*    |L    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[7]C |O    |M    |P    |I    |L    |E    |R    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[8]L |O    |O    |P    |S    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |[9]V |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[10]S|P    |A    |G    |H    |E    |T    |T    |I    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[11]P|*    |*    |*    |*    |[12]L|I    |F    |o    |*    |*    |D    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|Y    |*    |[13]R|*    |*    |*    |A    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|T    |*    |U    |*    |*    |*    |B    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[14]H|A    |S    |K    |E    |L    |L    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|O    |*    |T    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|N    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textbf{Across}} %
+\Clue{1}{MONAD}{Pythagorean divinity} %
+\Clue{3}{COBOL}{Primarily used in finance systems} %
+\Clue{5}{RUBY}{An object oriented shiny rock} %
+\Clue{6}{CAMELCASE}{capitaliseAndRemoveAllSpaces} %
+\Clue{7}{COMPILER}{Developed by Grace Hopper} %
+\Clue{8}{LOOPS}{While, for, etc} %
+\Clue{10}{SPAGHETTI}{Bad code can be compared to this food} %
+\Clue{12}{LIFO}{Pez-like stack} %
+\Clue{14}{HASKELL}{No side effects} %
+\end{PuzzleClues} %
+
+\begin{PuzzleClues}{\textbf{Down}} %
+\Clue{2}{DOUBLE}{Holds real numbers} %
+\Clue{4}{OBJECTORIENTED}{e.g. Java} %
+\Clue{9}{VARIABLE}{x} %
+\Clue{11}{PYTHON}{Non venomous and kind to newcomers} %
+\Clue{13}{RUST}{Mozilla Research design} %
+\end{PuzzleClues} %
+
+Brain Teasers
+-------------
+
+A.
+:   Five CSE students are eating lunch together after an exhausting
+    COMP4121 lecture, all following their usual routine of alternating
+    between thinking about algorithms and eating delicious noodles,
+    individually switching between activities whenever the mood strikes
+    them. They're sitting in a circle in the quad setting out their food
+    when they realise that they have a problem: they've only been given five
+    chopsticks between them.
+
+    Being CSE students, they're both averse to unnecessary exertion and
+    very fair-minded, so it is decided that each student will receive one
+    chopstick, which they each lay down to their left side. None of them
+    want to embarass themselves by attempting to eat with only one
+    chopstick, but they all know each other fairly well and so will
+    happily take turns sharing the chopsticks.
+
+    Is there a procedure or set of rules which, if adopted by all of the
+    students, will make sure that none of them starve regardless of how
+    long they remain there? (You may assume that the students have
+    infinite appetite and infinite noodles.)
+
+B.
+:    FMTYU IUNPG LDUAP JCEIE WZVIQ REAYM IAIPG ZIRKM JCDYZ AJYZN HENNT
+    UTLGT TFZOY SSGUW PMUAS RFFQY AUUAD IOLXT GDJCM TUBDV YTAEW OWJLS UGDPR
+    GXORZ HZLEE IQWQK HVLJA TEAKV ZIOLX T
+
+\raggedcolumns\vfill
+
+Takuzu
+------
+
+The goal of this problem is to fill the grid with 1 and 0.  The rules
+of the game are:
+
+1. each line has the same number of 1s and 0s;
+2. no more than two consecutive cells may contain the same digit; and
+3. each row and each column have to be unique.
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |.
+|[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]1|[][f]0 |.
+|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][f]1 |.
+|[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][Sf]1|.
+|[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |.
+|[][Sf]0|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|.
+|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |.
+\end{Puzzle}
+
+\vfill\begin{center}
+{\it Solutions in issue 103!}
+\end{center}
+

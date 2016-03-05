@@ -3,12 +3,16 @@ title: Printcrime
 author: Cory Doctorow
 ---
 
+\endmulticols\LRmulticolcolumns\vfill\pagebreak
+
 Printcrime
 ==========
 
-This story is part of Cory Doctorow's 2007 short story collection "Overclocked: Stories of the Future Present," published by Thunder's Mouth, a division of Avalon Books. It is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 license.
+\multicols{2}
 
-(Originally published in Nature Magazine, January 2006)
+*This story is part of Cory Doctorow's 2007 short story collection "Overclocked: Stories of the Future Present," published by Thunder's Mouth, a division of Avalon Books. It is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.5 license.*
+
+*(Originally published in Nature Magazine, January 2006)* 
 
 The coppers smashed my father's printer when I was eight. I remember the hot, cling-film-in-a-microwave smell of it, and Da's look of ferocious concentration as  he filled it with fresh goop, and the warm, fresh-baked feel of the objects that came out of it.
 
@@ -33,3 +37,18 @@ He grinned. "I'm not stupid, Lanie. I've learned my lesson. There's no hat or la
 I felt a guilty pang about ticking him off. He was off his rocker, that much was clear. God knew what he went through in prison. "What, Da?" I said, leaning in close.
 
 "Lanie, I'm going to print more printers. Lots more printers. One for everyone. That's worth going to jail for. That's worth anything."
+
+
+\vfill
+\endmulticols\LRmulticolcolumns
+
+\begingroup\center\vfill
+\includegraphics[width=.75\linewidth]{images/xkcd456.png}
+
+This really is a true story, and she doesn't know I put it in my comic because her
+wifi hasn't worked for weeks.
+
+\textsf{\small{}xkcd 456 // Randall Munroe // CC-BY-NC 2.5}
+
+\endgroup
+

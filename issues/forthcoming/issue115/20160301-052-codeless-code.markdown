@@ -1,9 +1,14 @@
 ---
 title: The Small Stuff
+author: Qi, The Codeless Code // CC-BY-NC 2.5
 ---
+
+\endmulticols
 
 Case 1: The Small Stuff
 =======================
+
+\multicols{2}
 
 For three days and nights the Java master did not emerge from his cubicle. On the fourth day the monks of the temple sent a novice to inquire after him.
 
@@ -15,8 +20,6 @@ The novice said, “You preach often about the importance of setting priorities.
 
 Without saying a word, the master raised his staff and brought it down hard upon the bare left foot of the novice, breaking his smallest toe. The novice screamed in pain and staggered from the cubicle. In that moment, the novice was enlightened.
 
-\begin{center}
-\includegraphics[width=0.75\linewidth]{images/foot.jpg}
-\end{center}
+\includegraphics[width=0.9\linewidth]{images/foot.jpg}
 
-\byline{Qi,~The~Codeless~Code}
+\byline{Qi, The Codeless Code // CC-BY-NC 2.5}

@@ -1,9 +1,10 @@
 ---
 title: CSESoc Heads 2016
 date: 2015-03-18
+author: Emily Olorin
 ---
 
-\endmulticols\pagebreak
+\endmulticols\LRmulticolcolumns\vfill\pagebreak
 
 The CSESoc Team, 2016
 =====================
@@ -17,8 +18,8 @@ Co-Presidents
 -------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-lav.png] (A) {};
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-jake.png] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/lav.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/jake.jpg] (A) {};
 
 {\it \textbf{Lavender~Chan} \\
   \& \textbf{Jake~Bloom}}
@@ -37,7 +38,7 @@ Secretary
 ---------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-carmen.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/carmen.jpg] (A) {};
 
 {\it \textbf{Carmen~Wang}}
 \end{center}
@@ -45,18 +46,19 @@ Secretary
 With the aid of her mighty enforcer, Carmen keeps everyone honest and
 organised in the role of secretary.  Keeping tabs on everything and
 everyone, you can count on her to know the minutiae of any and all
-goings-on of the society. Ask her about Neko Atsume.
+goings-on of the society. 
 
 Treasurer
 ---------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-steven.png] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/steven.jpg] (A) {};
 
 {\it \textbf{Steven~Strijakov}}
 \end{center}
 
-Pioneering efforts in reducing CSESoc's funding footprint, 
+Pioneering efforts in reducing CSESoc's funding footprint by moving 
+the print to his own feet (don't ask), 
 Steven brings to the table all his skill and ingenuity to
 keeping the weekly barbecue funded. 10 points to Griffindor
 for pronouncing his name right on your first try.
@@ -65,7 +67,7 @@ Arc Delegate
 ------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-david.png] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/david.jpg] (A) {};
 
 {\it \textbf{David~Sison}}
 \end{center}
@@ -80,11 +82,11 @@ Social Heads
 ------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-george.jpg] (A) {};
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-jath.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/george.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/jath.jpg] (A) {};
 
-{\it \textbf{George~Mountakis}, 2nd Year Computer Science \\
-  \& \textbf{Jathurson~Subachandran}, 2nd Year Computer Science}
+{\it \textbf{George~Mountakis} \\
+  \& \textbf{Jathurson~Subachandran}}
 \end{center}
 
 Two classy individuals are the masterminds of a whole raft of
@@ -102,9 +104,9 @@ Publicity Head
 --------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-nicola.png] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/nicola.jpg] (A) {};
 
-{\it \textbf{Nicola~Gibson}, 3rd Year Software Engineering}
+{\it \textbf{Nicola~Gibson}}
 \end{center}
 
 Nicola is _still_ active in just about everything, and this year,
@@ -116,7 +118,7 @@ Beta Head
 ---------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-emily.png] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/emily.jpg] (A) {};
 
 {\it \textbf{Emily~Olorin}}
 \end{center}
@@ -130,7 +132,7 @@ Dev Head
 --------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-nick.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/nick.jpg] (A) {};
 
 {\it \textbf{Nicholas~Whyte}}
 \end{center}
@@ -146,7 +148,7 @@ CompClub Head
 -------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-joseph.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/joseph.jpg] (A) {};
 
 {\it \textbf{Joseph~Hilsberg}}
 \end{center}
@@ -160,7 +162,7 @@ DevSpace Head
 -------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-john.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/john.jpg] (A) {};
 
 {\it \textbf{John~Wiseheart}}
 \end{center}
@@ -174,8 +176,8 @@ TalkShops Heads
 ---------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-adam.png] (A) {};
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-daniel.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/adam.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/daniel.jpg] (A) {};
 
 {\it \textbf{Adam~Tizzone} \\
   \& \textbf{Daniel~Phillips}}
@@ -195,7 +197,7 @@ Student Network Head
 --------------------
 
 \begin{center}
-\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/heads-jesse.jpg] (A) {};
+\tikz\node[circle,inner sep=.125\linewidth,fill overzoom image=images/jesse.jpg] (A) {};
 
 {\it \textbf{Jesse~Zhang}}
 \end{center}
