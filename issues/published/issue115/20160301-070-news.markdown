@@ -1,0 +1,65 @@
+---
+title: News
+---
+
+\endmulticols\LRmulticolcolumns
+
+The News
+========
+
+\multicols{2}
+
+__This Apple Is Cursed: FBI.__
+Over the summer, we've been following the unfolding disaster of
+legalese and personal privacy that is the court battle between Apple
+and the United States FBI over backdooring cryptographic protections
+in iOS.  A huge number of parties have come out in support for, and
+against, the FBI's proposed measures; we'll have more a comprehensive
+wrap-up in coming weeks.
+
+__Facebook Reactions: "Humanity in Six Emotions."__
+The ever-ubiquitous "Like", a long-time byword for the world's single
+largest active social network, got an overhaul; now, instead of just a
+singular like, you can have one of a (carefully curated) range of
+emotions.  This should, they hope, keep contentless comments to a
+minimum.  You may enjoy the "Ironic" button below this item.
+
+__Accelerated Mobile Pages comes to Google, WordPress.__
+The search giant is now flagging content using the AMP spec as being
+"mobile-friendly", and with 25% of content powered by the blog
+engine/remote code execution vulnerability, this puts the push on a
+leaner Web going forward.  Who knew that stripping a gigabyte of
+miscellaneous JavaScript improved performance?
+
+__Edgy sequel to 'Blade Runner' confirmed.__
+Finally, it's been confirmed: Ridley Scott has assembled a sequel, to be
+written by Hampton Fancher, directed by Denis Villeneuve, and starring Harrison
+Ford and... Ryan Gosling? The masterwork's successor will be released on 12
+January, 2018 in North America.
+
+__New flagships from Samsung and LG.__
+Traces of innovation have been found in the Galaxy S7 and LG G5, with
+sharper displays, more cameras, water resistance, snappier processors,
+and fatter memory and storage, it's looking like 2016 is the year to
+watch in the smartphone arena.
+
+__Huge SSDs hitting the shelves.__
+Samsung is also touting a 15.36 TB drive at the forefront of its new
+high-capacity enterprise SSD range, the PM1633a series; they claim it'll
+clock 1.2 GB/s sequential read and 200 kIOPS of random read. and will
+handle a full drive write per day for "several" years.  If you're in
+enterprise storage, drool away; the price tag is expected to be in the
+several thousand dollar range.
+
+__SpaceX launches a rocket!__
+After a week of five launch scrubs, SpaceX launched an unmanned Falcon 9,
+towing a telecommunications satellite into Earth's constellation of orbiting
+debris, before returning, though sadly not landing, to the sea.
+
+__2016, now in beta.__
+No use beta-ing a dead horse: Emily Olorin has taken over CSE's favourite
+magazine, and is turning it to all kinds of evil and hopefully minimally
+tentacled deeds.
+
+
+\byline{Jashank~Jeremy}

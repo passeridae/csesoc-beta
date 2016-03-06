@@ -38,8 +38,6 @@ I felt a guilty pang about ticking him off. He was off his rocker, that much was
 
 "Lanie, I'm going to print more printers. Lots more printers. One for everyone. That's worth going to jail for. That's worth anything."
 
-
-\vfill
 \endmulticols\LRmulticolcolumns
 
 \begingroup\center\vfill
@@ -52,3 +50,4 @@ wifi hasn't worked for weeks.
 
 \endgroup
 
+\multicols{2}

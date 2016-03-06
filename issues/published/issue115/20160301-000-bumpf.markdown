@@ -18,7 +18,6 @@ Got some good content? Email us!\\
   Emily~Olorin \\
   Sharif~Olorin \\
   Jashank~Jeremy \\
-  Carmen~Wang \\
 \par{\bf\sffamily Puzzle Wranglers}\\ Emily~and~Sharif~Olorin
 \par{\bf\sffamily News Chaser} \\ Jashank~Jeremy
 \end{center}
