@@ -1,0 +1,31 @@
+---
+Entertainment
+---
+
+\endmulticols
+
+Here, Have Some Puzzles
+=======================
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{images/zombie.png}
+
+\includegraphics[width=1.1\linewidth]{images/skull.pdf}
+
+\includegraphics[width=0.9\linewidth]{images/fforecast.png}
+
+Oh, definitely not: they don't have Amazon Prime.
+
+\textsf{\small{}xkcd 1245 // Randall Munroe // CC-BY-NC 2.5}
+
+\hfill
+
+\includegraphics[width=0.9\linewidth]{images/clock.png}
+
+After a power outage at the Bulletin of the Atomic Scientists, the new Digital Doomsday Clock is flashing 00:00 and mushroom clouds keep appearing and then retracting once a second.
+
+\textsf{\small{}xkcd 1655 // Randall Munroe // CC-BY-NC 2.5}
+
+\end{center}
+
+\multicols{2}

@@ -1,0 +1,52 @@
+---
+title: Editorial
+---
+
+\vspace*{-1em}
+
+First Year Camp
+===============
+
+\multicols{2}
+
+\begin{center}
+\tikz\node[circle,inner sep=.15\linewidth,fill overzoom image=jake.jpg] (A) {};
+
+{\it \textbf{Jake~Bloom}}
+
+0404~173~408
+\end{center}
+
+\vfill
+
+\begin{center}
+\tikz\node[circle,inner sep=.15\linewidth,fill overzoom image=lav.jpg] (A) {};
+
+{\it \textbf{Lavender~Chan}}
+
+0488~022~373
+\end{center}
+
+\vfill\columnbreak
+
+\begin{center}
+\tikz\node[circle,inner sep=.15\linewidth,fill overzoom image=george.jpg] (A) {};
+
+{\it \textbf{George~Mountakis}}
+0401~316~156
+\end{center}
+
+\vfill
+
+\begin{center}
+\tikz\node[circle,inner sep=.15\linewidth,fill overzoom image=jath.jpg] (A) {};
+
+{\it \textbf{Jath~Subachandran}}
+
+0411~225~406
+\end{center}
+
+\vfill\endmulticols
+\LRmulticolcolumns
+\multicols{2}
+

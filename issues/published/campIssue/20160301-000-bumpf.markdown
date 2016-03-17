@@ -1,0 +1,11 @@
+---
+title: 'bumpf'
+date: 2016-03-18
+---
+
+\endmulticols
+\LRmulticolcolumns
+\begin{center}
+\includegraphics[width=\linewidth]{program.png}
+\end{center}
+\pagebreak
