@@ -1,0 +1,167 @@
+---
+title: Puzzles
+author: Emily Olorin
+date: 2016-03-21
+---
+
+\endmulticols\vfill\pagebreak
+
+Puzzles
+=======
+
+\multicols{2}\raggedcolumns
+
+Crossword
+---------
+
+\vspace{-4em}\begin{Puzzle}{15}{16}
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |[1]N |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |[2]P |*    |A    |*    |[3]C |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |U    |*    |G    |*    |H    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[4]U |P    |T    |I    |M    |E    |*    |*    |[5]V |*    |*    |.
+|*    |*    |[6]W |*    |*    |P    |*    |O    |*    |F    |*    |*    |I    |*    |[7]V |.
+|*    |[8]T |I    |C    |K    |E    |T    |S    |*    |*    |*    |*    |R    |*    |M    |.
+|*    |*    |R    |*    |*    |T    |*    |*    |*    |*    |*    |*    |T    |*    |W    |.
+|*    |*    |E    |*    |*    |*    |*    |*    |*    |[9]B |A    |C    |U    |L    |A    |.
+|*    |*    |[10]S|C    |A    |L    |I    |N    |G    |*    |*    |*    |A    |*    |R    |.
+|*    |*    |H    |*    |*    |*    |*    |*    |*    |*    |*    |*    |L    |*    |E    |.
+|*    |*    |A    |*    |[11]P|*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|[12]V|E    |R    |S    |I    |O    |[13]N|C    |O    |N    |T    |R    |O    |L    |*    |.
+|*    |*    |K    |*    |N    |*    |G    |*    |*    |*    |*    |*    |X    |*    |*    |.
+|*    |*    |*    |*    |G    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |X    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}}
+\Clue{4}{UPTIME}{Measure of stability that will haunt your waking hours}
+\Clue{8}{TICKETS}{Less exciting now they're not to concerts}
+\Clue{9}{BACULA}{Backups with a side of fish}
+\Clue{10}{SCALING}{Ability to handle growth}
+\Clue{12}{VERSIONCONTROL}{Git is used for this}
+\end{PuzzleClues}
+\vspace{-1em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{NAGIOS}{“\_\_\_\_\_\_ Ain't Gonna Insist On Sainthood"}
+\Clue{2}{PUPPET}{Automation, with you pulling the strings}
+\Clue{3}{CHEF}{Like {2}, with more food involved}
+\Clue{5}{VIRTUALBOX}{Virtual machine, first released in 2007}
+\Clue{6}{WIRESHARK}{Network analyser in the form of an aquatic predator}
+\Clue{7}{VMWARE}{{3} with a pricetag}
+\Clue{11}{PING}{Lag, outside gaming}
+\Clue{13}{NGINX}{Proxy server, engine in disguise}
+\end{PuzzleClues}
+\vspace{-1em}
+
+Takuzu
+------
+
+\hfill
+
+\begin{Puzzle}{10}{10}
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]1|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|.
+|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|.
+|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|[][f]1 |.
+|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|.
+|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |.
+|[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|.
+\end{Puzzle}
+\vspace{-2em}
+
+
+Brain Teasers
+-------------
+
+A.
+:    Suppose you have two variables, a and b. How can you swap their values without 
+     using a temporary variable and also without using the bitwise operator XOR? 
+
+
+B.
+:    You've been coerced into coming to a party with seven of your friends after 
+     exams; a keen observer, you notice that they all shake hands with each other 
+     once they arrive, but never again. How many handshakes occurred during the 
+     party?
+
+
+Issue 115 Solutions
+-------------------
+
+__Brain Teasers__
+
+A:    There are many solutions to this puzzle (called the Dining Philosophers
+      problem) in concurrent systems theory. The original (due to Dijkstra)
+      involves assigning a partial order to the chopsticks and having the
+      students pick up their two chopsticks in order, lowest first - this way
+      at least one student will be able to eat at any one time, and none of
+      the students will starve due to a resource deadlock.
+
+B:    CONGR ATULA TIONS READE RIFYO UENJO YEDTH ISPUZ ZLECH ECKOU TCRYP TOPAL
+      SDOTC OMFOR SOMET RICKI ERONE SSTOP HERES SOMEF ILLER TEXTT OHELP YOUWI
+      THTHE FREQU ENCYA NALYS ISSTO P
+      (key: HAGELIN)
+
+
+__Takuzu__
+
+
+\vspace{-4em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+
+|[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |.
+|[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]1|[][f]0 |.
+|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][f]1 |.
+|[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][Sf]1|.
+|[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |.
+|[][Sf]0|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|.
+|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |.
+
+\end{Puzzle}
+\end{center}
+
+__Crossword__
+
+
+\vspace{-4em}\PuzzleSolution\begin{Puzzle}{20}{20} %
+\PuzzleUnitlength=8pt
+\unitlength=\PuzzleUnitlength
+
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]M |O    |N    |A    |[2]D |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |[3]C |O    |B    |[4]O |L    |*    |*    |*    |*    |O    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |*    |*    |[5]R |U    |B    |Y    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |J    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|*    |*    |*    |[6]C |A    |M    |E    |L    |C    |A    |S    |E    |*    |*    |*    |*    |*    |L    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[7]C |O    |M    |P    |I    |L    |E    |R    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[8]L |O    |O    |P    |S    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |[9]V |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[10]S|P    |A    |G    |H    |E    |T    |T    |I    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |R    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[11]P|*    |*    |*    |*    |[12]L|I    |F    |o    |*    |*    |D    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|Y    |*    |[13]R|*    |*    |*    |A    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|T    |*    |U    |*    |*    |*    |B    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[14]H|A    |S    |K    |E    |L    |L    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|O    |*    |T    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|N    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+
+\end{Puzzle}
+
+\vfill\hfill

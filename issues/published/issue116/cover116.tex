@@ -1,0 +1,57 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\usepackage{fontawesome}
+\date{21 March 2016}
+\makeatletter
+\gdef\the@year{2016}
+\gdef\the@issue{116}
+\setsansfont[Scale=MatchLowercase,
+             BoldFont={RobotoCondensed Regular},ItalicFont={RobotoCondensed LightItalic}]{RobotoCondensed Light}
+
+\begin{document}\thispagestyle{empty}
+\begingroup%
+\vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
+\includegraphics[trim=0mm 20mm 0mm 0mm, clip, width=22cm]{../../style/beta-logo.pdf}%
+\vspace{1em}
+{\sffamily\fontsize{32pt}{32pt}\selectfont --- news from computer science and engineering ---}
+\endgroup\vspace*{3ex}
+
+\begin{multicols}{2}\center
+
+
+
+\tikz\node[circle,inner sep=.27\linewidth,fill overzoom image=images/beta101-logo.png] (A) {};
+\\
+{\sffamily\fontsize{24pt}{24pt}\selectfont \bfseries What's On}
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 2}
+
+\vfill\hfill
+
+\tikz\node[circle,inner sep=.27\linewidth,fill overzoom image=images/linux.png] (A) {}; 
+\\
+{\sffamily\fontsize{24pt}{24pt}\selectfont \bfseries Conferences for Fun and Profit}
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 3}
+\endcenter
+
+\vfill\columnbreak\center
+\tikz\node[circle,inner sep=.27\linewidth,fill overzoom image=images/jargon.jpg] (A) {};
+\\
+{\sffamily\fontsize{24pt}{24pt}\selectfont \bfseries Weekly Jargon Dose}
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 6}\\
+\endcenter
+
+
+\vfill\hfill
+
+\tikz\node[circle,inner sep=.27\linewidth,fill overzoom image=images/beta101-logo.png] (A) {};
+\\
+{\sffamily\fontsize{24pt}{24pt}\selectfont \bfseries Solutions, New Puzzles}
+{\rmfamily\fontsize{14pt}{14pt}\selectfont page 7}
+
+\end{multicols}
+
+\vfill
+
+\fontsize{12pt}{12pt}\makeatletter issue \the@issue\ --- \@date\ --- 16s1 week 2
+
+\end{document}

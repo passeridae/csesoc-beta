@@ -3,10 +3,14 @@ title: The Right Book
 author: Cory Doctorow
 ---
 
+\endmulticols\LRmulticolcolumns\vfill
+
 The Right Book: Part 1
 ======================
 
-Now (-ish)
+\multicols{2}
+
+*Now (-ish)*
 
 The thing that Arthur liked best about owning his own shop was that he could
 stock whatever he pleased, and if you didn't like it, you could just shop
@@ -144,3 +148,5 @@ tea? It's Pu'er. Chinese. Mostly."
 *Tune in for Part 2 next week!*
 
 (Published under the CC license, original available at craphound.com)
+
+\hfill

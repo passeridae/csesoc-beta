@@ -1,0 +1,74 @@
+---
+title: The News
+---
+
+\endmulticols\LRmulticolcolumns\vfill
+
+The News
+========
+
+\multicols{2}
+
+__Malware Madness!__
+Ransomware hits OS X after Transmission, a popular BitTorrent client,
+got pwn'd.  Apple moved quickly to revoke the code-signing certificate
+used for the app, but not quite quickly enough, with another spate of
+hungry hackers holding boxes for ransom.
+
+__Inventor of E-mail Dies.__
+Ray Tomlinson, who developed a small system for transmitting messages
+between users on different computers, passed away last week, aged 74.
+Until his work in 1971–72, electronic mail between networked hosts
+just wasn't possible.
+
+__Creator of R2-D2 Dies.__
+Tony Dyson, special-effects supervisor for the _Star Wars_ franchise,
+and creator of everyone's favourite 'droid, passed away aged 68.
+_[sad beep]_
+
+__Google Becomes moot Point.__
+Founder of 4chan, Christopher `moot` Poole, who last year retired from
+that post, has announced he's joined Google in an as-yet undisclosed
+position, confirmed separately by their VP of Streams, Photos and
+Sharing.
+
+__systemctl start ms-sql-server.service__
+Microsoft have annouced a port of their SQL Server product to Linux,
+for release in mid-2017.  Furthering the radical about-face on policy
+from the company that once likened Linux to cancer, SQL Server joins a
+line-up of other products in the non-Windows and open-source space,
+including the recent Azure Cloud Switch OS, their work on getting
+Linux and FreeBSD up on Hyper-V, and their newly-minted membership of
+the Eclipse Foundation.
+
+__Basslink Woes.__
+Tasmania's main Internet link to the mainland will shut down as
+repairs on Basslink, the undersea HVDC/darkfibre link from Victoria,
+continue.  Basslink have, at last, located the fault that cut Tassie
+power off late last year, and will hopefully bring the island state
+back online... soon.
+
+__Hyper-Definition Olympics.__
+The Olympic Broadcasting Service is touting virtual reality recordings
+of "one key event each day" during the 2016 Olympic Games, a more
+realistic counterpoint to the 22.2-channel surround sound and 8K video
+recordings they also promise.
+
+__AI "close to the territory of divinity."__
+Lee Sedol was last week routed by Google DeepMind's AlphaGo AI in a
+thrilling five-match series in South Korea, with the AI taking four
+matches in ways described by top Go players and national Go
+federations as highly unusual.  Lee forced a 'simple' mistake to take
+the fourth game but for the most part the AI played strong games.
+AlphaGo was awarded an honorary 9th dan by the Korea Baduk
+Association, the highest normally awarded professional ranking, and
+received $1m for the series win, with DeepMind donating it to
+charities.
+
+__Alphabet to flog Boston Dynamics.__
+Yet, on the back of their AI win, Google's parent company Alphabet is
+reportedly looking to divest robotics startup Boston Dynamics, likely
+to Toyota or Amazon.  Speculation is that, like Google Glass, the
+less-than-glowing real world reviews are the cause.
+
+\byline{Jashank~Jeremy}

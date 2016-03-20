@@ -2,8 +2,12 @@
 title: Unknown Unknowns
 ---
 
+\endmulticols\LRmulticolcolumns\vfill
+
 Case 2: Unknown Unknowns
 ========================
+
+\multicols{2}
 
 The Emperor was angered by the defects in the new order processing system he had commissioned, and so dispatched a messenger to the temple, to investigate the monks there.
 
@@ -29,4 +33,17 @@ Said the wisest monk: “All that was observed by the messenger, was understood.
 
 \byline{Qi,~The~Codeless~Code}
 
+\endmulticols\LRmulticolcolumns
 
+\begingroup\center\vfill
+\includegraphics[width=.85\linewidth]{images/xkcd371.png}
+
+Checking whether build environment is sane... Build environment is grinning and holding a spatula. Guess not.
+
+\textsf{\small{}xkcd 371 // Randall Munroe // CC-BY-NC 2.5}
+
+\endgroup
+
+\multicols{2}
+
+\pagebreak

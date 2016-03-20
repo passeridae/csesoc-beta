@@ -1,0 +1,87 @@
+---
+title: Puzzles
+author: Emily Olorin
+date: 2016-03-21
+---
+
+\endmulticols\hfill\pagebreak
+
+Puzzles
+=======
+
+\multicols{2}\raggedcolumns
+
+Crossword
+---------
+
+TOSO
+
+Takuzu
+------
+
+
+Brain Teasers
+-------------
+
+
+
+Issue 116 Solutions
+-------------------
+
+__Brain Teasers__
+
+A:    In a similar manner to the XOR solution, we can use simple addition and 
+      subtraction: a = a + b; b = a - b; a = a - b;
+
+B:    Many people rush to 42, but this is not in fact the answer to everything (life 
+      and the universe, on the other hand...). However, if person A shakes hands 
+      with person B, the inverse (B shaking hands with A) will not occur. Therefore, 
+      the solution is 7+6+5+4+3+2+1=21! You probably wound up watching "Hackers" or 
+      Star Wars, if the parties we go to are any indication.
+
+__Takuzu__
+
+\hfill
+
+\vspace{-4em}\begin{center}
+\PuzzleSolution\begin{Puzzle}{10}{10}
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]1|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|.
+|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|.
+|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|[][f]1 |.
+|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|.
+|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |.
+|[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|.
+\end{Puzzle}
+\vspace{-2em}
+
+
+__Crossword__
+
+\vspace{-4em}\PuzzleSolution\begin{Puzzle}{15}{16}
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |[1]N |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |[2]P |*    |A    |*    |[3]C |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |U    |*    |G    |*    |H    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[4]U |P    |T    |I    |M    |E    |*    |*    |[5]V |*    |*    |.
+|*    |*    |[6]W |*    |*    |P    |*    |O    |*    |F    |*    |*    |I    |*    |[7]V |.
+|*    |[8]T |I    |C    |K    |E    |T    |S    |*    |*    |*    |*    |R    |*    |M    |.
+|*    |*    |R    |*    |*    |T    |*    |*    |*    |*    |*    |*    |T    |*    |W    |.
+|*    |*    |E    |*    |*    |*    |*    |*    |*    |[9]B |A    |C    |U    |L    |A    |.
+|*    |*    |[10]S|C    |A    |L    |I    |N    |G    |*    |*    |*    |A    |*    |R    |.
+|*    |*    |H    |*    |*    |*    |*    |*    |*    |*    |*    |*    |L    |*    |E    |.
+|*    |*    |A    |*    |[11]P|*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|[12]V|E    |R    |S    |I    |O    |[13]N|C    |O    |N    |T    |R    |O    |L    |*    |.
+|*    |*    |K    |*    |N    |*    |G    |*    |*    |*    |*    |*    |X    |*    |*    |.
+|*    |*    |*    |*    |G    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |X    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+

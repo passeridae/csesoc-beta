@@ -1,0 +1,26 @@
+---
+title: editorial
+---
+
+\endmulticols\LRmulticolcolumns\vfill
+
+Editorial
+=========
+
+\multicols{2}
+
+Hello all, and welcome to another edition of Beta. I was hoping for an influx of 
+wonderful written works this week, but alas it seems everyone is getting stuck into 
+uni (or editing) instead! A magazine without content is like bread without flour; 
+difficult, and rather dry. If you're stuck for ideas, why don't you join the Beta 
+Facebook group (under CSESoc Beta), or our magical mailing list, or even come along 
+to a meetup! We don't bite, and you may even come away inspired.
+
+Alternatively, email me, your friendly Beta head. I'm always keen to chat about 
+ideas, or hand out writing tips if you'd like to hear them! Let me know that I'm not 
+shouting into the void (that would be cool of you).
+
+On an unrelated note, this edition of Beta is brought to you by hospital waiting 
+rooms. Enjoy!
+
+\byline{Emily~Olorin}

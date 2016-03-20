@@ -2,8 +2,12 @@
 title: Words of the Week
 ---
 
+\endmulticols\LRmulticolcolumns\vfill
+
 Words of the Week
 =================
+
+\multicols{2}
 
 Every week, we bring you the latest and greatest in Jargon, be it obscure or otherwise. Where does this Jargon come from, you ask? Why, the Jargon Files of course, the internet's favourite place for all things *hacker*. Have fun! These weeks words are:
 
