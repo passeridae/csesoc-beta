@@ -2,8 +2,12 @@
 title: Encapsulation
 ---
 
+\endmulticols\LRmulticolcolumns\vfill
+
 Case 3: Encapsulation
 =====================
+
+\multicols{2}
 
 A young monk, new to the temple, not only declared all his methods public but all his instance variables as well. The head abbot grew weary of rebuking the monk and asked the Java master for advice.
 

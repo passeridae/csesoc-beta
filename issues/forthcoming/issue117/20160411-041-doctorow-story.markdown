@@ -3,10 +3,14 @@ title: The Right Book
 author: Cory Doctorow
 ---
 
+\endmulticols
+
 The Right Book: Part 2
 ======================
 
-+75 years (or so)
+\multicols{2}
+
+*+75 years (or so)*
 
 The kids in the shop were like kids everywhere. That weird, hyperaware thing
 that came from the games they played all the time, even in their sleep; the
@@ -110,7 +114,7 @@ cake."
 
 #
 
-150 years from now(ish)
+*150 years from now(ish)*
 
 The young man blinked his eyes at the coruscating lights and struggled into a
 seated position, brushing off the powdery residue of his creation. "The Story
@@ -160,3 +164,5 @@ depicting the future of bookselling in 50, 100 and 150 years.
 
 
 (Published under the CC license, original available at craphound.com)
+
+\byline{Cory~Doctorow}

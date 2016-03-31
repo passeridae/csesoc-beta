@@ -14,16 +14,19 @@ Puzzles
 Crossword
 ---------
 
-TOSO
+TODO
 
 Takuzu
 ------
 
+TODO
 
 Brain Teasers
 -------------
 
+TODO
 
+\columnbreak
 
 Issue 116 Solutions
 -------------------
@@ -36,12 +39,9 @@ A:    In a similar manner to the XOR solution, we can use simple addition and
 B:    Many people rush to 42, but this is not in fact the answer to everything (life 
       and the universe, on the other hand...). However, if person A shakes hands 
       with person B, the inverse (B shaking hands with A) will not occur. Therefore, 
-      the solution is 7+6+5+4+3+2+1=21! You probably wound up watching "Hackers" or 
-      Star Wars, if the parties we go to are any indication.
+      the solution is 7+6+5+4+3+2+1=21!  
 
 __Takuzu__
-
-\hfill
 
 \vspace{-4em}\begin{center}
 \PuzzleSolution\begin{Puzzle}{10}{10}
