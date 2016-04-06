@@ -7,4 +7,33 @@ Editorial
 
 TODO
 
+As an aside, it turns out that this year's census will not be anonymous and there are a lot of people who aren't very happy about that. Roger Clarke is included, with this to say (from: http://www.rogerclarke.com/DV/Census-2016.html#What):
+
+> People have adopted a number of approaches in previous Census years in order to avoid their personal data being captured during the Census and subsequently abused. 
+>  
+> These approaches are neither encouraged nor discouraged. (It could be unwise for anyone to actively encourage their use, because that might be interpreted as an incitement to break the law). The following information is published, and recommended for re-publication, so that people are informed about the situation. 
+>  
+> 
+>    Avoid being resident in any household on the Census date, Tuesday 9 August 2016
+>    The Census is based on the premises, not the person, and hence if you aren’t resident you shouldn’t be recorded. (It appears that ‘grey nomads’ have had success with this “gone fishin'” approach)
+>    If others in the household are submitting a return, instruct them to leave you off it
+>    (This may cause ructions within a family, but may be entirely appropriate in a shared house or flat.
+>    The wording of the Act leaves open whether the ABS may still have the power to prosecute the objector)
+>    Get an envelope and a form, and send a blank form in
+>    (This will very likely result in successive re-visits from the collector, followed by threatening letters from the ABS. But if enough people were to do it, the volume would be such that the ABS would not have enough resources to follow everyone up)
+>    Avoid being at home when the Collector calls
+>    (This will require great persistence, because Collectors and their supervisors are paid to chase, chase, and chase again)
+>    Be absent or too busy
+>    Whenever the ABS’s contractor calls or arrives, some people make themselves absent or say that they’re too busy, and avoid appointments. (This requires great persistence, because collectors and their supervisors are paid to chase, chase, and chase again. Eventually they may run out of time, although they have the option to argue to the magistrate that your continual busyness constitutes refusal to answer)
+>    Ask lots of questions
+>    These may be about, for example, the process, the questions, the privacy protections, or the security of the data. This may be accompanied by saying or implying that you may be prepared to provide the data once you have satisfactory answers. (Based on experience, the ABS is likely to reply slowly, and with pre-written, carefully-composed and vague text that does not answer your questions. It’s commonly necessary to ask the questions again, and address letters further up the organisation. It’s necessary to sustain your patience over many months until one side or the other gives up)
+>    Provide made-up answers to the particular questions that are of greatest concern
+>    (This is not appropriate for people who do not like to be forced to lie in order to protect their privacy. Moreover, if the intention is to avoid prosecution, the lies need to be subtle enough that the ABS believes them, or considers them too difficult to prove to be lies. On the other hand, because ABS is handling 5-10 million forms, it may be impractical for them to check even for silly answers, let alone for plausible but incorrect answers)
+>    Refuse to provide answers to the particular questions that are of greatest concern
+>    (It is likely that this will not be possible with the online form, so it would be necessary to demand a paper one. This approach appears less likely to lead to prosecution, and it seems likely that the magistrate would be both less likely to convict, and less likely to levy a significant fine)
+>    Refuse to fill in the form
+>    (The ABS has the power to prosecute under Census and Statistics Act ss. 14-15, and to seek fines that the magistrate could choose to apply once, or for every day that the data is not provided. Some prosecutions do take place. In practice, only a very small proportion of the people who have failed to provide the data have ever been charged, and no report has been seen of any large fine being imposed)
+
+
+
 \byline{Emily~Olorin}
