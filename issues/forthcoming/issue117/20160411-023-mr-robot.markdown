@@ -1,0 +1,51 @@
+---
+title: Mr Robot, Review
+author: Jake Bloom
+---
+
+\endmulticols\LRmulticolcolumns\vfill
+
+Are you Seeing This Too?: The Mr Robot Review
+=============================================
+
+\multicols{2}
+
+Hello friend. Hello, friend?
+
+And right off the bat, Mr Robot addresses the anxiety and insecurity that is so prevalent in the industry. Thing is though, this 
+show isn’t trying to provide a commentary on life in the Tech Industry (that’s what ßeta is for!)
+
+Mr Robot is an award winning drama that just finished its first season. The plot of the show centres around Elliot Alderson 
+(Rami Malek), who is a professional security engineer by day, vigilante hacker by night. The series opens to him in his 
+therapist's office, talking about his frustrations with society.
+
+“Oh, I don't know. Is it that we collectively thought Steve Jobs was a great man, even when we knew he made billions off the 
+backs of children? Or maybe it's that it feels like all our heroes are counterfeit. The world itself is just one big hoax. 
+Spamming with our running commentary of bullshit masquerading as insight, our social media faking as intimacy. Or is it that we
+voted for this? Not with our rigged elections, but with our things, our property, our money. I'm not saying anything new. 
+We all know why we do this, not because Hunger Games books makes us happy but because we wanna be sedated. Because it's painful
+not to pretend, because we're cowards. Fuck society.” 
+
+Over the course of the first season, Elliot is taken on an adventure by the mysterious Mr Robot (Christian Slater) where they 
+attempt to bring down “E Corp”, a multinational conglomerate that seems to control banks, social media, retail stores, almost 
+every part of your life. How are they going to take them down? They’re going to hack them.
+
+\begin{center} 
+\includegraphics[width=0.75\linewidth]{images/twoidiots.jpg} 
+\end{center}
+
+I can hear you all groaning now, NCIS’s “Two Idiots, One Keyboard” playing in your minds. But as you watch Mr Robot, you slowly 
+come to the horrifying realisation that somebody involved in the production of the show seriously knows what they are doing. 
+It’s the little things that make the difference, like when Elliott uses a python script to run an exploit, or when two of the 
+main characters have a discussion about the KDE and Gnome window managers, or when Elliot is being asked to hack something 
+overnight, and he says “That will take months of research”. It’s clear there was a lot of consulting in the security industry 
+that went into this, and it makes the show feel really authentic.
+
+The strongest part of Mr Robot, though, is that it makes you think. If you wanted a TV show where you can turn your brain off, 
+mess around on your phone while watching and still get the entire plotline from half paying attention, go watch something else. 
+In this show, every interaction, every word is intentionally placed by Writer, Director and part time lurker on /r/MrRobot, Sam 
+Esmail. The result is a show with enough action, drama and sex to get the general public into it and enough gory technical 
+details to get the nerds into it. I wouldn’t call it “fun for the whole family”, but I would call it “bloody brilliant 
+television”.
+
+\byline{Jake~Bloom}
