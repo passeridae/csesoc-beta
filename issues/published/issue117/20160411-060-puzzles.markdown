@@ -1,0 +1,161 @@
+---
+title: Puzzles
+author: Emily Olorin
+date: 2016-03-21
+---
+
+\endmulticols\hfill\pagebreak
+
+Puzzles
+=======
+
+\multicols{2}\raggedcolumns
+
+Crossword
+---------
+
+\vspace{-8em}
+\begin{Puzzle}{18}{18} %
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |[1]D |*    |*    |*    |*    |*    |*    |*    |[2]E |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |Y    |*    |[3]C |O    |M    |P    |L    |E    |X    |I    |T    |Y    |*    |.
+|*    |*    |*    |*    |*    |N    |*    |O    |*    |*    |*    |*    |*    |P    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |A    |*    |R    |*    |*    |[4]B |*    |*    |O    |*    |*    |*    |*    |.
+|*    |[5]S |*    |*    |*    |M    |*    |R    |*    |[6]F |I    |B    |O    |N    |A    |C    |C    |I    |.
+|[7]O |P    |T    |I    |M    |I    |S    |E    |D    |*    |G    |*    |*    |E    |*    |*    |*    |*    |.
+|*    |A    |*    |*    |*    |C    |*    |C    |*    |*    |O    |*    |*    |N    |*    |[8]P |*    |*    |.
+|*    |R    |*    |*    |*    |P    |*    |T    |*    |*    |*    |*    |*    |T    |*    |S    |*    |*    |.
+|*    |S    |*    |[9]T |U    |R    |I    |N    |G    |M    |A    |C    |H    |I    |N    |E    |*    |*    |.
+|*    |E    |*    |*    |*    |O    |*    |E    |*    |*    |*    |*    |*    |A    |*    |U    |*    |*    |.
+|*    |*    |*    |*    |*    |G    |*    |S    |*    |*    |*    |*    |*    |L    |*    |D    |*    |*    |.
+|*    |*    |*    |*    |*    |R    |*    |S    |*    |*    |*    |*    |*    |*    |*    |O    |*    |*    |.
+|*    |[10]T|H    |E    |T    |A    |*    |*    |*    |*    |*    |*    |*    |*    |*    |C    |*    |*    |.
+|*    |*    |*    |*    |*    |M    |*    |*    |*    |[11]H|A    |M    |I    |L    |T    |O    |N    |*    |.
+|*    |*    |*    |*    |*    |M    |*    |*    |*    |*    |*    |*    |*    |*    |*    |D    |*    |*    |.
+|*    |*    |[12]K|O    |N    |I    |G    |S    |B    |E    |R    |G    |*    |*    |*    |E    |*    |*    |.
+|*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[13]S|T    |R    |I    |N    |G    |M    |A    |T    |C    |H    |I    |N    |G    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}} %
+\Clue{3}{COMPLEXITY}{P and NP classes (no comment on equality)} %
+\Clue{6}{FIBONACCI}{$1,1,2,3,5,8,\ldots$} %
+\Clue{7}{OPTIMISED}{Faster, less memory, more efficient} %
+\Clue{9}{TURINGMACHINE}{Non-ecclesiastical hypothetical computer} %
+\Clue{10}{THETA}{Above and below} %
+\Clue{11}{HAMILTON}{An island with all cities seen once; roads travelled insignificant} %
+\Clue{12}{KONIGSBERG}{Seven bridges, a topological nightmare} %
+\Clue{13}{STRINGMATCHING}{e.g. Knuth-Morris-Pratt} %
+\end{PuzzleClues}
+
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{DYNAMICPROGRAMMING}{Made from recursively overlapping subproblems} %
+\Clue{2}{EXPONENTIAL}{Rabbit breeding} %
+\Clue{3}{CORRECTNESS}{Only total if termination occurs. Partial is still pretty useful though}]
+\Clue{4}{BIGO}{Complexity notation, not little} %
+\Clue{5}{SPARSE}{Lacking infrastructure, not dense} %
+\Clue{7}{PSEUDOCODE}{Like code, but more fake} %
+\end{PuzzleClues}
+
+
+Takuzu
+------
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]1 |.
+|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|.
+|[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][Sf]0|.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][f]0 |[][f]1 |.
+|[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |.
+|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|.
+|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][f]0 |[][Sf]1|[][Sf]1|.
+\end{Puzzle}
+\vspace{-2em}
+
+
+Brain Teasers
+-------------
+
+
+A:   Richard Buckland orders his three grad students to assemble and declares that he will 
+     select his favourite grad student to fix the uptime problem on Open 
+     Learning. In order to win this great honour, the grad students must play a 
+     game that works as follows: the grad students all close their eyes as Richard 
+     Buckland places a hat on their heads, and hear that 
+     each hat is either white or blue. At least one grad student is wearing a blue 
+     hat. The students are able to see the colour of each others hat, but not their 
+     own and are strictly forbidden from talking to each other. The first grad 
+     student to announce the colour of his or her own hat will have the privelage of 
+     spending the next several weeks engaged in dialogue with MongoDB. After a few  
+     minutes, one of the grad students stands and announces the colour of her hat. 
+     What did she say, and how did she know?
+     Note: It is known that Richard Buckland is extremely fair, thus all the grad students 
+     have an equyal chance of winning. Furthermore, you can assume that all the grad 
+     students have a desire to win (poor, misguided creatures).  
+
+B:   I have two children, The youngest is a girl. What is the probability they are
+     both girls? (Hint: Its not 50%)
+
+Issue 116 Solutions
+-------------------
+
+__Brain Teasers__
+
+A:    In a similar manner to the XOR solution, we can use simple addition and 
+      subtraction: a = a + b; b = a - b; a = a - b;
+
+B:    Many people rush to 42, but this is not in fact the answer to everything (life 
+      and the universe, on the other hand...). However, if person A shakes hands 
+      with person B, the inverse (B shaking hands with A) will not occur. Therefore, 
+      the solution is 7+6+5+4+3+2+1=21!  
+
+__Takuzu__
+
+\vspace{-4em}
+\PuzzleSolution\begin{Puzzle}{10}{10}
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|[][Sf]0|[][Sf]1|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]1|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|.
+|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|.
+|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|.
+|[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|.
+|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|[][f]1 |.
+|[][f]1 |[][Sf]0|[][Sf]0|[][Sf]1|[][Sf]1|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]1|[][Sf]0|.
+|[][f]1 |[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |.
+|[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |.
+|[][Sf]1|[][Sf]0|[][Sf]0|[][f]1 |[][Sf]0|[][Sf]1|[][f]1 |[][Sf]0|[][f]1 |[][Sf]0|.
+\end{Puzzle}
+\vspace{-2em}
+
+
+__Crossword__
+
+\vspace{-4em}\PuzzleSolution\begin{Puzzle}{15}{16}
+\PuzzleUnitlength=12pt
+\unitlength=\PuzzleUnitlength
+|*    |*    |*    |*    |*    |*    |*    |[1]N |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |[2]P |*    |A    |*    |[3]C |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |U    |*    |G    |*    |H    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[4]U |P    |T    |I    |M    |E    |*    |*    |[5]V |*    |*    |.
+|*    |*    |[6]W |*    |*    |P    |*    |O    |*    |F    |*    |*    |I    |*    |[7]V |.
+|*    |[8]T |I    |C    |K    |E    |T    |S    |*    |*    |*    |*    |R    |*    |M    |.
+|*    |*    |R    |*    |*    |T    |*    |*    |*    |*    |*    |*    |T    |*    |W    |.
+|*    |*    |E    |*    |*    |*    |*    |*    |*    |[9]B |A    |C    |U    |L    |A    |.
+|*    |*    |[10]S|C    |A    |L    |I    |N    |G    |*    |*    |*    |A    |*    |R    |.
+|*    |*    |H    |*    |*    |*    |*    |*    |*    |*    |*    |*    |L    |*    |E    |.
+|*    |*    |A    |*    |[11]P|*    |*    |*    |*    |*    |*    |*    |B    |*    |*    |.
+|[12]V|E    |R    |S    |I    |O    |[13]N|C    |O    |N    |T    |R    |O    |L    |*    |.
+|*    |*    |K    |*    |N    |*    |G    |*    |*    |*    |*    |*    |X    |*    |*    |.
+|*    |*    |*    |*    |G    |*    |I    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |N    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |X    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+

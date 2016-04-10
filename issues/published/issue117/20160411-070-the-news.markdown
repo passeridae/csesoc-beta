@@ -1,0 +1,90 @@
+---
+title: The News
+Author: jashankj
+---
+
+\endmulticols\LRmulticolcolumns\vfill
+
+The News
+========
+
+\multicols{2}
+
+__GNU/Windows?!__
+The biggest news out of Microsoft lately is the freshly-released
+native Linux environment on Windows 10, allowing users to try
+Ubuntu right out of the box.  This follows hot on the news that
+Xamarin, the company built by the creators of Mono and snaffled up
+last week by Microsoft, was being open sourced.
+
+__We're DOOMed!__
+id Software will be releasing an open beta of the long-awaited new
+_Doom_, scheduled to launch officially in May.  It enters open beta on
+April 15 and wraps up on April 17, but is available to all on all
+platforms.
+
+__WhatsApp encrypted end-to-end.__
+In conjunction with Open Whisper Systems, the massive messaging
+platform WhatsApp has rolled out end-to-end encryption across its
+plethora of active devices and platforms, based on the Signal
+protocol.  Fantastic!
+
+__Chrome extensions defacto standard?__
+Last August, Mozilla announced the Firefox extensions platform would
+be going away in favour of WebExtensions, a Chrome-alike API.  And at
+the tail end of March, Microsoft announced that they would be building
+tools to do the same in Edge.
+
+__Catch an Uber bug-bounty!__
+Uber is starting a 90-day bug bounty program from May 1, reaching out
+to the white-hat community with up to $10k per bug, a loyalty program,
+and a "treasure map".
+
+__xkcd Making Science Fun.__
+US publisher Houghton Mifflin Harcourt's 2017 editions of their
+chemistry, biology and physics textbooks will feature illustrations
+from Randall Munroe, creator of xkcd and author of _Thing Explainer_.
+
+__'Tick, Tock' goes the clock... but Intel changes tack.__
+Fab-ulous chip-maker Intel is switching away from its "tick-tock"
+microprocessor strategy---a die-shrink on the 'tick' and a
+microarchitecture refresh on the 'tock' over two product cycles---to a
+new, three-step plan, labelled 'process-architecture-optimization',
+due to the increasing difficulty of shrinking silicon lithography.
+
+__Swift lands on Linux.__
+Swift, Apple's Objective-C killer, has landed on Ubuntu, with official
+binaries of the Swift 2.2 release shipped for Ubuntu.  It still lacks
+the 'core libraries', but has the LLVM project's 'lldb' debugger, and
+the REPL.
+
+__April is Android Month.__
+A whole slew of new Android devices, including the LG G5, Xiaomi Mi 5,
+Samsung Galaxy S7, Huawei P9, Meizu M3, HTC 10, Oppo R9, Zopo Speed 8,
+and new Sony Xperia handsets, all land in April by happy coincidence
+of the software turnaround from the 'gold master' Android, and the
+hardware turnaround of the new Qualcomm Snapdragon 820, both released
+late in 2015.
+
+__Virtual becomes Reality: Oculus Rift shipping.__
+If you preordered the fantastic VR headset in January, good news!
+Your shiny new Oculus Rift headset is shipping now, with a current
+lead time of three months on new orders.  The Oculus Rift, which rose
+to fame from its Kickstarter in late 2012, has had several development
+previews released over the last three years.
+
+__Call Sweden!__
+The Swedish Tourist Association has launched "The Swedish Number", a
+real phone number you can call to reach... Sweden.  A random Swedish
+person (who, thankfully, will have signed up for the service) will
+answer when you call +46 771 793 336 (that's +46 771 SWEDEN), and talk
+to you about Sweden.
+
+__Self-balancing scooters banned.__
+The Australian Competition and Consumer Commission, acting after a
+number of disasterous failures of 'hoverboards' or self-balancing
+scooters causing smoke, fires, and explosions, has finally issued an
+interim ban of the devices, following over twenty safety recall
+notices due to defective safety measures in their charging systems.
+
+\byline{Jashank~Jeremy}
