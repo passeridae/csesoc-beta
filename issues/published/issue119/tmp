@@ -1,0 +1,67 @@
+Crossword
+---------
+
+\begin{Puzzle}{14}{14} %
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]D |*    |.
+|*    |*    |*    |*    |*    |*    |[2]K |*    |*    |*    |*    |*    |I    |*    |.
+|*    |*    |*    |*    |*    |[3]P |A    |C    |K    |A    |G    |E    |S    |*    |.
+|*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |[4]K |*    |*    |*    |*    |I    |*    |[5]B |I    |N    |A    |R    |Y    |.
+|*    |E    |*    |*    |*    |*    |*    |*    |A    |*    |*    |*    |I    |*    |.
+|[6]G |R    |U    |B    |*    |[7]M |*    |*    |S    |*    |*    |*    |B    |*    |.
+|*    |N    |*    |*    |*    |[8]A |R    |C    |H    |L    |I    |N    |U    |X    |.
+|[9]D |E    |B    |I    |A    |N    |*    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |L    |*    |*    |*    |P    |*    |*    |*    |[10]S|*    |*    |I    |*    |.
+|*    |*    |*    |[11]R|*    |A    |*    |[12]F|L    |U    |X    |B    |O    |X    |.
+|*    |*    |*    |O    |*    |G    |*    |*    |*    |D    |*    |*    |N    |*    |.
+|*    |[13]G|N    |O    |M    |E    |*    |*    |*    |O    |*    |*    |*    |*    |.
+|*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+
+\vspace*{-2em}
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}} %
+\Clue{3}{PACKAGES}{"apt-get install"} %
+\Clue{6}{GRUB}{Wriggly bootloader} %
+\Clue{8}{ARCHLINUX}{Allows you to use PacMan whilst doing work} %
+\Clue{9}{DEBIAN}{"The Universal Operating System"} %
+\Clue{12}{FLUXBOX}{*box} %
+\Clue{13}{GNOME}{Short, user friendly desktop environment} %
+\end{PuzzleClues}
+
+\vspace*{-2em}
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{DISTRIBUTION}{Makes up an OS. Also, binomial \_\_\_\_.} %
+\Clue{2}{KALI}{Pentesting distro} %
+\Clue{4}{KERNEL}{At the centre of an OS} %
+\Clue{5}{BASH}{Unix shell, good for percussive maintenance} %
+\Clue{7}{MANPAGE}{Documentation galore, commandline accessed} %
+\Clue{10}{SUDO}{\_\_\_\_ make me a sandwich.} %
+\Clue{11}{ROOT}{Superuser, like carrots} %
+\end{PuzzleClues}
+\vspace*{-1em}
+
+Takuzu
+------
+
+The goal of this problem is to fill the grid with 1 and 0.  The rules
+of the game are:
+
+1. each line has the same number of 1s and 0s;
+2. no more than two consecutive cells may contain the same digit; and
+3. each row and each column have to be unique.
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |.
+|[][f]0 |[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]0 |.
+|[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+\end{Puzzle}
+\vspace*{-2em}

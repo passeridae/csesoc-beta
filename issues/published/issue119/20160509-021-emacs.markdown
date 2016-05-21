@@ -1,0 +1,71 @@
+\endmulticols\LRmulticolcolumns\hfill
+
+Emacs Is My Life
+================
+
+\multicols{2}
+
+Emacs is a powerful, extensible family of text editors.  All feature
+real-time display, powerful keyboard shortcuts, exceptionally flexible
+configuration, and programmable editing.
+
+Unlike Vim, Emacs is not modal: you can always insert text.  To send
+commands to manipulate text, you use (sequences of) combinations of
+keys and modifiers, much as if you were using the shortcuts in gedit
+or any other editor, or really any other tool that people use
+day-to-day, like web browsers, word processors, or even shells.  It
+seems unreasonable, when the majority of our terminals (and computers)
+are faster than teletypes, to ignore modifier keys.
+
+In fact, most shells are by default in an Emacs-like line-editing
+mode, so you could even try line-editing commands like Ctrl-A and
+Ctrl-E (which Emacs (and its users) would refer to as _C-a_ or _C-e_),
+to jump around the line.  The bindings are all fairly reasonable, too,
+as you can see on the cheat-sheet, and if you don't like them, you can
+remap them.  It can even tell you what the bindings are, what they do,
+and how to configure them further, all in the editor, and there's a
+built-in tutorial that walks you through getting started with Emacs.
+
+The reason I like Emacs, and I suspect many of its ardent fans would
+have similar reasons, is twofold: the majority of Emacsen are built on
+the Lisp programming language, one of the oldest, most powerful, and
+most flexible languages, and as a result of this and the extension
+facilities that are a natural side-effect of the editor's design, it
+becomes possible to implement all sorts of features into it, even
+above and beyond manipulating text.
+
+So, for instance, I'm currently writing Markdown with on-the-fly
+spell-checking and correction, grammar checking as I type, indicative
+syntax highlighting, a live word counter, a live preview in the
+built-in web browser, automatic paragraph flowing, and word completion
+from customisable dictionaries.
+
+Then, I can flip over to my to-do list and flag that I'm no longer
+spending time on this task (and that it's complete; it automatically
+gets refiled), then email the file straight to Emily, before jumping
+on IRC, and writing some C with syntax highlighting and checking on
+the fly, type-aware automatic completion from static semantic
+analysis, automatic indentation, and automatic punctuation pairing,
+with powerful version-control integration to a range of systems.
+
+And there's more, including powerful calculators, mail and news
+readers, document and archive display and manipulation, text
+comparison and merging, and an ELIZA-like psychotherapist.
+
+And I can do all this without switching applications, let alone using
+a mouse... and I could even do this all on Microsoft Windows,
+natively.
+
+Lots of people say, sometimes in jest, that Emacs is an excellent
+operating system lacking a good text editor; but that, too, is a lie,
+because Emacs has reasonably good Vi and CUA keybinding emulation,
+too, so even if you're not totally comfortable with Emacs' keyboard
+shortcuts, you can use shortcuts you recognise.
+
+So, if you want an editor that's powerful, flexible, extensible,
+configurable, well-documented, and friendly, try Emacs!
+
+\byline{Jashank~Jeremy}
+
+Watch my workshop at `youtu.be/IzLUf9AqY1Y`;
+catch the slides at `cl.ly/ff3n`.

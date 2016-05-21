@@ -1,0 +1,107 @@
+\endmulticols\LRmulticolcolumns\hfill
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+9 May
+:    Optiver BBQ and Tech Talk\hfill\bcalSocial{} 
+
+     _12:30--4pm, John Lions Garden K17_
+
+    Optiver is a leading global market maker. We trade on the financial markets
+    using our own capital and at our own risk. While Trading is our core business at
+    Optiver, this is not possible without our team of IT experts. Their goal is to
+    build and release the platforms that we trade on. We aim to run the fastest and
+    most reliable systems in the market, systems that are also flexible enough to
+    respond quickly to change. Come and hear more about what we do and where you
+    could fit in! We're on the hunt for passionate final year students to join our
+    team as a Graduate Software Developer or Graduate Trading Systems Engineer, so
+    this is the perfect chance to kickstart a career with us. Former CSESoc alumni
+    Will Korteland will be at the BBQ and the event to answer any of your questions
+    - So feel free to come prepared!
+
+
+19 May
+:    Intro to Front End Web Dev Workshop\hfill\bcalTech{}
+ 
+     _1--2pm, the Seminar Room K17_
+
+    If you've ever been interested in web development then this is the workshop for 
+    you!
+
+    We're going to cover basic html, css and bootstrap, as well as font awesome, 
+    hover.css and some other useful tools. By the end of the workshop, you will have 
+    the skills and knowledge to make the front-end for almost any type of website, 
+    and a responsive personal portfolio website on which to show your new creations 
+    off!
+
+    The only thing you need to bring is a laptop with a plain text editor like 
+    Sublime Text if you plan on following along. We hope to see you all there!
+
+    P.S. If you're keen to get extra prepared then check out emmet.io and add it to 
+    your favourite text editor to save yourself from having to type as much html.
+
+    Visit the Facebook event at https://www.facebook.com/events/1579231672407057/
+
+10 May
+:    CSESoc and CSE Revue go to Med Revue\hfill\bcalSocial{} 
+
+     _7:20pm--late, Science Theatre_
+
+
+    CSESoc and CSE Revue are teaming up once again to watch Med Revue. We're meeting 
+    outside the door, 10 minutes before opening, and buying tickets as a group for 
+    $10 each.
+
+    Grab your sonic scalpels, hop into the TARDIS and head to the Science Theatre to 
+    watch the student run comedy sketch show that is out of this world! With dances 
+    that will knock off your bow ties, spine-tingling singing and acting the likes 
+    of which will leave you in stitches, Med Revue is a night of entertainment you 
+    won't want to miss!
+
+    Visit the Facebook event https://www.facebook.com/events/121952284876074/
+
+Now
+:    Hoodies pre-order 
+
+
+    Voting is closed, and now pre-ordering is open for CSESoc's new hoodie! 
+    Congratulations to Nevin Lazarus for his winning design, and to Nathan Zhen, 
+    Rachel Li, Andrew Semler and Adam Chyb for being runner-ups.
+
+    Pre-ordering a hoodie gets you the special price of $30 (rather than $35), as 
+    well as ensuring there will be a hoodie in your size.
+
+    Check out www.csesoc.unsw.edu.au/merch/ for more information on pre-ordering!
+
+8 May
+:    Google Anita Borg Scholarship
+
+
+    Dr. Anita Borg devoted her adult life to dismantling barriers that keep women 
+    and minorities from entering computing and technology fields. As part of 
+    Google's ongoing commitment to furthering Anita's vision, we are pleased to 
+    announce The 2016 Google Anita Borg Memorial Scholarship: Asia Pacific.
+
+    Through the scholarship, we aim to encourage women to excel in computing and 
+    technology, and become active role models and leaders. Scholarship recipients 
+    from Asia Pacific who have demonstrated impressive leadership and a commitment 
+    to advancing women in the field will also be invited to an all-expense-paid 
+    retreat in India, at our Google Hyderabad office from August 30th to September 
+    2nd 2016.
+
+    If you're eligible - apply for the scholarship!
+
+\hfill
+\endmulticols\LRmulticolcolumns
+\begingroup\center\vfill
+\includegraphics[width=0.85\linewidth]{images/225.png}
+
+Later we'll dress up like Big Oil thugs and jump Ralph Nader.
+
+\textsf{\small{}xkcd225 // Randall Munroe // CC-BY-NY 2.5}
+
+\endgroup
+\multicols{2}

@@ -15,11 +15,9 @@ title: Sponsors
 \includegraphics[width=0.3\linewidth]{../../sponsors/microsoft.png}
 
 \includegraphics[width=0.3\linewidth]{../../sponsors/atlassian.png}\hspace{2ex}
-\includegraphics[width=0.2\linewidth]{../../sponsors/pwc.png}\hspace{2ex}
 \includegraphics[width=0.3\linewidth]{../../sponsors/palantir.png}
 
 \includegraphics[width=0.2\linewidth]{../../sponsors/facebook.png}\hspace{2ex}
 \includegraphics[width=0.2\linewidth]{../../sponsors/optiver.png}\hspace{2ex}
-\includegraphics[width=0.2\linewidth]{../../sponsors/printzone.png}
 \end{center}
 \multicols{2}

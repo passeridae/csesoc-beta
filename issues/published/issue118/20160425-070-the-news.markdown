@@ -1,0 +1,81 @@
+\pagebreak
+\endmulticols\LRmulticolcolumns
+
+The News
+========
+
+\multicols{2}
+
+__rms to Canonical: Linux + ZFS = No!__
+Canonical is making moves to add support for formerly-Sun's
+fantastic volume manager and file system, ZFS, to Ubuntu 16.04, a move
+that's raised the ire of the Free Software Conservancy _and_
+Richard Stallman because of licensing concerns related to ZFS' Common
+Development and Distribution License, regarded as GPL-incompatible.
+Apple previously introduced, then quietly scrapped, ZFS support for
+OS X, and it's speculated that the same license restrictions
+caused problems in the Cupertino camp.
+
+__EU Antitrust to Google: No!__
+Android is facing the same antitrust problems that Microsoft saw in
+the late 1990's, with the European Commission alleging that users are
+forcibly shepherded towards exclusively using Google's platform and
+products.  Android runs on over 80% of European handsets, and Google
+could face fines of up to 10% of their global annual revenue,
+approximately US$74.5bn.
+
+__NASA 'turns it off and on again', saves deep space probe.__
+The Kepler deep-space observatory, now on its second scientific
+mission searching for exoplanets, suffered a failure that sent it
+into its Emergency Mode.  The exact cause is still unknown, but is
+suspected to be a transient freak-out, and restarting onboard
+computers "appears to have cleared the problem."  Engineering!
+
+__Tesla Model X recall.__
+Tesla Motors has had yet another voluntary recall, with nearly three
+thousand Model X vehicles pulled for third-row seats that could fold
+forward during a crash.  Tesla has rapidly shifted the blame onto the
+third-party supplier that manufactures those seats, and that supplier
+is replacing affected components.  ...but when your seats are fixed,
+you can try to unlock a Mario Kart-esque Rainbow Road!
+
+__Chrome 50: Goodbye, Windows XP!__
+Google Chrome 50 no longer supports Windows XP and Vista, and OS X
+10.6 through 10.8.  Windows XP still commands 10% of the market,
+seventeen years after its launch and two years after Microsoft killed
+it, and is still deployed in enterprise, embedded, and military
+environments.
+
+__Android accessibility awakening, better hands-free.__
+Google is improving access to the Android and Chrome OS platforms with
+speech recognition: in the near future, you can get the Voice Access
+on the Google Play Store, with neat prompts to help users with limited
+mobility get around the touch-first OS.
+
+__Facebook: bots!__
+Facebook is pushing bots into the Messenger platform, likely inspired
+by the raft of developer collaboration tools with powerful and
+friendly bots, and moves by Microsoft to do the same with Skype.
+
+In the high-speed round-up: __Lytro__ have produced a 755 megapixel,
+300 fps behemoth of a cinematic camera, which will make producing
+CGI/live action hybrid footage easier---green-screen sans green.
+Microsoft is shipping a tiny version of __Outlook__ for your Android
+Wear device!  Tasmania's __Basslink__ power and telecoms interconnect
+to be repaired by June, with the forthcoming replacement of nearly 90
+tonnes of undersea cable over 240 metres.  Google update the logo for
+the __Play Music__ streaming audio platform, with a stylised pizza
+slice, and brings podcasts.  Apple refresh the new single-port
+__MacBook__, souping up its processor (the first Apple to land with an
+Intel Skylake-class processor) and memory.  Western Digital lands a
+new line of monster-sized SSDs, the __WD Gold__, targeted at
+high-capacity datacentre applications, in 4, 6, and 8 TB variants.
+__Remix OS__ landed its support for the Google Nexus 9 and 10 tablets,
+giving them windows, and a more conventional desktop paradigm with a
+browseable file system, to give a result resembling a Surface.  The
+world's __tiniest__ open-source Arduino: a ATtiny328 in the same form
+factor as a AA battery!  ___Mr. Robot___ is back, with season 2
+kicking off on July 13; and ___Blade Runner___ has moved up its
+schedule to land in October 2017.
+
+\byline{Jashank~Jeremy}

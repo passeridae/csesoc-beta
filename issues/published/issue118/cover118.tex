@@ -1,0 +1,58 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\usepackage{fontawesome}
+\date{26 April 2016}
+\makeatletter
+\gdef\the@year{2016}
+\gdef\the@issue{118}
+\setsansfont[Scale=MatchLowercase,
+             BoldFont={RobotoCondensed Regular},ItalicFont={RobotoCondensed LightItalic}]{RobotoCondensed Light}
+
+\begin{document}\thispagestyle{empty}
+\begingroup%
+\vspace*{-3.5cm}\centering\hspace*{-2.8cm}%
+\includegraphics[trim=0mm 20mm 0mm 0mm, clip, width=22cm]{../../style/beta-logo.pdf}%
+\vspace{1em}
+{\sffamily\fontsize{32pt}{32pt}\selectfont --- news from computer science and engineering ---}
+\endgroup\vspace*{3ex}
+
+\center
+\includegraphics[trim=0mm 2mm 0mm 2mm, clip,width=\linewidth]{images/tshirts.jpg}
+
+{\sffamily\fontsize{24pt}{24pt}\selectfont {\bfseries ``The Trouble With T-shirts``}: to wear, or not to wear?}%
+\hfill{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 3--4}
+\endcenter
+
+\vfill\center\rule[4pt]{0.75\linewidth}{0.75pt}\\ {\sffamily\fontsize{24pt}{24pt}\selectfont and...}\endcenter\vfill
+
+\vfill
+\center
+\begin{multicols}{4}
+{\fontsize{64pt}{64pt}\selectfont \faicon{calendar}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont find out\\ \bfseries what's on}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 2}
+\vfill\columnbreak
+
+{\fontsize{68pt}{64pt}\selectfont \faicon{edit}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont words of the\\ \bfseries week}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 6}
+\vfill\columnbreak
+
+{\fontsize{64pt}{64pt}\selectfont \faicon{tasks}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont brain-bending\\ \bfseries puzzles}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 7}
+\vfill\columnbreak
+
+{\fontsize{64pt}{64pt}\selectfont \faicon{comments-alt}}\\
+{\sffamily\fontsize{18pt}{28pt}\selectfont catch up on\\ \bfseries technology news}
+
+\vspace*{1ex}{\rmfamily\fontsize{14pt}{14pt}\selectfont\it page 8}
+\vfill\end{multicols}
+
+\fontsize{14pt}{14pt}\makeatletter issue \the@issue\ --- \@date\ --- 15s1 week 6
+\endcenter
+
+\end{document}

@@ -1,0 +1,66 @@
+\pagebreak
+\endmulticols\LRmulticolcolumns\hfill
+
+The News
+========
+
+\multicols{2}
+
+__Wizards of the Coast brings _Magic_ and _D&D_ together.__
+Wizards of the Coast have released _Plane Shift: Zendikar_, which
+allows one of the realms of _Magic: The Gathering_ to become a fifth
+edition _Dungeons & Dragons_ stomping ground.
+
+__LHC downed by... weasel?__
+The Large Hadron Collider has shut down due to a beech marten chewing
+through wiring in a high voltage transformer, cutting power to
+refrigeration that keeps part of the 27 km particle physics toroid a
+few degrees above absolute zero.  The incident occurred days after the
+LHC resumed scientific activities for 2016.  It's expected that
+physics will resume again in May following repairs.
+
+The news comes on the back of CERN's publication of 300 TB of particle
+physics data from the LHC, in raw and "derived" forms, corresponding
+to around half the experiments run by one detector in 2011, which
+followed the release of 17 TB of data produced in 2010.
+
+__NIST prepares Post-Quantum Crypto Competition.__
+The US National Institute of Standards and Technology have announced
+plans for a competition to create quantum-resistant encryption, noting
+that a functional quantum computer renders nearly all current broadly
+deployed cryptographic systems.  The competition will run similarly to
+the SHA-3 Competition, and it's expected that the result will be
+multiple cryptographic systems.
+
+__Phones don't cause cancer!__
+A major USyd study has shown there's no concrete increase in brain
+cancers over the last 29 years, even despite our massive use of mobile
+phones; correlations in increases are attributed to better diagnostic
+techniques.
+
+__Loon crash.__
+Google's Project Loon, which aims to provide Internet connectivity to
+the world through a network of high-altitude balloons, had an
+otherwise-successful flight end with a crash-landing in a field in
+Chile.
+
+__Backblaze releases Storage Pod v6.__
+If you ever felt the urge to store 480 TB of data, backup company
+Backblaze has made it easy for you, with a new sixty-drive version of
+their monster storage system design.  But be warned: fully populating
+one of these puppies will set you back ten to twenty thousand USD.
+Ouch.
+
+__Mozilla pushing Thunderbird out of the nest?__
+The Mozilla Foundation are looking to divest the Thunderbird mail
+client, with the Software Freedom Conservancy (home to Git, Inkscape
+and QEMU), and The Document Foundation (home of LibreOffice), as well
+as The GNOME Foundation and Software in the Public Interest (home of
+Debian), all tipped as potential new, ahem, dovecotes.
+
+__YouTube launching 6-second ads.__
+You may have to wait just a second more, as YouTube prepares to launch
+an unskippable 6-second "bumper" ad format, a drop from the current
+15-second minimum ad length.
+
+\byline{Jashank~Jeremy}

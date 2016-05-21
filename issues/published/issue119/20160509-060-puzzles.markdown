@@ -1,0 +1,177 @@
+\endmulticols\LRmulticolcolumns
+
+Puzzles
+=======
+
+\multicols{2}
+
+Crossword
+---------
+
+\begin{Puzzle}{14}{14} %
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[1]D |*    |.
+|*    |*    |*    |*    |*    |*    |[2]K |*    |*    |*    |*    |*    |I    |*    |.
+|*    |*    |*    |*    |*    |[3]P |A    |C    |K    |A    |G    |E    |S    |*    |.
+|*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |[4]K |*    |*    |*    |*    |I    |*    |[5]B |I    |N    |A    |R    |Y    |.
+|*    |E    |*    |*    |*    |*    |*    |*    |A    |*    |*    |*    |I    |*    |.
+|[6]G |R    |U    |B    |*    |[7]M |*    |*    |S    |*    |*    |*    |B    |*    |.
+|*    |N    |*    |*    |*    |[8]A |R    |C    |H    |L    |I    |N    |U    |X    |.
+|[9]D |E    |B    |I    |A    |N    |*    |*    |*    |*    |*    |*    |T    |*    |.
+|*    |L    |*    |*    |*    |P    |*    |*    |*    |[10]S|*    |*    |I    |*    |.
+|*    |*    |*    |[11]R|*    |A    |*    |[12]F|L    |U    |X    |B    |O    |X    |.
+|*    |*    |*    |O    |*    |G    |*    |*    |*    |D    |*    |*    |N    |*    |.
+|*    |[13]G|N    |O    |M    |E    |*    |*    |*    |O    |*    |*    |*    |*    |.
+|*    |*    |*    |T    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+
+\vspace*{-2em}
+\begin{PuzzleClues}{\textsf{\textbf{Across.}}} %
+\Clue{3}{PACKAGES}{"apt-get install"} %
+\Clue{6}{GRUB}{Wriggly bootloader} %
+\Clue{8}{ARCHLINUX}{Allows you to use PacMan whilst doing work} %
+\Clue{9}{DEBIAN}{"The Universal Operating System"} %
+\Clue{12}{FLUXBOX}{*box} %
+\Clue{13}{GNOME}{Short, user friendly desktop environment} %
+\end{PuzzleClues}
+
+\vspace*{-2em}
+\begin{PuzzleClues}{\textsf{\textbf{Down.}}}
+\Clue{1}{DISTRIBUTION}{Makes up an OS. Also, binomial \_\_\_\_.} %
+\Clue{2}{KALI}{Pentesting distro} %
+\Clue{4}{KERNEL}{At the centre of an OS} %
+\Clue{5}{BASH}{Unix shell, good for percussive maintenance} %
+\Clue{7}{MANPAGE}{Documentation galore, commandline accessed} %
+\Clue{10}{SUDO}{\_\_\_\_ make me a sandwich.} %
+\Clue{11}{ROOT}{Superuser, like carrots} %
+\end{PuzzleClues}
+\vspace*{-1em}
+
+Takuzu
+------
+
+The goal of this problem is to fill the grid with 1 and 0.  The rules
+of the game are:
+
+1. each line has the same number of 1s and 0s;
+2. no more than two consecutive cells may contain the same digit; and
+3. each row and each column have to be unique.
+
+\begin{Puzzle}{10}{10} %
+\PuzzleUnitlength=16pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |.
+|[][f]0 |[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]0 |.
+|[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+\end{Puzzle}
+\vspace*{-2em}
+
+Brainteasers
+------------
+
+A.
+:    The following C program will swap the values referenced by pointers a and b.
+     \begin{verbatim}
+       void f (int *a, int *b) {
+         int t = *a;
+         *a = *b;
+         *b = t;
+       }
+     \end{verbatim}
+
+     Can you do the same using only primitive C operations, and without allocating a 
+     temporary variable? [Hint: think about the binary representation of the values]
+
+B.
+:    You leave your laptop unlocked in K17 one day, getting coffee, and come back to 
+     discover that some jerk (who's been spending too much time in COMP9447) has 
+     just compiled and run the following program on your (linux) computer:
+     \begin{verbatim}
+       int main() {
+         while (1) {
+           fork();
+           malloc(1024*1024);
+         }
+         return 0;
+       }
+     \end{verbatim}
+
+     You discover that you are unable to run any new programs because all your 
+     laptop's available memory has been allocated. However, you discover that you 
+     have a bash shell open as root, and can run commands therein. You try killing 
+     the C program but discover that its children are forking too fast for you to 
+     keep up with, and it does no good - every time you kill one another appears 
+     in its place using the newly freed memory. How can you restore your system to a 
+     usable state without rebooting or killing any non-malicious programs?
+
+Issue 118 Solutions
+-------------------
+
+__Crossword__
+\PuzzleSolution
+\vspace{-4em}\begin{Puzzle}{16}{19}
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|[1]B |*    |*    |*    |*    |[2]T |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|U    |*    |*    |*    |*    |E    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |.
+|[3]S |E    |R    |V    |E    |R    |*    |*    |*    |*    |*    |*    |[4]M |*    |*    |*    |.
+|*    |*    |*    |*    |*    |[5]M |O    |T    |H    |E    |R    |B    |O    |A    |R    |D    |.
+|*    |*    |*    |*    |*    |I    |*    |*    |*    |*    |*    |*    |B    |*    |*    |*    |.
+|*    |*    |*    |*    |[6]I |N    |S    |T    |R    |U    |C    |T    |I    |O    |N    |*    |.
+|*    |*    |*    |*    |*    |A    |*    |*    |*    |*    |*    |*    |L    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |L    |*    |[7]C |H    |I    |P    |S    |E    |T    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |-    |*    |*    |*    |.
+|*    |*    |[8]R |A    |I    |D    |*    |*    |*    |*    |*    |*    |P    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |[9]M |*    |H    |*    |*    |*    |.
+|*    |*    |*    |[10]A|C    |C    |U    |M    |U    |L    |A    |T    |O    |R    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |I    |*    |N    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |N    |*    |E    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |F    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |[11]S|O    |F    |T    |W    |A    |R    |E    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |A    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |*    |*    |*    |*    |*    |*    |*    |M    |*    |*    |*    |*    |*    |.
+|*    |*    |*    |[12]F|I    |R    |M    |W    |A    |R    |E    |*    |*    |*    |*    |*    |.
+\end{Puzzle}
+\vspace{-3em}
+
+__Takuzu__
+\PuzzleSolution\begin{Puzzle}{10}{10}
+\PuzzleUnitlength=14pt
+\unitlength=\PuzzleUnitlength
+|[][f]0 |[][Sf]1|[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |.
+|[][f]0 |[][Sf]1|[][Sf]1|[][f]0 |[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][f]1 |[][Sf]0|.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][f]0 |[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][Sf]0|.
+|[][Sf]1|[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |.
+|[][f]0 |[][f]1 |[][f]1 |[][Sf]0|[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+|[][f]1 |[][f]0 |[][f]0 |[][f]1 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |[][Sf]0|[][f]1 |[][f]0 |[][f]1 |[][f]1 |.
+|[][Sf]1|[][f]0 |[][Sf]1|[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]0 |[][f]0 |.
+|[][Sf]1|[][f]1 |[][f]0 |[][f]0 |[][Sf]1|[][f]0 |[][f]1 |[][f]0 |[][Sf]0|[][f]1 |.
+|[][f]0 |[][Sf]0|[][f]1 |[][f]1 |[][f]0 |[][f]1 |[][f]0 |[][Sf]1|[][f]1 |[][f]0 |.
+\end{Puzzle}
+\vspace{-2em}
+
+
+__Brainteasers__
+
+A.
+:    1. Emily mails Sharif her lock (in an open position). 
+     2. Sharif puts his letter in the box, along with his own lock (open), locks the
+        box with Emily's lock, and mails it. 
+     3. When Emily receives the box, she opens it with her key. After reading 
+        Sharif's letter, she puts her own letter in the box, along with her (open) 
+        lock, and locks it with Sharif's lock. And so on.
+
+B.
+:    If all the degrees of a graph of n vertices are different, they must be 
+     exactly, {0, 1, 2, ...., n-1}. But it is impossible to have a vertex of degree 0
+     (connected to no other vertex) and one of degree n-1, (connected to every other 
+     vertex) simultaneously. Thus there is no such graph, and two vertices must have 
+     the same degree.

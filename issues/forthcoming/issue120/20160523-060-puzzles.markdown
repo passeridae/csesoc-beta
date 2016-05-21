@@ -1,0 +1,37 @@
+
+
+
+
+
+Issue119 Solutions
+------------------
+
+__Brainteasers__
+
+A.
+:    The solution to the swapping connundrum is known as a XOR swap! An example is 
+     below:
+     \begin{verbatim}
+     void g (int *a, int *b) {
+       if (a != b) {
+         *x ^= *y;
+         *y ^= *x;
+         *x ^= *y;
+       }
+     }
+     \end{verbatim}
+
+B.
+:    You could not kill the malicious processes because as soon as the memory was 
+     freed, one of its children would fork a replacement. However, UNIX offers us a 
+     way to stop a process from doing anything, while keeping its resources 
+     allocated. You can send each instance the STOP signal as follows:
+     \begin{verbatim}
+     kill -STOP $offending_process_id
+     \end{verbatim}
+
+     Where $offending_proccess_id is the pid of one of the original processes. You 
+     may then kill the processes at your leisure.
+
+     (Note that even though you cannot run any new processes, this solution works 
+     because kill is a bash builtin and runs within the shell's own process.)

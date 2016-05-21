@@ -1,0 +1,26 @@
+\endmulticols\LRmulticolcolumns\hfill
+
+Why I Love Vim
+==============
+
+\multicols{2}
+
+As a programmer, your text editor is your weapon. With keyboard as conduit you manipulate what you see on screen to realise your thoughts. By honing your skill at wielding a text editor, writing code can become a more fluent process, allowing your thoughts to flow uninterrupted.
+
+The paradigm of modal text editing with Vim is being able to edit at the speed of thought. By using compose-able hotkeys and different modes Vim allows you to move your cursor and achieve your immediate editing task in just a few keystrokes. Commanding Vim is like speaking a language. By chaining different key combos together, you can instruct Vim to manipulate the text in any way you intend - and all without using the mouse.
+
+You may not think it, but using the mouse to edit text is awfully slow. You can think of it as an O(log n) algorithm - you move your mouse in the direction you want, and poll: "are you at the target yet?". This repeats, closing the distance each time, until finally you arrive at the target. Vim is more like a constant O(1) algorithm - press a few keys and land precisely on the target.
+
+The price for Vim's speed and precision is that you can't just pick it up and use it for the first time like you could with Sublime or Gedit, it will take some time to learn and form new habits. However, just type vimtutor into any terminal, and in 20 mins you can learn the basics.
+
+With Vim and with any text editor, the biggest trap is being content with what you already know. You should always try and learn new tricks and faster ways to do things in order to hone your skill and improve your workflow. Why? Because no matter how skilled you become at programming in one language or another, you always use a text editor, and if don't seek to improve your text editing skills alongside your other skills, it will become the rate limiting factor in your workflow. How can you learn new tricks? Well Vim is flexible and powerful. If you ever find yourself repeating a task, there is probably a better way. If you find yourself asking “I wonder if I can do xyz in Vim?”, the answer is most probably “yes”, and you can Google or use Vim’s :help to find out.
+
+Vim is an investment, and an ongoing one, but one that you can guarantee will pay off, so stay hungry - try Vim.
+
+References:
+Drew Neil - Precision Editing at the Speed of Thought `https://vimeo.com/53144573`
+Mike Kozlowski - `https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1`
+
+\byline{Callum Howard}
+
+\pagebreak

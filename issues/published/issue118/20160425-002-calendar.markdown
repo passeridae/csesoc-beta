@@ -1,0 +1,89 @@
+\endmulticols\LRmulticolcolumns\hfill
+
+Upcoming Events
+===============
+
+\multicols{2}
+
+26 April
+:    Deutsche Bank Technology Careers + BBQ\hfill\bcalSocial{} 
+
+    _12--2pm, John Lions Garden K17_
+
+    Meet us on campus to claim your free e-book and learn about Technology career 
+    opportunities at Deutsche Bank.
+
+    Technology careers at Deutsche Bank feed curious minds and put digitally-driven 
+    graduates and interns at the forefront of technological advances. If you're a 
+    forward-looking, analytically minded individual, we would be delighted to meet you 
+    at our on campus event on 26th April.
+
+    As well as claiming a free e-book courtesy of Deutsche Bank, you will have the 
+    chance to talk to our team about Technology career opportunities. Visit the website 
+    at db.com/careers/technology
+
+27 April
+:    Accenture Tech Talk\hfill\bcalTech{}
+ 
+     _12--1pm, the Seminar Room K17_
+
+    Accenture is coming to CSESoc! Come to the K17 Seminar Room at 12pm Wednesday 
+    the 27th of April to learn more about Accenture and meet some of their 
+    fantastic representatives. This is an opportunity not to miss!
+
+    Visit the Facebook event at https://www.facebook.com/events/265137963819245/
+
+29 April
+:    Facebook Live at UNSW\hfill\bcalTech{} 
+
+     _2--4pm, the Seminar Room K17_
+
+    Curious about Facebook's newest feature: Facebook Live?
+
+    Want to learn more about how this tool can help create, share, and discover new 
+    Live videos? Have questions about Facebook engineering, full time or internship 
+    opportunities?
+
+    Join us on campus at University of New South Wales in the K17 Seminar Room for 
+    a deep dive into the infrastructure of Facebook Live with our engineers. Learn 
+    how to use Facebook Live in action. We will also have a panel discussion for 
+    you to learn more about Facebook engineering.
+
+    Start thinking up questions of all the things you have wanted to know about 
+    Facebook but didn't know who to ask.
+
+    Visit the Facebook event at https://www.facebook.com/events/1770435649837379/
+
+2 May
+:    Vim Workshop\hfill\bcalTech{} 
+
+     _2--3pm, Viola/Cello lab (level 3 of J17)_
+
+    Vim is a text editor. It can run in a terminal, over ssh or as it's own app. But 
+    what's the big deal? Well, Vim is quite powerful, and mastering it will allow 
+    you to write code much faster. However, Vim has quite a steep learning curve if 
+    you wish to utilise its full power - that's where this workshop comes in!
+
+    Come along, and learn to edit text at the speed of thought!
+
+    Check out the Facebook event at https://www.facebook.com/events/2007642076128620/
+
+    PS. If you want to come extra prepared, type 'vimtutor' at the terminal. 
+    PPS. If you already know a bit of Vim, feel free to join in too - you might learn something new.
+
+4 May
+:    CSESoc and SUITS go to Skyzone!\hfill\bcalSocial{}
+
+     _6pm, Skyzone Alexandria_
+
+    Hello Members of CSESoc and SUITS!
+
+    On Wednesday the 4th of May, we will be heading to Skyzone in Alexandria! For 
+    this event however there is a limit of 40 spots that are eligible for a price of 
+    $8 (if you're a member of CSESoc or if you have a USYD ACCESS card) otherwise 
+    the price is $12.
+
+    If you miss out on signups, dont fret, normal admittance costs $18, so 
+    definitely still come down to have a great and super fun night!
+
+    Visit the Facebook event at https://www.facebook.com/events/1702880959929616/

@@ -1,0 +1,37 @@
+\documentclass[twoside]{article}
+\usepackage{../../style/csesoc-beta}
+\usepackage{rotating}
+\usepackage{array}
+\date{9th May 2016}
+\makeatletter
+\gdef\the@year{2016}
+\gdef\the@issue{119}
+
+\begin{document}
+\includepdf{cover119.pdf}
+\newpage
+\maketitle\thispagestyle{mag}
+\vspace*{-2em}\section*{CSE{}Soc~βeta, issue \makeatletter\the@issue}
+\begin{multicols}{2}\begingroup\raggedcolumns
+\begin{center}
+A fortnightly publication from CSESoc's Beta team.\\
+Find us online at \textbf{www.csesoc.unsw.edu.au}\\
+Got some good content? Email \textbf{beta@cse.unsw.edu.au}\\
+\par{\bf\sffamily βeta Head}\\ Emily~Olorin
+\par\begin{tabular}{>{\raggedleft}p{0.5\linewidth}>{\raggedright}p{0.5\linewidth}}
+{\bf\sffamily Puzzle Wrangler} & {\bf\sffamily News Chaser}\tabularnewline
+Emily~and~Sharif~Olorin & Jashank~Jeremy\tabularnewline
+\end{tabular}
+\par{\bf\sffamily Contributors}\\
+  Emily~Olorin\hsp{}
+  Jashank~Jeremy\hsp{}
+  Callum~Howard\hsp{}
+  Sharif~Olorin\hsp{}
+\end{center}
+\columnbreak\malcontents\vfill\endgroup
+\end{multicols}\LRmulticolcolumns
+\vspace*{-4em}\begin{multicols}{2}
+
+\input{contents}
+\end{multicols}
+\end{document}
